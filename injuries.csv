@@ -1,0 +1,880 @@
+INJURY_ID,TEAM,DATE,PLAYER,POS,INJURY
+1,PHILADELPHIA 76ERS,04/12/2017,"Saric, Dario",F,Sore left heel
+2,PHILADELPHIA 76ERS,3/30/17,"Covington, Robert",F,Torn meniscus
+3,PHILADELPHIA 76ERS,3/28/17,"Henderson, Gerald",G/F,Sore left hip
+4,PHILADELPHIA 76ERS,3/28/17,"Rodríguez, Sergio",PG,Left hamstring tightness
+5,PHILADELPHIA 76ERS,3/24/17,"Okafor, Jahlil",C,Sore right knee
+6,PHILADELPHIA 76ERS,3/19/17,"Anderson, Justin",SF,Illness
+7,PHILADELPHIA 76ERS,3/19/17,"Okafor, Jahlil",C,Sore right knee
+8,PHILADELPHIA 76ERS,03/10/2017,"Henderson, Gerald",G/F,Sore hip
+9,PHILADELPHIA 76ERS,03/04/2017,"Okafor, Jahlil",C,Sore right knee
+10,PHILADELPHIA 76ERS,03/03/2017,"Henderson, Gerald",G/F,Sore hip
+11,PHILADELPHIA 76ERS,2/15/17,"Covington, Robert",F,Head contusion
+12,PHILADELPHIA 76ERS,02/08/2017,"Holmes, Richaun",F/C,Illness
+13,PHILADELPHIA 76ERS,02/04/2017,"Okafor, Jahlil",C,Sore right knee
+14,PHILADELPHIA 76ERS,02/01/2017,"Covington, Robert",F,Right hand contusion
+15,PHILADELPHIA 76ERS,1/30/17,"Embiid, Joel",F/C,Left knee contusion
+16,PHILADELPHIA 76ERS,1/24/17,"Okafor, Jahlil",C,Right knee soreness
+17,PHILADELPHIA 76ERS,1/20/17,"Embiid, Joel",F/C,Left knee contusion
+18,PHILADELPHIA 76ERS,1/16/17,"McConnell, T.J.",PG,Sore wrist
+19,PHILADELPHIA 76ERS,01/05/2017,"Covington, Robert",F,Lower back contusion
+20,PHILADELPHIA 76ERS,01/05/2017,"Embiid, Joel",F/C,Illness
+21,PHILADELPHIA 76ERS,01/02/2017,"Rodríguez, Sergio",PG,Sprained left ankle
+22,PHILADELPHIA 76ERS,12/30/16,"Okafor, Jahlil",C,Left hamstring tightness
+23,PHILADELPHIA 76ERS,12/27/16,"Henderson, Gerald",G/F,Sore hip
+24,PHILADELPHIA 76ERS,12/24/16,"Stauskas, Nik",G/F,Right knee soreness
+25,PHILADELPHIA 76ERS,12/23/16,"Holmes, Richaun",F/C,Concussion
+26,PHILADELPHIA 76ERS,12/18/16,"Stauskas, Nik",G/F,Sore left knee
+27,PHILADELPHIA 76ERS,12/16/16,"Embiid, Joel",F/C,Sore knee
+28,PHILADELPHIA 76ERS,12/16/16,"Saric, Dario",F,Bruised shin
+29,PHILADELPHIA 76ERS,12/11/2016,"Rodríguez, Sergio",PG,Illness
+30,PHILADELPHIA 76ERS,12/10/2016,"Embiid, Joel",F/C,Right elbow inflammation
+31,PHILADELPHIA 76ERS,12/05/2016,"Covington, Robert",F,Sore knee
+32,PHILADELPHIA 76ERS,12/05/2016,"Okafor, Jahlil",C,Illness
+33,PHILADELPHIA 76ERS,12/02/2016,"Covington, Robert",F,Left ankle sprain
+34,PHILADELPHIA 76ERS,11/28/16,"Bayless, Jerryd",G,Left wrist surgery
+35,PHILADELPHIA 76ERS,11/23/16,"Henderson, Gerald",G/F,Illness
+36,PHILADELPHIA 76ERS,11/19/16,"Embiid, Joel",F/C,Sore ankle
+37,PHILADELPHIA 76ERS,10/24/16,"Bayless, Jerryd",G,Sore wrist
+38,PHILADELPHIA 76ERS,10/24/16,"Splitter, Tiago",C,Right hamstring strain
+39,PHILADELPHIA 76ERS,10/01/2016,"Simmons, Ben",F,Fractured foot
+40,MILWAUKEE BUCKS,3/31/17,"Brogdon, Malcolm",G,Sore back
+41,MILWAUKEE BUCKS,3/22/17,"Henson, John",F/C,Sprained left thumb
+42,MILWAUKEE BUCKS,3/15/17,"Vaughn, Rashad",G/F,Right foot
+43,MILWAUKEE BUCKS,03/10/2017,"Brogdon, Malcolm",G,Sore back
+44,MILWAUKEE BUCKS,03/09/2017,"Teletovic, Mirza",F,Sore hamstring
+45,MILWAUKEE BUCKS,2/27/17,"Beasley, Michael",F,Sprained left knee
+46,MILWAUKEE BUCKS,02/12/2017,"Jones, Terrence",F,Right thumb sprain
+47,MILWAUKEE BUCKS,02/08/2017,"Parker, Jabari",F,Sprained left knee
+48,MILWAUKEE BUCKS,01/08/2017,"Antetokounmpo, Giannis",F,Illness
+49,MILWAUKEE BUCKS,12/30/16,"Dellavedova, Matthew",G,Sore hamstring
+50,MILWAUKEE BUCKS,12/26/16,"Teletovic, Mirza",F,Illness
+51,MILWAUKEE BUCKS,12/23/16,"Jones, Terrence",F,Illness
+52,MILWAUKEE BUCKS,12/23/16,"Vaughn, Rashad",G/F,Sore ankle
+53,MILWAUKEE BUCKS,12/14/16,"Beasley, Michael",F,Sprained left foot
+54,MILWAUKEE BUCKS,11/22/16,"Jones, Terrence",F,Illness
+55,MILWAUKEE BUCKS,10/26/16,"Snell, Tony",G/F,Sore ankle
+56,MILWAUKEE BUCKS,10/24/16,"Beasley, Michael",F,Sore elbow
+57,MILWAUKEE BUCKS,10/24/16,"Middleton, Khris",G/F,Hamstring surgery
+58,CHICAGO BULLS,4/21/17,"Rondo, Rajon",PG,Fractured right thumb
+59,CHICAGO BULLS,04/05/2017,"Rondo, Rajon",PG,Sprained right wrist
+60,CHICAGO BULLS,3/22/17,"Felicio, Cristiano",C,Lower back contusion
+61,CHICAGO BULLS,3/15/17,"Payne, Cameron",PG,Sore right foot
+62,CHICAGO BULLS,3/15/17,"Wade, Dwyane",G,Fractured elbow
+63,CHICAGO BULLS,03/06/2017,"Rondo, Rajon",PG,Sprained right ankle
+64,CHICAGO BULLS,03/06/2017,"Wade, Dwyane",G,Strained left quad
+65,CHICAGO BULLS,2/25/17,"Carter-Williams, Michael",PG,Patellar tendinitis
+66,CHICAGO BULLS,02/12/2017,"Butler, Jimmy",G/F,Heel contusion
+67,CHICAGO BULLS,02/12/2017,"Mirotic, Nikola",F,Back spasms
+68,CHICAGO BULLS,02/12/2017,"Wade, Dwyane",G,Right wrist contusion
+69,CHICAGO BULLS,02/09/2017,"Zipser, Paul",F,Left ankle tendinitis
+70,CHICAGO BULLS,02/08/2017,"Wade, Dwyane",G,Illness
+71,CHICAGO BULLS,02/06/2017,"Felicio, Cristiano",C,Right lower leg strain
+72,CHICAGO BULLS,02/03/2017,"Butler, Jimmy",G/F,Heel contusion
+73,CHICAGO BULLS,01/12/2017,"Valentine, Denzel",G/F,Illness
+74,CHICAGO BULLS,01/10/2017,"Butler, Jimmy",G/F,Illness
+75,CHICAGO BULLS,01/10/2017,"Mirotic, Nikola",F,Illness
+76,CHICAGO BULLS,01/03/2017,"Valentine, Denzel",G/F,Sore left ankle
+77,CHICAGO BULLS,01/02/2017,"Wade, Dwyane",G,Knee swelling
+78,CHICAGO BULLS,12/13/16,"Rondo, Rajon",PG,Sore ankle
+79,CHICAGO BULLS,11/30/16,"Wade, Dwyane",G,Sore tooth
+80,CHICAGO BULLS,11/22/16,"Zipser, Paul",F,Sore back
+81,CHICAGO BULLS,11/14/16,"Rondo, Rajon",PG,Sore ankle
+82,CHICAGO BULLS,11/01/2016,"Carter-Williams, Michael",PG,Bruised knee
+83,CHICAGO BULLS,10/24/16,"Felicio, Cristiano",C,Sore neck
+84,CHICAGO BULLS,10/16/16,"Payne, Cameron",PG,Right foot fracture
+85,CHICAGO BULLS,10/04/2016,"Valentine, Denzel",G/F,Sprained ankle
+86,CLEVELAND CAVALIERS,4/19/17,"Smith, J.R.",G/F,Sore hamstring
+87,CLEVELAND CAVALIERS,04/10/2017,"Felder, Kay",PG,Sore leg
+88,CLEVELAND CAVALIERS,04/10/2017,"Irving, Kyrie",G,Left knee tendinitis
+89,CLEVELAND CAVALIERS,04/10/2017,"James, LeBron",F,Strained right calf
+90,CLEVELAND CAVALIERS,04/05/2017,"Thompson, Tristan",F/C,Sore thumb
+91,CLEVELAND CAVALIERS,3/30/17,"Jefferson, Richard",G/F,Left knee tendinitis
+92,CLEVELAND CAVALIERS,3/27/17,"Korver, Kyle",G/F,Sore left foot
+93,CLEVELAND CAVALIERS,3/25/17,"Shumpert, Iman",G/F,Sore right knee
+94,CLEVELAND CAVALIERS,3/16/17,"Williams, Derrick",F,Right quad contusion
+95,CLEVELAND CAVALIERS,03/08/2017,"Bogut, Andrew",C,Fractured left tibia
+96,CLEVELAND CAVALIERS,03/08/2017,"Korver, Kyle",G/F,Sore left foot
+97,CLEVELAND CAVALIERS,2/26/17,"Korver, Kyle",G/F,Sore knee
+98,CLEVELAND CAVALIERS,2/25/17,"James, LeBron",F,Illness
+99,CLEVELAND CAVALIERS,2/13/17,"Williams, Deron",PG,Illness
+100,CLEVELAND CAVALIERS,02/12/2017,"Love, Kevin",F/C,Sore left knee
+101,CLEVELAND CAVALIERS,02/08/2017,"Shumpert, Iman",G/F,Sprained left ankle
+102,CLEVELAND CAVALIERS,02/04/2017,"Irving, Kyrie",G,Sore right quad
+103,CLEVELAND CAVALIERS,02/01/2017,"Love, Kevin",F/C,Lower back spasms
+104,CLEVELAND CAVALIERS,1/30/17,"Bogut, Andrew",C,Sore hamstring
+105,CLEVELAND CAVALIERS,1/25/17,"Williams, Deron",PG,Sprained toe
+106,CLEVELAND CAVALIERS,1/19/17,"Love, Kevin",F/C,Sore lower back
+107,CLEVELAND CAVALIERS,01/11/2017,"Bogut, Andrew",C,Strained hamstring
+108,CLEVELAND CAVALIERS,01/04/2017,"Love, Kevin",F/C,Illness
+109,CLEVELAND CAVALIERS,01/02/2017,"Williams, Deron",PG,Illness
+110,CLEVELAND CAVALIERS,12/31/16,"Irving, Kyrie",G,Right hamstring
+111,CLEVELAND CAVALIERS,12/24/16,"Korver, Kyle",G/F,Illness
+112,CLEVELAND CAVALIERS,12/21/16,"Smith, J.R.",G/F,Fractured right thumb
+113,CLEVELAND CAVALIERS,12/19/16,"Love, Kevin",F/C,Sore knee
+114,CLEVELAND CAVALIERS,12/09/2016,"Love, Kevin",F/C,Sore back
+115,CLEVELAND CAVALIERS,12/06/2016,"Bogut, Andrew",C,Bruised right knee
+116,CLEVELAND CAVALIERS,12/05/2016,"Smith, J.R.",G/F,Bruised left knee
+117,CLEVELAND CAVALIERS,11/30/16,"Williams, Derrick",F,Back spasms
+118,CLEVELAND CAVALIERS,11/27/16,"Shumpert, Iman",G/F,Sore hamstring
+119,CLEVELAND CAVALIERS,11/21/16,"Bogut, Andrew",C,Sore calf
+120,CLEVELAND CAVALIERS,11/18/16,"Williams, Deron",PG,Sore calf
+121,CLEVELAND CAVALIERS,11/13/16,"Smith, J.R.",G/F,Sore right ankle
+122,CLEVELAND CAVALIERS,11/06/2016,"Williams, Deron",PG,Sore calf
+123,CLEVELAND CAVALIERS,11/03/2016,"Williams, Deron",PG,Groin strain
+124,CLEVELAND CAVALIERS,10/24/16,"Felder, Kay",PG,Concussion
+125,BOSTON CELTICS,05/01/2017,"Thomas, Isaiah",PG,Sore hip
+126,BOSTON CELTICS,04/08/2017,"Johnson, Amir",F/C,Illness
+127,BOSTON CELTICS,04/08/2017,"Young, James",SG,Illness
+128,BOSTON CELTICS,04/04/2017,"Crowder, Jae",F,Sore elbow
+129,BOSTON CELTICS,3/31/17,"Bradley, Avery",G,Illness
+130,BOSTON CELTICS,3/31/17,"Johnson, Amir",F/C,Sore ankle
+131,BOSTON CELTICS,3/28/17,"Jerebko, Jonas",F,Sore knee
+132,BOSTON CELTICS,3/24/17,"Bradley, Avery",G,Illness
+133,BOSTON CELTICS,3/16/17,"Thomas, Isaiah",PG,Right knee bone bruise
+134,BOSTON CELTICS,03/10/2017,"Young, James",SG,Sore lower back
+135,BOSTON CELTICS,03/05/2017,"Bradley, Avery",G,Sore hamstring
+136,BOSTON CELTICS,03/05/2017,"Horford, Al",F/C,Sprained elbow
+137,BOSTON CELTICS,2/23/17,"Green, Gerald",G/F,Bruised left heel
+138,BOSTON CELTICS,2/13/17,"Brown, Jaylen",G/F,Strained right hip
+139,BOSTON CELTICS,02/01/2017,"Olynyk, Kelly",C,Strained left shoulder
+140,BOSTON CELTICS,1/27/17,"Horford, Al",F/C,Strained Groin
+141,BOSTON CELTICS,1/18/17,"Bradley, Avery",G,Sore right Achilles
+142,BOSTON CELTICS,01/11/2017,"Bradley, Avery",G,Strained Achilles
+143,BOSTON CELTICS,01/11/2017,"Brown, Jaylen",G/F,Sore ankle
+144,BOSTON CELTICS,01/11/2017,"Johnson, Amir",F/C,Sprained Ankle
+145,BOSTON CELTICS,01/07/2017,"Bradley, Avery",G,Illness
+146,BOSTON CELTICS,01/07/2017,"Young, James",SG,Sore ankle
+147,BOSTON CELTICS,01/02/2017,"Smart, Marcus",PG,Illness
+148,BOSTON CELTICS,01/02/2017,"Zeller, Tyler",F/C,Sinus infection
+149,BOSTON CELTICS,12/30/16,"Bradley, Avery",G,Illness
+150,BOSTON CELTICS,12/06/2016,"Thomas, Isaiah",PG,Pulled groin
+151,BOSTON CELTICS,11/02/2016,"Bradley, Avery",G,Sore shoulder
+152,BOSTON CELTICS,11/02/2016,"Crowder, Jae",F,Sprained left ankle
+153,BOSTON CELTICS,11/02/2016,"Horford, Al",F/C,Concussion
+154,BOSTON CELTICS,10/26/16,"Olynyk, Kelly",C,Sore shoulder
+155,BOSTON CELTICS,10/20/16,"Smart, Marcus",PG,Sprained ankle
+156,LOS ANGELES CLIPPERS,4/21/17,"Griffin, Blake",F/C,Broken toe
+157,LOS ANGELES CLIPPERS,3/30/17,"Rivers, Austin",G,Sore hamstring
+158,LOS ANGELES CLIPPERS,3/26/17,"Redick, J.J.",SG,Sore ankle
+159,LOS ANGELES CLIPPERS,1/17/17,"Paul, Chris",PG,Torn left thumb ligament
+160,LOS ANGELES CLIPPERS,01/08/2017,"Rivers, Austin",G,Illness
+161,LOS ANGELES CLIPPERS,01/01/2017,"Johnson, Wesley",G/F,Sprained left ankle
+162,LOS ANGELES CLIPPERS,12/30/16,"Johnson, Wesley",G/F,Sprained left ankle
+163,LOS ANGELES CLIPPERS,12/30/16,"Paul, Chris",PG,Sore left hamstring
+164,LOS ANGELES CLIPPERS,12/26/16,"Redick, J.J.",SG,Sore hamstring
+165,LOS ANGELES CLIPPERS,12/23/16,"Paul, Chris",PG,Sore left hamstring
+166,LOS ANGELES CLIPPERS,12/19/16,"Griffin, Blake",F/C,Right knee surgery
+167,LOS ANGELES CLIPPERS,12/14/16,"Mbah a Moute, Luc Richard",F,Right shoulder sprain
+168,LOS ANGELES CLIPPERS,12/11/2016,"Rivers, Austin",G,Mild concussion
+169,LOS ANGELES CLIPPERS,12/09/2016,"Griffin, Blake",F/C,Sore right knee
+170,LOS ANGELES CLIPPERS,11/12/2016,"Johnson, Wesley",G/F,Sore heel
+171,LOS ANGELES CLIPPERS,10/24/16,"Johnson, Brice",PF,Sore back
+172,LOS ANGELES CLIPPERS,10/24/16,"Pierce, Paul",F,Sprained right ankle
+173,LOS ANGELES CLIPPERS,10/16/16,"Paul, Chris",PG,Sprained left thumb
+174,LOS ANGELES CLIPPERS,10/15/16,"Anderson, Alan",G/F,Ankle
+175,MEMPHIS GRIZZLIES,4/13/17,"Allen, Tony",G/F,Strained right calf
+176,MEMPHIS GRIZZLIES,04/05/2017,"Conley, Mike",PG,Sore eye
+177,MEMPHIS GRIZZLIES,04/03/2017,"Allen, Tony",G/F,Left eye
+178,MEMPHIS GRIZZLIES,3/31/17,"Green, JaMychal",PF,Sore left shoulder
+179,MEMPHIS GRIZZLIES,3/30/17,"Harrison, Andrew",G,Sore right ankle
+180,MEMPHIS GRIZZLIES,3/26/17,"Gasol, Marc",C,Strained left foot
+181,MEMPHIS GRIZZLIES,3/22/17,"Allen, Tony",G/F,Sore left knee
+182,MEMPHIS GRIZZLIES,3/13/17,"Parsons, Chandler",F,Torn left meniscus
+183,MEMPHIS GRIZZLIES,03/09/2017,"Parsons, Chandler",F,Left knee soreness
+184,MEMPHIS GRIZZLIES,02/08/2017,"Randolph, Zach",F/C,Sore left foot
+185,MEMPHIS GRIZZLIES,1/25/17,"Daniels, Troy",G,Sore right knee
+186,MEMPHIS GRIZZLIES,1/25/17,"Green, JaMychal",PF,Sore left knee
+187,MEMPHIS GRIZZLIES,1/25/17,"Parsons, Chandler",F,Sore left knee
+188,MEMPHIS GRIZZLIES,01/04/2017,"Green, JaMychal",PF,Facial contusion
+189,MEMPHIS GRIZZLIES,01/01/2017,"Gasol, Marc",C,Sprained left ankle
+190,MEMPHIS GRIZZLIES,12/27/16,"Conley, Mike",PG,Sore toe
+191,MEMPHIS GRIZZLIES,12/15/16,"Davis, Deyonta",PF,Left foot plantar fasciitis
+192,MEMPHIS GRIZZLIES,12/09/2016,"Daniels, Troy",G,Illness
+193,MEMPHIS GRIZZLIES,11/29/16,"Carter, Vince",G/F,Sore hip
+194,MEMPHIS GRIZZLIES,11/29/16,"Conley, Mike",PG,Sore back
+195,MEMPHIS GRIZZLIES,11/21/16,"Ennis III, James",G/F,Right calf
+196,MEMPHIS GRIZZLIES,11/19/16,"Parsons, Chandler",F,Sore knee
+197,MEMPHIS GRIZZLIES,11/17/16,"Conley, Mike",PG,Sore quad
+198,MEMPHIS GRIZZLIES,11/17/16,"Ennis III, James",G/F,Sore toe
+199,MEMPHIS GRIZZLIES,11/13/16,"Conley, Mike",PG,Sore hamstring
+200,MEMPHIS GRIZZLIES,11/12/2016,"Parsons, Chandler",F,Sore left knee
+201,MEMPHIS GRIZZLIES,11/08/2016,"Allen, Tony",G/F,Strained right groin
+202,MEMPHIS GRIZZLIES,11/07/2016,"Conley, Mike",PG,Sore hamstring
+203,MEMPHIS GRIZZLIES,11/05/2016,"Conley, Mike",PG,Sore Achilles
+204,MEMPHIS GRIZZLIES,11/02/2016,"Baldwin IV, Wade",PG,Sore Quad
+205,MEMPHIS GRIZZLIES,11/02/2016,"Martin, Jarell",F/C,Sore foot
+206,MEMPHIS GRIZZLIES,10/30/16,"Green, JaMychal",PF,Sore ankle
+207,MEMPHIS GRIZZLIES,10/30/16,"Harrison, Andrew",G,Sore hip
+208,MEMPHIS GRIZZLIES,10/28/16,"Baldwin IV, Wade",PG,Sore knee
+209,MEMPHIS GRIZZLIES,10/26/16,"Allen, Tony",G/F,Right knee
+210,MEMPHIS GRIZZLIES,10/24/16,"Martin, Jarell",F/C,Bruised foot
+211,MEMPHIS GRIZZLIES,10/24/16,"Parsons, Chandler",F,Sore knee
+212,MEMPHIS GRIZZLIES,10/24/16,"Wright, Brandan",F/C,Sore ankle
+213,MEMPHIS GRIZZLIES,10/15/16,"Gasol, Marc",C,Sore right ankle
+214,ATLANTA HAWKS,04/07/2017,"Hardaway Jr., Tim",G/F,Sore knee
+215,ATLANTA HAWKS,04/07/2017,"Millsap, Paul",F/C,Sore knee
+216,ATLANTA HAWKS,04/07/2017,"Schroder, Dennis",PG,Sprained right foot
+217,ATLANTA HAWKS,04/01/2017,"Delaney, Malcolm",SG,Back spasms
+218,ATLANTA HAWKS,3/26/17,"Sefolosha, Thabo",G/F,Right groin strain
+219,ATLANTA HAWKS,3/19/17,"Bazemore, Kent",G/F,Sore knee
+220,ATLANTA HAWKS,3/18/17,"Millsap, Paul",F/C,Left knee tightness
+221,ATLANTA HAWKS,2/27/17,"Dunleavy, Mike",G/F,Sore ankle
+222,ATLANTA HAWKS,1/28/17,"Sefolosha, Thabo",G/F,Sore groin
+223,ATLANTA HAWKS,1/15/17,"Muscala, Mike",F/C,Sore left ankle
+224,ATLANTA HAWKS,01/01/2017,"Dunleavy, Mike",G/F,Sprained right ankle
+225,ATLANTA HAWKS,12/21/16,"Hardaway Jr., Tim",G/F,Sore groin
+226,ATLANTA HAWKS,12/19/16,"Howard, Dwight",F/C,Sore back
+227,ATLANTA HAWKS,12/17/16,"Delaney, Malcolm",SG,Sore ankle
+228,ATLANTA HAWKS,12/07/2016,"Bazemore, Kent",G/F,Sore knee
+229,ATLANTA HAWKS,12/07/2016,"Hardaway Jr., Tim",G/F,Knee
+230,ATLANTA HAWKS,12/04/2016,"Calderón, José",PG,Strained hamstring
+231,ATLANTA HAWKS,12/02/2016,"Dunleavy, Mike",G/F,Concussion
+232,ATLANTA HAWKS,11/30/16,"Millsap, Paul",F/C,Sore hip
+233,ATLANTA HAWKS,11/20/16,"Hardaway Jr., Tim",G/F,Head
+234,ATLANTA HAWKS,11/16/16,"Howard, Dwight",F/C,Left quad contusion
+235,ATLANTA HAWKS,11/16/16,"Sefolosha, Thabo",G/F,Sprained left knee
+236,ATLANTA HAWKS,10/24/16,"Calderón, José",PG,Strained left calf
+237,MIAMI HEAT,04/05/2017,"Babbitt, Luke",SF,Strained right hip flexor
+238,MIAMI HEAT,3/22/17,"Whiteside, Hassan",C,Lacerated right hand
+239,MIAMI HEAT,3/18/17,"Waiters, Dion",G/F,Left ankle sprain
+240,MIAMI HEAT,03/06/2017,"Johnson, James",F,Sore elbow
+241,MIAMI HEAT,03/06/2017,"Johnson, Tyler",G,Sore shoulder
+242,MIAMI HEAT,2/26/17,"Reed, Willie",F/C,Calf strain
+243,MIAMI HEAT,02/08/2017,"Waiters, Dion",G/F,Sprained left ankle
+244,MIAMI HEAT,1/26/17,"Whiteside, Hassan",C,Sprained right ankle
+245,MIAMI HEAT,1/21/17,"Johnson, Tyler",G,Sprained left shoulder
+246,MIAMI HEAT,1/13/17,"Reed, Willie",F/C,Bruised sternum
+247,MIAMI HEAT,01/08/2017,"Babbitt, Luke",SF,Illness
+248,MIAMI HEAT,01/07/2017,"Richardson, Josh",SF,Sore left foot
+249,MIAMI HEAT,01/03/2017,"Johnson, James",F,Illness
+250,MIAMI HEAT,01/03/2017,"Johnson, Tyler",G,Migraine
+251,MIAMI HEAT,01/01/2017,"Whiteside, Hassan",C,Eye
+252,MIAMI HEAT,01/01/2017,"Winslow, Justise",F,Sore shoulder
+253,MIAMI HEAT,12/30/16,"Dragic, Goran",G,Back spasms
+254,MIAMI HEAT,12/27/16,"Dragic, Goran",G,Back spasms
+255,MIAMI HEAT,12/27/16,"McRoberts, Josh",F/C,Foot stress reaction
+256,MIAMI HEAT,12/19/16,"McGruder, Rodney",SG,Sprained ankle
+257,MIAMI HEAT,12/17/16,"Ellington, Wayne",G/F,Strained right hamstring
+258,MIAMI HEAT,12/16/16,"Johnson, Tyler",G,Illness
+259,MIAMI HEAT,12/07/2016,"McGruder, Rodney",SG,Sore ankle
+260,MIAMI HEAT,12/05/2016,"Johnson, James",F,Sore shoulder
+261,MIAMI HEAT,12/02/2016,"Babbitt, Luke",SF,Right hip strain
+262,MIAMI HEAT,11/30/16,"Richardson, Josh",SF,Sore ankle
+263,MIAMI HEAT,11/28/16,"Johnson, Tyler",G,Lost tooth
+264,MIAMI HEAT,11/27/16,"Waiters, Dion",G/F,Sore groin
+265,MIAMI HEAT,11/25/16,"Dragic, Goran",G,Sore left elbow
+266,MIAMI HEAT,11/20/16,"Reed, Willie",F/C,Sore knee
+267,MIAMI HEAT,11/19/16,"Waiters, Dion",G/F,Pulled groin
+268,MIAMI HEAT,11/15/16,"Winslow, Justise",F,Wrist injury
+269,MIAMI HEAT,11/11/2016,"Dragic, Goran",G,Sprained left ankle
+270,MIAMI HEAT,11/07/2016,"Ellington, Wayne",G/F,Right thigh contusion
+271,MIAMI HEAT,10/24/16,"Bosh, Chris",F/C,Blood clots
+272,MIAMI HEAT,10/24/16,"Ellington, Wayne",G/F,Strained quadriceps
+273,MIAMI HEAT,10/24/16,"McRoberts, Josh",F/C,Sore foot
+274,MIAMI HEAT,10/24/16,"Richardson, Josh",SF,Sore knee
+275,MIAMI HEAT,10/15/16,"Babbitt, Luke",SF,Right groin
+276,MIAMI HEAT,10/15/16,"White, Okaro",PF,Sprained left ankle
+277,CHARLOTTE HORNETS,04/10/2017,"Walker, Kemba",PG,Sore left knee
+278,CHARLOTTE HORNETS,04/08/2017,"Belinelli, Marco",G/F,Strained finger
+279,CHARLOTTE HORNETS,3/20/17,"Kidd-Gilchrist, Michael",SF,Strained right ankle
+280,CHARLOTTE HORNETS,3/13/17,"Batum, Nicolas",G/F,Migraine
+281,CHARLOTTE HORNETS,03/09/2017,"O'Bryant III, Johnny",PF,Sprained right ankle
+282,CHARLOTTE HORNETS,03/06/2017,"Kaminsky, Frank",F/C,Sprained left shoulder
+283,CHARLOTTE HORNETS,2/28/17,"Williams, Marvin",F,Strained right shoulder
+284,CHARLOTTE HORNETS,2/14/17,"Plumlee, Miles",F/C,Sore calf
+285,CHARLOTTE HORNETS,2/14/17,"Williams, Marvin",F,Illness
+286,CHARLOTTE HORNETS,02/11/2017,"Zeller, Cody",F/C,Sore quad
+287,CHARLOTTE HORNETS,02/04/2017,"Sessions, Ramon",G,"Torn meniscus, left knee"
+288,CHARLOTTE HORNETS,1/25/17,"Zeller, Cody",F/C,Quad contusion
+289,CHARLOTTE HORNETS,1/23/17,"Roberts, Brian",G,Illness
+290,CHARLOTTE HORNETS,01/12/2017,"Lamb, Jeremy",G/F,Sore foot
+291,CHARLOTTE HORNETS,01/09/2017,"Zeller, Cody",F/C,Illness
+292,CHARLOTTE HORNETS,01/06/2017,"Batum, Nicolas",G/F,Strained right knee
+293,CHARLOTTE HORNETS,01/02/2017,"Zeller, Cody",F/C,Concussion
+294,CHARLOTTE HORNETS,01/01/2017,"Plumlee, Miles",F/C,Sore finger
+295,CHARLOTTE HORNETS,12/24/16,"Belinelli, Marco",G/F,Sprained left ankle
+296,CHARLOTTE HORNETS,12/17/16,"Lamb, Jeremy",G/F,Strained rib cage
+297,CHARLOTTE HORNETS,12/16/16,"Andersen, Chris",F/C,Torn right ACL
+298,CHARLOTTE HORNETS,12/11/2016,"Walker, Kemba",PG,Left knee contusion
+299,CHARLOTTE HORNETS,11/27/16,"Belinelli, Marco",G/F,Sore hamstring
+300,CHARLOTTE HORNETS,11/26/16,"Batum, Nicolas",G/F,Eye laceration
+301,CHARLOTTE HORNETS,11/26/16,"Williams, Marvin",F,Hyperextended left knee
+302,CHARLOTTE HORNETS,11/21/16,"Kaminsky, Frank",F/C,Sprained left ankle
+303,CHARLOTTE HORNETS,11/21/16,"Wood, Christian",F/C,Ankle sprain
+304,CHARLOTTE HORNETS,11/19/16,"Zeller, Cody",F/C,Sore shoulder
+305,CHARLOTTE HORNETS,11/17/16,"Graham, Treveon",G/F,Sore achilles
+306,CHARLOTTE HORNETS,11/11/2016,"Kidd-Gilchrist, Michael",SF,Sore lower back
+307,CHARLOTTE HORNETS,11/08/2016,"Kidd-Gilchrist, Michael",SF,Sore back
+308,CHARLOTTE HORNETS,11/06/2016,"Williams, Marvin",F,Viral infection
+309,CHARLOTTE HORNETS,11/02/2016,"Wood, Christian",F/C,Illness
+310,CHARLOTTE HORNETS,10/29/16,"Lamb, Jeremy",G/F,Left hamstring strain
+311,CHARLOTTE HORNETS,10/24/16,"Kaminsky, Frank",F/C,Sore foot
+312,CHARLOTTE HORNETS,10/24/16,"Roberts, Brian",G,Sore hamstring
+313,CHARLOTTE HORNETS,10/24/16,"Zeller, Cody",F/C,Sore knee
+314,UTAH JAZZ,05/04/2017,"Hill, George",G,Sore toe
+315,UTAH JAZZ,4/20/17,"Burks, Alec",G,Sore left knee
+316,UTAH JAZZ,4/16/17,"Gobert, Rudy",C,Hyperextended left knee
+317,UTAH JAZZ,04/10/2017,"Hayward, Gordon",G/F,Left quad contusion
+318,UTAH JAZZ,04/10/2017,"Neto, Raul",PG,Sprained right ankle
+319,UTAH JAZZ,04/09/2017,"Favors, Derrick",F/C,Sore left knee
+320,UTAH JAZZ,04/09/2017,"Hood, Rodney",G/F,Sore right knee
+321,UTAH JAZZ,04/06/2017,"Neto, Raul",PG,Strained right groin
+322,UTAH JAZZ,04/06/2017,"Withey, Jeff",C,Illness
+323,UTAH JAZZ,04/04/2017,"Hood, Rodney",G/F,Sore knee
+324,UTAH JAZZ,3/29/17,"Hill, George",G,Groin strain
+325,UTAH JAZZ,3/25/17,"Hayward, Gordon",G/F,Left quadriceps contusion
+326,UTAH JAZZ,3/16/17,"Hood, Rodney",G/F,Sore right knee
+327,UTAH JAZZ,03/11/2017,"Gobert, Rudy",C,Sore right leg
+328,UTAH JAZZ,03/08/2017,"Favors, Derrick",F/C,Sore right knee
+329,UTAH JAZZ,03/06/2017,"Hill, George",G,Toe soreness
+330,UTAH JAZZ,03/06/2017,"Mack, Shelvin",PG,Sprained left ankle
+331,UTAH JAZZ,03/05/2017,"Johnson, Joe",G/F,Sore left groin
+332,UTAH JAZZ,03/01/2017,"Hood, Rodney",G/F,Sore right knee
+333,UTAH JAZZ,02/01/2017,"Hood, Rodney",G/F,Hyperextended right knee
+334,UTAH JAZZ,1/15/17,"Hood, Rodney",G/F,Sore knee
+335,UTAH JAZZ,01/01/2017,"Hill, George",G,Concussion
+336,UTAH JAZZ,12/21/16,"Exum, Danté",G,Left knee tendinitis
+337,UTAH JAZZ,12/21/16,"Hood, Rodney",G/F,Illness
+338,UTAH JAZZ,12/13/16,"Exum, Danté",G,Sore knee
+339,UTAH JAZZ,12/08/2016,"Hayward, Gordon",G/F,Sprained finger
+340,UTAH JAZZ,12/06/2016,"Hood, Rodney",G/F,Sore hamstring
+341,UTAH JAZZ,12/03/2016,"Hood, Rodney",G/F,Sore hamstring
+342,UTAH JAZZ,12/01/2016,"Hill, George",G,Sore toe
+343,UTAH JAZZ,11/22/16,"Johnson, Joe",G/F,Illness
+344,UTAH JAZZ,11/15/16,"Favors, Derrick",F/C,Reaggravated left knee soreness
+345,UTAH JAZZ,11/14/16,"Hood, Rodney",G/F,Illness
+346,UTAH JAZZ,11/12/2016,"Favors, Derrick",F/C,Sore left knee
+347,UTAH JAZZ,11/07/2016,"Hill, George",G,Sore thumb
+348,UTAH JAZZ,11/01/2016,"Diaw, Boris",F/C,Leg contusion
+349,UTAH JAZZ,10/24/16,"Burks, Alec",G,Sore leg
+350,UTAH JAZZ,10/24/16,"Favors, Derrick",F/C,Sore knee
+351,UTAH JAZZ,10/07/2016,"Hayward, Gordon",G/F,Broken finger
+352,SACRAMENTO KINGS,3/27/17,"Evans, Tyreke",G/F,Sore knee
+353,SACRAMENTO KINGS,3/26/17,"Lawson, Ty",PG,Sore knee
+354,SACRAMENTO KINGS,3/18/17,"Evans, Tyreke",G/F,Sore left ankle
+355,SACRAMENTO KINGS,2/27/17,"Afflalo, Arron",G/F,Sore left hamstring
+356,SACRAMENTO KINGS,2/21/17,"Richardson, Malachi",SG,Torn right hamstring
+357,SACRAMENTO KINGS,02/09/2017,"Lawson, Ty",PG,Strained left hamstring
+358,SACRAMENTO KINGS,02/07/2017,"Evans, Tyreke",G/F,Sprained left ankle
+359,SACRAMENTO KINGS,02/02/2017,"Temple, Garrett",G,Strained hamstring
+360,SACRAMENTO KINGS,1/31/17,"Evans, Tyreke",G/F,Sore left ankle
+361,SACRAMENTO KINGS,1/19/17,"Gay, Rudy",F,Torn left Achilles
+362,SACRAMENTO KINGS,1/18/17,"Lawson, Ty",PG,Sore ankle
+363,SACRAMENTO KINGS,01/05/2017,"Evans, Tyreke",G/F,Back spasms
+364,SACRAMENTO KINGS,01/01/2017,"Lawson, Ty",PG,Sinus fracture
+365,SACRAMENTO KINGS,12/28/16,"Gay, Rudy",F,Right hip flexor
+366,SACRAMENTO KINGS,12/26/16,"Afflalo, Arron",G/F,Sore elbow
+367,SACRAMENTO KINGS,12/13/16,"Gay, Rudy",F,Strained right hip flexor
+368,SACRAMENTO KINGS,12/13/16,"McLemore, Ben",SG,Sore quad
+369,SACRAMENTO KINGS,11/05/2016,"Gay, Rudy",F,Sore rib
+370,SACRAMENTO KINGS,11/05/2016,"Tolliver, Anthony",F,Right knee sprain
+371,SACRAMENTO KINGS,10/24/16,"Evans, Tyreke",G/F,Knee surgery
+372,NEW YORK KNICKS,04/08/2017,"Anthony, Carmelo",F,Sore lower back
+373,NEW YORK KNICKS,04/06/2017,"Porzingis, Kristaps",F/C,Sore back
+374,NEW YORK KNICKS,04/06/2017,"Randle, Chasson",PG,Sprained left ankle
+375,NEW YORK KNICKS,3/31/17,"Anthony, Carmelo",F,Sore back
+376,NEW YORK KNICKS,3/29/17,"Rose, Derrick",PG,Torn meniscus
+377,NEW YORK KNICKS,3/23/17,"Rose, Derrick",PG,Right foot injury
+378,NEW YORK KNICKS,3/23/17,"Thomas, Lance",G/F,Sore right hip
+379,NEW YORK KNICKS,3/15/17,"Porzingis, Kristaps",F/C,Left thigh contusion
+380,NEW YORK KNICKS,03/06/2017,"Anthony, Carmelo",F,Sore left knee
+381,NEW YORK KNICKS,03/01/2017,"Ndour, Maurice",F,Sore ankle
+382,NEW YORK KNICKS,2/28/17,"Hernangómez, Guillermo",C,Sprained left ankle
+383,NEW YORK KNICKS,2/23/17,"Porzingis, Kristaps",F/C,Sprained right ankle
+384,NEW YORK KNICKS,2/22/17,"Lee, Courtney",G/F,Illness
+385,NEW YORK KNICKS,02/06/2017,"Noah, Joakim",F/C,Sore left hamstring
+386,NEW YORK KNICKS,1/31/17,"Porzingis, Kristaps",F/C,Illness
+387,NEW YORK KNICKS,1/28/17,"Rose, Derrick",PG,Sprained left ankle
+388,NEW YORK KNICKS,1/18/17,"Noah, Joakim",F/C,Sore left ankle
+389,NEW YORK KNICKS,1/16/17,"Thomas, Lance",G/F,Fractured orbital bone
+390,NEW YORK KNICKS,01/12/2017,"Porzingis, Kristaps",F/C,Sore left Achilles
+391,NEW YORK KNICKS,01/09/2017,"Kuzminskas, Mindaugas",F,Illness
+392,NEW YORK KNICKS,01/01/2017,"Anthony, Carmelo",F,Sore knee
+393,NEW YORK KNICKS,01/01/2017,"O'Quinn, Kyle",F/C,Illness
+394,NEW YORK KNICKS,01/01/2017,"Porzingis, Kristaps",F/C,Sore Achilles
+395,NEW YORK KNICKS,12/27/16,"Lee, Courtney",G/F,Sore right wrist
+396,NEW YORK KNICKS,12/15/16,"Anthony, Carmelo",F,Sore shoulder
+397,NEW YORK KNICKS,12/14/16,"Rose, Derrick",PG,Back spasms
+398,NEW YORK KNICKS,12/11/2016,"O'Quinn, Kyle",F/C,Sprained ankle
+399,NEW YORK KNICKS,12/07/2016,"Rose, Derrick",PG,Back strain
+400,NEW YORK KNICKS,11/30/16,"Lee, Courtney",G/F,Left ankle sprain
+401,NEW YORK KNICKS,11/30/16,"Noah, Joakim",F/C,Sore ankle
+402,NEW YORK KNICKS,11/20/16,"Noah, Joakim",F/C,Illness
+403,NEW YORK KNICKS,11/12/2016,"Thomas, Lance",G/F,Sore left ankle
+404,NEW YORK KNICKS,10/28/16,"Baker, Ron",G,Sore ankle
+405,NEW YORK KNICKS,10/15/16,"Porzingis, Kristaps",F/C,Sore left groin
+406,NEW YORK KNICKS,10/15/16,"Randle, Chasson",PG,Face
+407,LOS ANGELES LAKERS,4/22/17,"Mozgov, Timofey",C,Sore ankle
+408,LOS ANGELES LAKERS,04/06/2017,"Clarkson, Jordan",G,Left knee contusion
+409,LOS ANGELES LAKERS,04/05/2017,"Russell, D'Angelo",G,Sore knee
+410,LOS ANGELES LAKERS,04/03/2017,"Black, Tarik",F/C,Sprained left knee
+411,LOS ANGELES LAKERS,3/31/17,"Zubac, Ivica",C,Sprained right ankle
+412,LOS ANGELES LAKERS,3/26/17,"Ingram, Brandon",G/F,Knee tendinitis
+413,LOS ANGELES LAKERS,3/23/17,"Ingram, Brandon",G/F,Right paterllar tendinitis
+414,LOS ANGELES LAKERS,3/22/17,"Mozgov, Timofey",C,Left ankle sprain
+415,LOS ANGELES LAKERS,3/20/17,"Ennis, Tyler",PG,Tweaked left shoulder
+416,LOS ANGELES LAKERS,3/19/17,"Young, Nick",G/F,Illness
+417,LOS ANGELES LAKERS,3/18/17,"Black, Tarik",F/C,Illness
+418,LOS ANGELES LAKERS,03/06/2017,"Nance Jr., Larry",PF,Sprained right wrist
+419,LOS ANGELES LAKERS,03/06/2017,"Zubac, Ivica",C,Quad contusion
+420,LOS ANGELES LAKERS,2/28/17,"Robinson, Thomas",F/C,Illness
+421,LOS ANGELES LAKERS,02/09/2017,"Clarkson, Jordan",G,Sprained right thumb
+422,LOS ANGELES LAKERS,02/03/2017,"Randle, Julius",PF,Illness
+423,LOS ANGELES LAKERS,1/26/17,"Randle, Julius",PF,Illness
+424,LOS ANGELES LAKERS,1/21/17,"Russell, D'Angelo",G,Sprained knee ligament
+425,LOS ANGELES LAKERS,1/17/17,"Deng, Luol",F,Sore wrist
+426,LOS ANGELES LAKERS,1/16/17,"Black, Tarik",F/C,Sprained Ankle
+427,LOS ANGELES LAKERS,1/16/17,"Clarkson, Jordan",G,Sprained Ankle
+428,LOS ANGELES LAKERS,01/07/2017,"Randle, Julius",PF,Sprained left finger
+429,LOS ANGELES LAKERS,01/04/2017,"Deng, Luol",F,Right biceps tendinitis
+430,LOS ANGELES LAKERS,12/21/16,"Nance Jr., Larry",PF,Left knee bone bruise
+431,LOS ANGELES LAKERS,12/17/16,"Black, Tarik",F/C,Right ankle soreness
+432,LOS ANGELES LAKERS,12/06/2016,"Black, Tarik",F/C,Sprained ankle
+433,LOS ANGELES LAKERS,12/03/2016,"Nance Jr., Larry",PF,Sore knee
+434,LOS ANGELES LAKERS,11/30/16,"Young, Nick",G/F,Strained right calf
+435,LOS ANGELES LAKERS,11/27/16,"Randle, Julius",PF,Sore hip
+436,LOS ANGELES LAKERS,11/25/16,"Young, Nick",G/F,Sore toe
+437,LOS ANGELES LAKERS,11/21/16,"Russell, D'Angelo",G,Sore knee
+438,LOS ANGELES LAKERS,11/18/16,"Russell, D'Angelo",G,Sore knee
+439,LOS ANGELES LAKERS,11/17/16,"Young, Nick",G/F,Illness
+440,LOS ANGELES LAKERS,11/12/2016,"Ingram, Brandon",G/F,Left ankle
+441,LOS ANGELES LAKERS,11/11/2016,"Zubac, Ivica",C,Sore back
+442,LOS ANGELES LAKERS,11/07/2016,"Nance Jr., Larry",PF,Concussion
+443,LOS ANGELES LAKERS,11/02/2016,"Mozgov, Timofey",C,Left eye contusion
+444,ORLANDO MAGIC,04/06/2017,"Fournier, Evan",G/F,Sore right wrist
+445,ORLANDO MAGIC,3/23/17,"Gordon, Aaron",F,Sore left hip
+446,ORLANDO MAGIC,3/22/17,"Green, Jeff",F,Back spasms
+447,ORLANDO MAGIC,3/19/17,"Vucevic, Nikola",F/C,Sore Achilles
+448,ORLANDO MAGIC,03/05/2017,"Vucevic, Nikola",F/C,Sore right Achilles
+449,ORLANDO MAGIC,2/28/17,"Gordon, Aaron",F,Right quad contusion
+450,ORLANDO MAGIC,2/15/17,"Watson, C.J.",PG,Sore right Achilles
+451,ORLANDO MAGIC,02/08/2017,"Gordon, Aaron",F,Sprained right foot
+452,ORLANDO MAGIC,1/22/17,"Augustin, D.J.",PG,Sprained right ankle
+453,ORLANDO MAGIC,1/20/17,"Wilcox, C.J.",SG,Left Achilles tendinitis
+454,ORLANDO MAGIC,1/18/17,"Meeks, Jodie",SG,Dislocated right thumb
+455,ORLANDO MAGIC,1/17/17,"Biyombo, Bismack",F/C,Right knee bruise
+456,ORLANDO MAGIC,1/17/17,"Fournier, Evan",G/F,Sore right foot
+457,ORLANDO MAGIC,1/14/17,"Fournier, Evan",G/F,Sore right foot
+458,ORLANDO MAGIC,01/10/2017,"Payton, Elfrid",PG,Right quad contusion
+459,ORLANDO MAGIC,12/31/16,"Rudez, Damjan",G/F,Strained right calf
+460,ORLANDO MAGIC,12/23/16,"Fournier, Evan",G/F,Sore heel
+461,ORLANDO MAGIC,12/10/2016,"Vucevic, Nikola",F/C,Lower back contusion
+462,ORLANDO MAGIC,12/08/2016,"Vucevic, Nikola",F/C,Right corneal abrasion
+463,ORLANDO MAGIC,11/30/16,"Payton, Elfrid",PG,Sore ankle
+464,ORLANDO MAGIC,11/27/16,"Green, Jeff",F,Sore back
+465,ORLANDO MAGIC,11/27/16,"Watson, C.J.",PG,Illness
+466,ORLANDO MAGIC,11/09/2016,"Fournier, Evan",G/F,Sore back
+467,ORLANDO MAGIC,11/09/2016,"Ross, Terrence",G/F,Sprained right index finger
+468,ORLANDO MAGIC,10/24/16,"Meeks, Jodie",SG,Sore foot
+469,DALLAS MAVERICKS,04/03/2017,"Nowitzki, Dirk",F/C,Sore right Achilles
+470,DALLAS MAVERICKS,3/31/17,"Curry, Seth",G,Sore shoulder
+471,DALLAS MAVERICKS,3/27/17,"Curry, Seth",G,Sore shoulder
+472,DALLAS MAVERICKS,3/15/17,"Matthews, Wesley",G/F,Strained left calf
+473,DALLAS MAVERICKS,03/10/2017,"Noel, Nerlens",F/C,Sore left knee
+474,DALLAS MAVERICKS,2/28/17,"Matthews, Wesley",G/F,Sore hip
+475,DALLAS MAVERICKS,02/02/2017,"Noel, Nerlens",F/C,Illness
+476,DALLAS MAVERICKS,1/27/17,"Jackson, Pierre",PG,Strained Hamstring
+477,DALLAS MAVERICKS,1/22/17,"Matthews, Wesley",G/F,Right hip strain
+478,DALLAS MAVERICKS,1/20/17,"Barea, J.J.",G,Strained calf
+479,DALLAS MAVERICKS,1/16/17,"Noel, Nerlens",F/C,Sprained Left Ankle
+480,DALLAS MAVERICKS,12/29/16,"Nowitzki, Dirk",F/C,Illness
+481,DALLAS MAVERICKS,12/23/16,"Barea, J.J.",G,Sore leg
+482,DALLAS MAVERICKS,12/14/16,"Noel, Nerlens",F/C,Sprained left ankle
+483,DALLAS MAVERICKS,12/01/2016,"Curry, Seth",G,Bruised knee
+484,DALLAS MAVERICKS,11/27/16,"Nowitzki, Dirk",F/C,Sore Achilles
+485,DALLAS MAVERICKS,11/16/16,"Barea, J.J.",G,Torn left calf muscle
+486,DALLAS MAVERICKS,11/04/2016,"Nowitzki, Dirk",F/C,Right Achilles soreness
+487,DALLAS MAVERICKS,11/02/2016,"Matthews, Wesley",G/F,Sore foot
+488,DALLAS MAVERICKS,10/28/16,"Nowitzki, Dirk",F/C,Illness
+489,DALLAS MAVERICKS,10/24/16,"Barea, J.J.",G,Sore elbow
+490,DALLAS MAVERICKS,10/24/16,"Harris, Devin",G,Sore foot
+491,DALLAS MAVERICKS,10/23/16,"Noel, Nerlens",F/C,Left knee surgery
+492,BROOKLYN NETS,04/10/2017,"Acy, Quincy",F,Sore left ankle
+493,BROOKLYN NETS,04/05/2017,"Kilpatrick, Sean",G,Tight left hamstring
+494,BROOKLYN NETS,04/03/2017,"Whitehead, Isaiah",G,Sprained left ankle
+495,BROOKLYN NETS,3/19/17,"Lin, Jeremy",G,Sore right ankle
+496,BROOKLYN NETS,3/18/17,"Harris, Joe",SG,Sore shoulder
+497,BROOKLYN NETS,3/18/17,"Kilpatrick, Sean",G,Strained left hamstring
+498,BROOKLYN NETS,3/17/17,"Booker, Trevor",PF,Left leg soreness
+499,BROOKLYN NETS,03/09/2017,"Lopez, Brook",C,Sprained right ankle
+500,BROOKLYN NETS,2/25/17,"LeVert, Caris",G/F,Illness
+501,BROOKLYN NETS,2/14/17,"Booker, Trevor",PF,Sore right knee
+502,BROOKLYN NETS,02/06/2017,"Acy, Quincy",F,Sprained left ankle
+503,BROOKLYN NETS,02/06/2017,"LeVert, Caris",G/F,Sore right knee
+504,BROOKLYN NETS,1/27/17,"Booker, Trevor",PF,Illness
+505,BROOKLYN NETS,1/21/17,"Harris, Joe",SG,Sprained left ankle
+506,BROOKLYN NETS,1/13/17,"Whitehead, Isaiah",G,Sprained left knee
+507,BROOKLYN NETS,01/09/2017,"Booker, Trevor",PF,Left hip contusion
+508,BROOKLYN NETS,01/04/2017,"Hollis-Jefferson, Rondae",F,Right hip tendinitis
+509,BROOKLYN NETS,12/28/16,"Harris, Joe",SG,Hip pointer
+510,BROOKLYN NETS,12/27/16,"Lin, Jeremy",G,Strained hamstring
+511,BROOKLYN NETS,12/20/16,"Whitehead, Isaiah",G,Sore left foot
+512,BROOKLYN NETS,12/14/16,"Lin, Jeremy",G,Back tightness
+513,BROOKLYN NETS,12/10/2016,"Hamilton, Justin",F/C,Migraine
+514,BROOKLYN NETS,12/03/2016,"Booker, Trevor",PF,Illness
+515,BROOKLYN NETS,11/26/16,"Hollis-Jefferson, Rondae",F,Sore ankle
+516,BROOKLYN NETS,11/15/16,"Acy, Quincy",F,Eye contusion
+517,BROOKLYN NETS,11/09/2016,"Whitehead, Isaiah",G,Concussion
+518,BROOKLYN NETS,11/02/2016,"Lin, Jeremy",G,Strained left hamstring
+519,BROOKLYN NETS,10/29/16,"Lopez, Brook",C,Rest
+520,BROOKLYN NETS,10/29/16,"Vasquez, Greivis",G,Sore ankle
+521,BROOKLYN NETS,10/28/16,"Foye, Randy",G,Strained hamstring
+522,BROOKLYN NETS,10/24/16,"LeVert, Caris",G/F,Sore foot
+523,DENVER NUGGETS,04/12/2017,"Harris, Gary",G/F,Sore knee
+524,DENVER NUGGETS,04/10/2017,"Mudiay, Emmanuel",PG,Sprained right ankle
+525,DENVER NUGGETS,04/09/2017,"Faried, Kenneth",F/C,Sore back
+526,DENVER NUGGETS,04/08/2017,"Mudiay, Emmanuel",PG,Sprained right ankle
+527,DENVER NUGGETS,04/06/2017,"Nelson, Jameer",PG,Strained right calf
+528,DENVER NUGGETS,04/02/2017,"Nelson, Jameer",PG,Strained right calf
+529,DENVER NUGGETS,3/30/17,"Arthur, Darrell",F/C,Sore left knee
+530,DENVER NUGGETS,3/30/17,"Barton, Will",G/F,Sore left foot
+531,DENVER NUGGETS,3/30/17,"Plumlee, Mason",F/C,Left abdominal contusion
+532,DENVER NUGGETS,3/18/17,"Arthur, Darrell",F/C,Left knee soreness
+533,DENVER NUGGETS,3/15/17,"Chandler, Wilson",F,Sore right groin
+534,DENVER NUGGETS,3/15/17,"Gallinari, Danilo",F,Sore knee
+535,DENVER NUGGETS,03/08/2017,"Gallinari, Danilo",F,Illness
+536,DENVER NUGGETS,03/06/2017,"Jokic, Nikola",F/C,Illness
+537,DENVER NUGGETS,03/01/2017,"Nelson, Jameer",PG,Illness
+538,DENVER NUGGETS,2/27/17,"Faried, Kenneth",F/C,Back spasms
+539,DENVER NUGGETS,2/22/17,"Arthur, Darrell",F/C,Illness
+540,DENVER NUGGETS,2/14/17,"Arthur, Darrell",F/C,Sore left knee
+541,DENVER NUGGETS,2/13/17,"Chandler, Wilson",F,Illness
+542,DENVER NUGGETS,02/08/2017,"Faried, Kenneth",F/C,Sprained right ankle
+543,DENVER NUGGETS,02/07/2017,"Mudiay, Emmanuel",PG,Sore back
+544,DENVER NUGGETS,02/02/2017,"Gallinari, Danilo",F,Strained groin
+545,DENVER NUGGETS,1/31/17,"Barton, Will",G/F,Sore left ankle
+546,DENVER NUGGETS,1/30/17,"Murray, Jamal",G,Illness
+547,DENVER NUGGETS,1/27/17,"Jokic, Nikola",F/C,Left Hip Strain
+548,DENVER NUGGETS,1/22/17,"Mudiay, Emmanuel",PG,Sore lower back
+549,DENVER NUGGETS,1/19/17,"Gallinari, Danilo",F,Sprained right ankle
+550,DENVER NUGGETS,1/16/17,"Harris, Gary",G/F,Sprained Ankle
+551,DENVER NUGGETS,01/12/2017,"Arthur, Darrell",F/C,Sore left lower leg
+552,DENVER NUGGETS,01/11/2017,"Faried, Kenneth",F/C,Illness
+553,DENVER NUGGETS,01/11/2017,"Gallinari, Danilo",F,Sore ankle
+554,DENVER NUGGETS,01/07/2017,"Harris, Gary",G/F,Sore groin
+555,DENVER NUGGETS,01/06/2017,"Jokic, Nikola",F/C,Illness
+556,DENVER NUGGETS,01/02/2017,"Faried, Kenneth",F/C,Sore back
+557,DENVER NUGGETS,01/01/2017,"Arthur, Darrell",F/C,Sore left knee
+558,DENVER NUGGETS,01/01/2017,"Nelson, Jameer",PG,Rib contusion
+559,DENVER NUGGETS,12/12/2016,"Arthur, Darrell",F/C,Sore knee
+560,DENVER NUGGETS,12/10/2016,"Chandler, Wilson",F,Sore hip
+561,DENVER NUGGETS,12/08/2016,"Mudiay, Emmanuel",PG,Sore ankle
+562,DENVER NUGGETS,12/07/2016,"Murray, Jamal",G,Left quad contusion
+563,DENVER NUGGETS,12/03/2016,"Gallinari, Danilo",F,Bruised thigh
+564,DENVER NUGGETS,12/02/2016,"Jokic, Nikola",F/C,Sore wrist
+565,DENVER NUGGETS,11/30/16,"Arthur, Darrell",F/C,Illness
+566,DENVER NUGGETS,11/27/16,"Hernangómez, Juancho",F,Sore ankle
+567,DENVER NUGGETS,11/26/16,"Barton, Will",G/F,Sore ankle
+568,DENVER NUGGETS,11/23/16,"Gallinari, Danilo",F,Bruised thigh
+569,DENVER NUGGETS,11/13/16,"Chandler, Wilson",F,Sore left hamstring
+570,DENVER NUGGETS,11/13/16,"Harris, Gary",G/F,Sprained right ankle
+571,DENVER NUGGETS,11/12/2016,"Stokes, Jarnell",PF,Sore right foot
+572,DENVER NUGGETS,11/08/2016,"Arthur, Darrell",F/C,Sore knee
+573,DENVER NUGGETS,11/07/2016,"Chandler, Wilson",F,Sore hamstring
+574,DENVER NUGGETS,11/01/2016,"Barton, Will",G/F,Sore ankle
+575,DENVER NUGGETS,10/29/16,"Hibbert, Roy",C,Sore knee
+576,DENVER NUGGETS,10/28/16,"Harris, Gary",G/F,Sore groin
+577,DENVER NUGGETS,10/24/16,"Arthur, Darrell",F/C,Sore knee
+578,INDIANA PACERS,04/10/2017,"Jefferson, Al",F/C,Sore ankle
+579,INDIANA PACERS,3/27/17,"Jefferson, Al",F/C,Sprained left ankle
+580,INDIANA PACERS,3/27/17,"Stuckey, Rodney",G,Sore left knee
+581,INDIANA PACERS,3/23/17,"Robinson III, Glenn",G/F,Sore left calf
+582,INDIANA PACERS,3/15/17,"Allen, Lavoy",F/C,Sore left knee
+583,INDIANA PACERS,3/15/17,"Stephenson, Lance",G/F,Left ankle
+584,INDIANA PACERS,03/05/2017,"Allen, Lavoy",F/C,Sore right knee
+585,INDIANA PACERS,2/24/17,"Jefferson, Al",F/C,Dental pain
+586,INDIANA PACERS,2/15/17,"Stephenson, Lance",G/F,Sprained left ankle
+587,INDIANA PACERS,2/13/17,"Allen, Lavoy",F/C,Sore right knee
+588,INDIANA PACERS,02/04/2017,"Young, Thaddeus",F,Sore wrist
+589,INDIANA PACERS,02/02/2017,"Stuckey, Rodney",G,Sprained right ankle
+590,INDIANA PACERS,02/01/2017,"Christmas, Rakeem",PF,Sore right groin
+591,INDIANA PACERS,1/26/17,"Seraphin, Kevin",F/C,Sore left knee
+592,INDIANA PACERS,1/25/17,"Ellis, Monta",G,Sore left ankle
+593,INDIANA PACERS,1/23/17,"Brooks, Aaron",PG,Sore right knee
+594,INDIANA PACERS,01/01/2017,"Ellis, Monta",G,Left ankle sprain
+595,INDIANA PACERS,12/27/16,"Stuckey, Rodney",G,Sore left hamstring
+596,INDIANA PACERS,12/15/16,"Stuckey, Rodney",G,Sore hamstring
+597,INDIANA PACERS,12/11/2016,"Ellis, Monta",G,Groin strain
+598,INDIANA PACERS,11/25/16,"George, Paul",F,Sore lower back
+599,INDIANA PACERS,11/23/16,"Seraphin, Kevin",F/C,Bruised knee
+600,INDIANA PACERS,11/21/16,"Turner, Myles",F/C,Sore ankle
+601,INDIANA PACERS,11/19/16,"Seraphin, Kevin",F/C,Bruised knee
+602,INDIANA PACERS,11/18/16,"George, Paul",F,Sore ankle
+603,INDIANA PACERS,11/18/16,"Miles, C.J.",G/F,Sore Knee
+604,INDIANA PACERS,11/12/2016,"George, Paul",F,Sore ankle
+605,INDIANA PACERS,11/05/2016,"Stephenson, Lance",G/F,Groin surgery
+606,INDIANA PACERS,10/28/16,"Stuckey, Rodney",G,Sore hamstring
+607,INDIANA PACERS,10/24/16,"Brooks, Aaron",PG,Sore knee
+608,INDIANA PACERS,10/24/16,"Miles, C.J.",G/F,Sore knee
+609,NEW ORLEANS PELICANS,04/08/2017,"Davis, Anthony",F/C,Sore left knee
+610,NEW ORLEANS PELICANS,04/08/2017,"Moore, E'Twaun",G,Sprained left ankle
+611,NEW ORLEANS PELICANS,04/06/2017,"Cousins, DeMarcus",F/C,Sore Achilles
+612,NEW ORLEANS PELICANS,3/31/17,"Ajinca, Alexis",F/C,Sore hip
+613,NEW ORLEANS PELICANS,3/25/17,"Cousins, DeMarcus",F/C,Sprained right ankle
+614,NEW ORLEANS PELICANS,3/13/17,"Cunningham, Dante",F,Illness
+615,NEW ORLEANS PELICANS,03/04/2017,"Jack, Jarrett",G,Lateral meniscus tear
+616,NEW ORLEANS PELICANS,2/28/17,"Jack, Jarrett",G,Right knee soreness
+617,NEW ORLEANS PELICANS,2/22/17,"Asik, Omer",F/C,Illness
+618,NEW ORLEANS PELICANS,1/23/17,"Davis, Anthony",F/C,Right quad contusion
+619,NEW ORLEANS PELICANS,1/17/17,"Davis, Anthony",F/C,Sprained left thumb
+620,NEW ORLEANS PELICANS,01/11/2017,"Davis, Anthony",F/C,Bruised left hip
+621,NEW ORLEANS PELICANS,12/17/16,"Davis, Anthony",F/C,Left lower leg contusion
+622,NEW ORLEANS PELICANS,12/14/16,"Frazier, Tim",G,Sprained right wrist
+623,NEW ORLEANS PELICANS,12/05/2016,"Holiday, Jrue",PG,Sore toe
+624,NEW ORLEANS PELICANS,12/05/2016,"Moore, E'Twaun",G,Sore toe
+625,NEW ORLEANS PELICANS,11/25/16,"Cunningham, Dante",F,Right fibula fracture
+626,NEW ORLEANS PELICANS,11/18/16,"Davis, Anthony",F/C,Sore quad
+627,NEW ORLEANS PELICANS,11/17/16,"Ajinca, Alexis",F/C,Left shoulder strain
+628,NEW ORLEANS PELICANS,11/16/16,"Davis, Anthony",F/C,Sore quad
+629,NEW ORLEANS PELICANS,11/14/16,"Moore, E'Twaun",G,Sore right toe
+630,NEW ORLEANS PELICANS,11/12/2016,"Davis, Anthony",F/C,Lower back
+631,NEW ORLEANS PELICANS,11/02/2016,"Cunningham, Dante",F,Sore hip
+632,NEW ORLEANS PELICANS,10/24/16,"Pondexter, Quincy",G/F,Knee surgery
+633,NEW ORLEANS PELICANS,10/15/16,"Thompson, Hollis",G/F,Illness
+634,NEW ORLEANS PELICANS,10/12/2016,"Davis, Anthony",F/C,Sprained ankle
+635,NEW ORLEANS PELICANS,10/12/2016,"Moore, E'Twaun",G,Right heel contusion
+636,DETROIT PISTONS,04/10/2017,"Udrih, Beno",PG,Sprained right knee
+637,DETROIT PISTONS,3/27/17,"Bullock, Reggie",G/F,Sprained right foot
+638,DETROIT PISTONS,2/23/17,"Baynes, Aron",C,Illness
+639,DETROIT PISTONS,02/06/2017,"Bullock, Reggie",G/F,Illness
+640,DETROIT PISTONS,1/17/17,"Baynes, Aron",C,Sore left knee
+641,DETROIT PISTONS,1/17/17,"Drummond, Andre",F/C,Sprained right knee
+642,DETROIT PISTONS,1/13/17,"Caldwell-Pope, Kentavious",SG,Sore left shoulder
+643,DETROIT PISTONS,01/10/2017,"Leuer, Jon",F/C,Sore right knee
+644,DETROIT PISTONS,01/01/2017,"Baynes, Aron",C,Sprained left ankle
+645,DETROIT PISTONS,12/30/16,"Morris, Marcus",F,Sore left knee
+646,DETROIT PISTONS,12/17/16,"Leuer, Jon",F/C,Back spasms
+647,DETROIT PISTONS,12/11/2016,"Caldwell-Pope, Kentavious",SG,Right knee contusion
+648,DETROIT PISTONS,11/25/16,"Bullock, Reggie",G/F,Left meniscus tear
+649,DETROIT PISTONS,11/14/16,"Drummond, Andre",F/C,Sore ankle
+650,DETROIT PISTONS,10/26/16,"Bullock, Reggie",G/F,Sore back
+651,DETROIT PISTONS,10/15/16,"Baynes, Aron",C,Lower back tightness
+652,DETROIT PISTONS,9/15/16,"Jackson, Reggie",G,Sprained knee
+653,TORONTO RAPTORS,05/05/2017,"Lowry, Kyle",PG,Left ankle sprain
+654,TORONTO RAPTORS,05/03/2017,"Lowry, Kyle",PG,Sprained left ankle
+655,TORONTO RAPTORS,04/12/2017,"DeRozan, DeMar",G/F,Illness
+656,TORONTO RAPTORS,04/02/2017,"Tucker, P.J.",G/F,Sore left knee
+657,TORONTO RAPTORS,3/25/17,"Carroll, DeMarre",F,Back
+658,TORONTO RAPTORS,3/13/17,"Carroll, DeMarre",F,Sore ankle
+659,TORONTO RAPTORS,03/06/2017,"Carroll, DeMarre",F,Sprained left ankle
+660,TORONTO RAPTORS,2/24/17,"Lowry, Kyle",PG,Sore right wrist
+661,TORONTO RAPTORS,02/04/2017,"Patterson, Patrick",F/C,Left knee contusion
+662,TORONTO RAPTORS,1/31/17,"DeRozan, DeMar",G/F,Sore right ankle
+663,TORONTO RAPTORS,1/22/17,"DeRozan, DeMar",G/F,Sprained right ankle
+664,TORONTO RAPTORS,1/18/17,"Carroll, DeMarre",F,Sore neck
+665,TORONTO RAPTORS,1/18/17,"Nogueira, Lucas",F/C,Concussion
+666,TORONTO RAPTORS,1/13/17,"Patterson, Patrick",F/C,Sore left knee
+667,TORONTO RAPTORS,01/10/2017,"Ibaka, Serge",F/C,Sore right shoulder
+668,TORONTO RAPTORS,12/29/16,"Patterson, Patrick",F/C,Strained left knee
+669,TORONTO RAPTORS,12/18/16,"Joseph, Cory",PG,Illness
+670,TORONTO RAPTORS,12/14/16,"Nogueira, Lucas",F/C,Sore right knee
+671,TORONTO RAPTORS,12/09/2016,"Caboclo, Bruno",SF,Sore right knee
+672,TORONTO RAPTORS,11/06/2016,"Valanciunas, Jonas",C,Sore knee
+673,TORONTO RAPTORS,10/28/16,"Nogueira, Lucas",F/C,Sore ankle
+674,TORONTO RAPTORS,10/24/16,"Wright, Delon",G,Sore shoulder
+675,TORONTO RAPTORS,9/17/16,"Tucker, P.J.",G/F,Back surgery
+676,HOUSTON ROCKETS,04/12/2017,"Williams, Troy",G/F,Sore back
+677,HOUSTON ROCKETS,04/10/2017,"Beverley, Patrick",G,Sore shoulder
+678,HOUSTON ROCKETS,04/08/2017,"Hilario, Nene",F/C,Sore finger
+679,HOUSTON ROCKETS,04/03/2017,"Dekker, Sam",F,Broken hand
+680,HOUSTON ROCKETS,04/02/2017,"Harden, James",G,Flu
+681,HOUSTON ROCKETS,3/25/17,"Anderson, Ryan",F/C,Sprained ankle
+682,HOUSTON ROCKETS,03/07/2017,"Anderson, Ryan",F/C,Back spasms
+683,HOUSTON ROCKETS,2/25/17,"Beverley, Patrick",G,Sore groin
+684,HOUSTON ROCKETS,2/15/17,"Beverley, Patrick",G,Left groin
+685,HOUSTON ROCKETS,2/13/17,"Anderson, Ryan",F/C,Sore thumb
+686,HOUSTON ROCKETS,02/09/2017,"Gordon, Eric",SG,Sore back
+687,HOUSTON ROCKETS,02/09/2017,"Hilario, Nene",F/C,Sore shoulder
+688,HOUSTON ROCKETS,02/03/2017,"Hilario, Nene",F/C,Sore groin
+689,HOUSTON ROCKETS,1/25/17,"Gordon, Eric",SG,Sore lower back
+690,HOUSTON ROCKETS,1/21/17,"Anderson, Ryan",F/C,Flu
+691,HOUSTON ROCKETS,1/17/17,"Anderson, Ryan",F/C,Illness
+692,HOUSTON ROCKETS,01/09/2017,"Gordon, Eric",SG,Sore toe
+693,HOUSTON ROCKETS,01/01/2017,"Beverley, Patrick",G,Sore wrist
+694,HOUSTON ROCKETS,12/27/16,"Beverley, Patrick",G,Bruised left thigh
+695,HOUSTON ROCKETS,12/19/16,"Capela, Clint",F/C,Fractured left fibula
+696,HOUSTON ROCKETS,11/19/16,"Harrell, Montrezl",F/C,Sore calf
+697,HOUSTON ROCKETS,10/31/16,"Harden, James",G,Sprained left ankle
+698,HOUSTON ROCKETS,10/28/16,"Hilario, Nene",F/C,Sore thigh
+699,HOUSTON ROCKETS,10/23/16,"Beverley, Patrick",G,Knee surgery
+700,HOUSTON ROCKETS,10/12/2016,"Capela, Clint",F/C,Tight hamstring
+701,SAN ANTONIO SPURS,5/21/17,"Lee, David",F/C,Torn left patellar tendon
+702,SAN ANTONIO SPURS,5/14/17,"Leonard, Kawhi",G/F,Sore ankle
+703,SAN ANTONIO SPURS,05/09/2017,"Leonard, Kawhi",G/F,Sprained left ankle
+704,SAN ANTONIO SPURS,05/04/2017,"Parker, Tony",PG,Ruptured tendon
+705,SAN ANTONIO SPURS,4/22/17,"Dedmon, Dewayne",C,Illness
+706,SAN ANTONIO SPURS,04/05/2017,"Ginobili, Manu",G/F,Right quad contusion
+707,SAN ANTONIO SPURS,04/01/2017,"Aldridge, LaMarcus",F/C,Sprained left thumb
+708,SAN ANTONIO SPURS,04/01/2017,"Green, Danny",G/F,Left quad contusion
+709,SAN ANTONIO SPURS,3/23/17,"Lee, David",F/C,Sore left foot
+710,SAN ANTONIO SPURS,3/13/17,"Murray, Dejounte",PG,Sore left groin
+711,SAN ANTONIO SPURS,03/11/2017,"Aldridge, LaMarcus",F/C,Heart arrhythmia
+712,SAN ANTONIO SPURS,03/10/2017,"Leonard, Kawhi",G/F,Concussion
+713,SAN ANTONIO SPURS,03/09/2017,"Parker, Tony",PG,Back stiffness
+714,SAN ANTONIO SPURS,2/26/17,"Parker, Tony",PG,Sore knee
+715,SAN ANTONIO SPURS,2/15/17,"Ginobili, Manu",G/F,Left ankle impingement
+716,SAN ANTONIO SPURS,02/12/2017,"Simmons, Jonathon",G/F,Illness
+717,SAN ANTONIO SPURS,02/06/2017,"Leonard, Kawhi",G/F,Quad contusion
+718,SAN ANTONIO SPURS,02/02/2017,"Aldridge, LaMarcus",F/C,Sore right knee
+719,SAN ANTONIO SPURS,1/26/17,"Simmons, Jonathon",G/F,Sprained right wrist
+720,SAN ANTONIO SPURS,1/23/17,"Leonard, Kawhi",G/F,Sore hand
+721,SAN ANTONIO SPURS,1/22/17,"Ginobili, Manu",G/F,Sore back
+722,SAN ANTONIO SPURS,1/20/17,"Gasol, Pau",F/C,Fractured left finger
+723,SAN ANTONIO SPURS,1/19/17,"Parker, Tony",PG,Left foot pain
+724,SAN ANTONIO SPURS,1/16/17,"Murray, Dejounte",PG,Sprained Right Ankle
+725,SAN ANTONIO SPURS,1/14/17,"Mills, Patty",PG,Left calf tightness
+726,SAN ANTONIO SPURS,01/10/2017,"Aldridge, LaMarcus",F/C,Illness
+727,SAN ANTONIO SPURS,01/07/2017,"Lee, David",F/C,Sore knee
+728,SAN ANTONIO SPURS,12/28/16,"Leonard, Kawhi",G/F,Illness
+729,SAN ANTONIO SPURS,12/06/2016,"Parker, Tony",PG,Sore thigh
+730,SAN ANTONIO SPURS,11/21/16,"Laprovittola, Nicolás",PG,Teeth
+731,SAN ANTONIO SPURS,11/21/16,"Parker, Tony",PG,Sore knee
+732,SAN ANTONIO SPURS,11/15/16,"Dedmon, Dewayne",C,Left knee sprain
+733,SAN ANTONIO SPURS,11/03/2016,"Parker, Tony",PG,Sore knee
+734,SAN ANTONIO SPURS,11/01/2016,"Bertans, Davis",F,Sore leg
+735,SAN ANTONIO SPURS,10/30/16,"Aldridge, LaMarcus",F/C,Rest
+736,SAN ANTONIO SPURS,10/29/16,"Ginobili, Manu",G/F,Rest
+737,SAN ANTONIO SPURS,10/29/16,"Parker, Tony",PG,Rest
+738,SAN ANTONIO SPURS,10/21/16,"Green, Danny",G/F,Left quad strain
+739,PHOENIX SUNS,3/28/17,"Booker, Devin",SG,Sore ankle
+740,PHOENIX SUNS,3/27/17,"Barbosa, Leandro",G,Sore right hamstring
+741,PHOENIX SUNS,3/23/17,"Warren, T.J.",SF,Left foot contusion
+742,PHOENIX SUNS,3/19/17,"Barbosa, Leandro",G,Illness
+743,PHOENIX SUNS,3/19/17,"Booker, Devin",SG,Sore ankle
+744,PHOENIX SUNS,3/19/17,"Price, Ronnie",G,Leg contusion
+745,PHOENIX SUNS,3/15/17,"Bledsoe, Eric",G,Left knee soreness
+746,PHOENIX SUNS,3/15/17,"Jones Jr., Derrick",SF,Right hip contusion
+747,PHOENIX SUNS,3/15/17,"Knight, Brandon",G,Back spasms
+748,PHOENIX SUNS,02/11/2017,"Chandler, Tyson",C,Sprained right ankle
+749,PHOENIX SUNS,02/06/2017,"Bender, Dragan",PF,Right ankle surgery
+750,PHOENIX SUNS,02/01/2017,"Dudley, Jared",F,Illness
+751,PHOENIX SUNS,1/22/17,"Bender, Dragan",PF,Sore right ankle
+752,PHOENIX SUNS,1/16/17,"Knight, Brandon",G,Sore wrist
+753,PHOENIX SUNS,01/03/2017,"Knight, Brandon",G,Sprained right wrist
+754,PHOENIX SUNS,12/22/16,"Barbosa, Leandro",G,Right knee tendinitis
+755,PHOENIX SUNS,12/22/16,"Knight, Brandon",G,Sore right thigh
+756,PHOENIX SUNS,12/14/16,"Knight, Brandon",G,Sprained left hand
+757,PHOENIX SUNS,12/12/2016,"Len, Alex",F/C,Right hip contusion
+758,PHOENIX SUNS,11/27/16,"Dudley, Jared",F,Sore foot
+759,PHOENIX SUNS,11/19/16,"Booker, Devin",SG,Sore ankle
+760,PHOENIX SUNS,11/18/16,"Warren, T.J.",SF,Illness
+761,PHOENIX SUNS,10/31/16,"Booker, Devin",SG,Sore toe
+762,PHOENIX SUNS,10/26/16,"Scott, Mike",PF,Left knee
+763,PHOENIX SUNS,10/23/16,"Sullinger, Jared",F/C,Sore foot
+764,PHOENIX SUNS,10/12/2016,"Jenkins, John",G/F,Abdominal strain
+765,PHOENIX SUNS,10/12/2016,"Knight, Brandon",G,Left knee tendinitis
+766,PHOENIX SUNS,10/12/2016,"Price, Ronnie",G,Concussion
+767,OKLAHOMA CITY THUNDER,04/10/2017,"McDermott, Doug",SF,Sore left knee
+768,OKLAHOMA CITY THUNDER,04/06/2017,"Abrines, Álex",SG,Sprained left knee
+769,OKLAHOMA CITY THUNDER,04/06/2017,"Roberson, Andre",G/F,Sore left knee
+770,OKLAHOMA CITY THUNDER,3/31/17,"Gibson, Taj",F/C,Illness
+771,OKLAHOMA CITY THUNDER,2/24/17,"Oladipo, Victor",G,Back spasms
+772,OKLAHOMA CITY THUNDER,02/08/2017,"Abrines, Álex",SG,Back
+773,OKLAHOMA CITY THUNDER,1/29/17,"Gibson, Taj",F/C,Sore ankle
+774,OKLAHOMA CITY THUNDER,1/26/17,"Kanter, Enes",C,Fractured hand
+775,OKLAHOMA CITY THUNDER,1/17/17,"Gibson, Taj",F/C,Sore ankle
+776,OKLAHOMA CITY THUNDER,1/16/17,"Adams, Steven",C,Concussion
+777,OKLAHOMA CITY THUNDER,01/01/2017,"Abrines, Álex",SG,Concussion
+778,OKLAHOMA CITY THUNDER,12/26/16,"McDermott, Doug",SF,Sore shin
+779,OKLAHOMA CITY THUNDER,12/11/2016,"Oladipo, Victor",G,Sprained right wrist
+780,OKLAHOMA CITY THUNDER,12/04/2016,"Adams, Steven",C,Sprained left ankle
+781,OKLAHOMA CITY THUNDER,11/18/16,"Christon, Semaj",PG,Concussion
+782,OKLAHOMA CITY THUNDER,11/12/2016,"McDermott, Doug",SF,Concussion
+783,OKLAHOMA CITY THUNDER,11/01/2016,"McDermott, Doug",SF,Concussion
+784,OKLAHOMA CITY THUNDER,10/16/16,"Abrines, Álex",SG,Bruised right hip
+785,OKLAHOMA CITY THUNDER,10/15/16,"Roberson, Andre",G/F,Left knee soreness
+786,MINNESOTA TIMBERWOLVES,3/15/17,"Bjelica, Nemanja",PF,Left ankle
+787,MINNESOTA TIMBERWOLVES,03/08/2017,"Rush, Brandon",G/F,Illness
+788,MINNESOTA TIMBERWOLVES,2/23/17,"Casspi, Omri",F,Broken thumb
+789,MINNESOTA TIMBERWOLVES,02/04/2017,"LaVine, Zach",G,Torn ACL
+790,MINNESOTA TIMBERWOLVES,02/04/2017,"Payne, Adreian",PF,Illness
+791,MINNESOTA TIMBERWOLVES,02/03/2017,"Dunn, Kris",G,Sore right hand
+792,MINNESOTA TIMBERWOLVES,1/22/17,"Rubio, Ricky",PG,Sore hip
+793,MINNESOTA TIMBERWOLVES,1/17/17,"Casspi, Omri",F,Strained calf
+794,MINNESOTA TIMBERWOLVES,01/10/2017,"LaVine, Zach",G,Left hip contusion
+795,MINNESOTA TIMBERWOLVES,01/06/2017,"Muhammad, Shabazz",G/F,Illness
+796,MINNESOTA TIMBERWOLVES,12/16/16,"Casspi, Omri",F,Illness
+797,MINNESOTA TIMBERWOLVES,12/09/2016,"Bjelica, Nemanja",PF,Sore right ankle
+798,MINNESOTA TIMBERWOLVES,11/28/16,"Rush, Brandon",G/F,Sprained right big toe
+799,MINNESOTA TIMBERWOLVES,11/13/16,"LaVine, Zach",G,Sore knee
+800,MINNESOTA TIMBERWOLVES,11/13/16,"Muhammad, Shabazz",G/F,Sore knee
+801,MINNESOTA TIMBERWOLVES,11/13/16,"Rush, Brandon",G/F,Sore toe
+802,MINNESOTA TIMBERWOLVES,11/01/2016,"Casspi, Omri",F,Illness
+803,MINNESOTA TIMBERWOLVES,10/31/16,"Rubio, Ricky",PG,Sore elbow
+804,MINNESOTA TIMBERWOLVES,10/03/2016,"Pekovic, Nikola",C,Sore right foot
+805,PORTLAND TRAIL BLAZERS,4/24/17,"Nurkic, Jusuf",C,Right leg
+806,PORTLAND TRAIL BLAZERS,4/18/17,"McCollum, C.J.",G,Sprained right ankle
+807,PORTLAND TRAIL BLAZERS,4/15/17,"Quarterman, Tim",PG,Concussion
+808,PORTLAND TRAIL BLAZERS,04/08/2017,"Crabbe, Allen",G,Sore left foot
+809,PORTLAND TRAIL BLAZERS,3/31/17,"Nurkic, Jusuf",C,Right leg fibular fracture
+810,PORTLAND TRAIL BLAZERS,03/01/2017,"Davis, Ed",F/C,Shoulder surgery
+811,PORTLAND TRAIL BLAZERS,2/14/17,"Aminu, Al-Farouq",F,Sprained left knee
+812,PORTLAND TRAIL BLAZERS,02/08/2017,"Turner, Evan",G/F,Broken hand
+813,PORTLAND TRAIL BLAZERS,1/25/17,"Harkless, Maurice",SF,Sore left calf
+814,PORTLAND TRAIL BLAZERS,1/21/17,"Davis, Ed",F/C,Sprained right wrist
+815,PORTLAND TRAIL BLAZERS,1/17/17,"Davis, Ed",F/C,Sprained left ankle
+816,PORTLAND TRAIL BLAZERS,1/13/17,"Harkless, Maurice",SF,Strained calf
+817,PORTLAND TRAIL BLAZERS,12/26/16,"Lillard, Damian",PG,Sprained left ankle
+818,PORTLAND TRAIL BLAZERS,12/20/16,"Turner, Evan",G/F,Sore left ankle
+819,PORTLAND TRAIL BLAZERS,12/14/16,"Aminu, Al-Farouq",F,Back contusion
+820,PORTLAND TRAIL BLAZERS,12/09/2016,"Aminu, Al-Farouq",F,Back contusion
+821,PORTLAND TRAIL BLAZERS,12/08/2016,"Harkless, Maurice",SF,Sore ankle
+822,PORTLAND TRAIL BLAZERS,11/09/2016,"Aminu, Al-Farouq",F,Sore calf
+823,PORTLAND TRAIL BLAZERS,10/24/16,"Ezeli, Festus",C,Sore knee
+824,PORTLAND TRAIL BLAZERS,10/24/16,"Napier, Shabazz",PG,Sore ankle
+825,PORTLAND TRAIL BLAZERS,10/16/16,"Leonard, Meyers",F/C,Lower back
+826,GOLDEN STATE WARRIORS,5/17/17,"Pachulia, Zaza",C,Right heel contusion
+827,GOLDEN STATE WARRIORS,5/14/17,"Iguodala, Andre",G/F,Sore left knee
+828,GOLDEN STATE WARRIORS,4/24/17,"Livingston, Shaun",G,"Sprained right finger, hand contusion"
+829,GOLDEN STATE WARRIORS,4/18/17,"Durant, Kevin",F,Left calf strain
+830,GOLDEN STATE WARRIORS,04/10/2017,"Barnes, Matt",G/F,Sprained right ankle and foot
+831,GOLDEN STATE WARRIORS,04/10/2017,"Looney, Kevon",PF,Strained left hip
+832,GOLDEN STATE WARRIORS,04/07/2017,"Curry, Stephen",G,Left knee contusion
+833,GOLDEN STATE WARRIORS,3/31/17,"Looney, Kevon",PF,Sore hip
+834,GOLDEN STATE WARRIORS,3/31/17,"McCaw, Patrick",G/F,Leg cramps
+835,GOLDEN STATE WARRIORS,3/21/17,"Iguodala, Andre",G/F,Left hip strain
+836,GOLDEN STATE WARRIORS,2/28/17,"Durant, Kevin",F,Hyperextended left knee
+837,GOLDEN STATE WARRIORS,2/25/17,"Durant, Kevin",F,Left hand contusion
+838,GOLDEN STATE WARRIORS,2/13/17,"Thompson, Klay",G/F,Heel
+839,GOLDEN STATE WARRIORS,02/02/2017,"Green, Draymond",F,Left shoulder contusion
+840,GOLDEN STATE WARRIORS,02/01/2017,"Livingston, Shaun",G,Mid-back strain
+841,GOLDEN STATE WARRIORS,02/01/2017,"Pachulia, Zaza",C,Strained rotator cuff
+842,GOLDEN STATE WARRIORS,1/27/17,"Curry, Stephen",G,Sore left quad
+843,GOLDEN STATE WARRIORS,1/19/17,"West, David",PF,Fractured left thumb
+844,GOLDEN STATE WARRIORS,01/02/2017,"McGee, JaVale",C,Illness
+845,GOLDEN STATE WARRIORS,01/01/2017,"Livingston, Shaun",G,"Left hip, right elbow contusions"
+846,GOLDEN STATE WARRIORS,12/30/16,"McCaw, Patrick",G/F,Illness
+847,GOLDEN STATE WARRIORS,12/16/16,"West, David",PF,Bruised right hip
+848,GOLDEN STATE WARRIORS,12/10/2016,"Looney, Kevon",PF,Ankle sprain
+849,GOLDEN STATE WARRIORS,12/10/2016,"Pachulia, Zaza",C,Sore wrist
+850,GOLDEN STATE WARRIORS,11/26/16,"Clark, Ian",G,Bruised throat
+851,GOLDEN STATE WARRIORS,11/26/16,"Green, Draymond",F,Sore ankle
+852,GOLDEN STATE WARRIORS,10/29/16,"McCaw, Patrick",G/F,Sore ankle
+853,GOLDEN STATE WARRIORS,10/26/16,"Jones, Damian",C,Torn pectoral
+854,WASHINGTON WIZARDS,4/30/17,"Morris, Markieff",F,Sore ankle
+855,WASHINGTON WIZARDS,4/22/17,"Porter, Otto",SF,Strained neck
+856,WASHINGTON WIZARDS,4/17/17,"Oubre Jr., Kelly",SF,Bruised knee
+857,WASHINGTON WIZARDS,4/17/17,"Smith, Jason",F/C,Left knee contusion
+858,WASHINGTON WIZARDS,4/15/17,"Mahinmi, Ian",C,Strained calf
+859,WASHINGTON WIZARDS,04/10/2017,"Wall, John",PG,Sore quad
+860,WASHINGTON WIZARDS,04/08/2017,"Porter, Otto",SF,Sore back
+861,WASHINGTON WIZARDS,04/06/2017,"Morris, Markieff",F,Sore right ankle
+862,WASHINGTON WIZARDS,04/01/2017,"Morris, Markieff",F,Right ankle
+863,WASHINGTON WIZARDS,3/25/17,"Bogdanovic, Bojan",G/F,Lower back stiffness
+864,WASHINGTON WIZARDS,3/18/17,"Morris, Markieff",F,Illness
+865,WASHINGTON WIZARDS,3/15/17,"Wall, John",PG,Sprained left foot
+866,WASHINGTON WIZARDS,2/15/17,"Jennings, Brandon",PG,Sore left Achilles
+867,WASHINGTON WIZARDS,2/14/17,"Burke, Trey",PG,Sore forearm
+868,WASHINGTON WIZARDS,02/08/2017,"Morris, Markieff",F,Sore calf
+869,WASHINGTON WIZARDS,01/10/2017,"Satoransky, Tomas",G,Illness
+870,WASHINGTON WIZARDS,12/28/16,"Beal, Bradley",SG,Right ankle
+871,WASHINGTON WIZARDS,12/21/16,"Porter, Otto",SF,Back spasms
+872,WASHINGTON WIZARDS,12/17/16,"Oubre Jr., Kelly",SF,Concussion
+873,WASHINGTON WIZARDS,12/14/16,"Morris, Markieff",F,Sore left foot
+874,WASHINGTON WIZARDS,11/28/16,"Mahinmi, Ian",C,Sore knee
+875,WASHINGTON WIZARDS,11/21/16,"Porter, Otto",SF,Right hip inflammation
+876,WASHINGTON WIZARDS,11/09/2016,"Beal, Bradley",SG,Sore right hamstring
+877,WASHINGTON WIZARDS,10/24/16,"Smith, Jason",F/C,Sore ribs
+878,WASHINGTON WIZARDS,10/15/16,"Mahinmi, Ian",C,Torn meniscus
+879,WASHINGTON WIZARDS,10/09/2016,"Gortat, Marcin",C,Sore glute
