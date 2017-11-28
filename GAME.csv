@@ -1,4 +1,4 @@
-GAME_ID,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS,Notes
+GAME_ID,Date,Start (ET),Visitor/Neutral,Visitor_PTS,Home/Neutral,Home_PTS,Notes
 1,"Tue, Oct 25, 2016",7:30 PM,New York Knicks,88,Cleveland Cavaliers,117,
 2,"Tue, Oct 25, 2016",10:30 PM,San Antonio Spurs,129,Golden State Warriors,100,
 3,"Tue, Oct 25, 2016",10:00 PM,Utah Jazz,104,Portland Trail Blazers,113,

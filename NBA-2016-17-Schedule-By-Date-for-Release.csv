@@ -1,0 +1,1233 @@
+GAME NUMBER,DAY,DATE,VISITOR,HOME,LOCAL,EASTERN
+1,Tue.,25-Oct-16,New York Knicks,Cleveland Cavaliers,8:00 PM,8:00 PM
+2,Tue.,25-Oct-16,Utah Jazz,Portland Trail Blazers,7:00 PM,10:00 PM
+3,Tue.,25-Oct-16,San Antonio Spurs,Golden State Warriors,7:30 PM,10:30 PM
+4,Wed.,26-Oct-16,Miami Heat,Orlando Magic,7:00 PM,7:00 PM
+5,Wed.,26-Oct-16,Dallas Mavericks,Indiana Pacers,7:00 PM,7:00 PM
+6,Wed.,26-Oct-16,Brooklyn Nets,Boston Celtics,7:30 PM,7:30 PM
+7,Wed.,26-Oct-16,Detroit Pistons,Toronto Raptors,7:30 PM,7:30 PM
+8,Wed.,26-Oct-16,Charlotte Hornets,Milwaukee Bucks,7:00 PM,8:00 PM
+9,Wed.,26-Oct-16,Minnesota Timberwolves,Memphis Grizzlies,7:00 PM,8:00 PM
+10,Wed.,26-Oct-16,Denver Nuggets,New Orleans Pelicans,7:00 PM,8:00 PM
+11,Wed.,26-Oct-16,Oklahoma City Thunder,Philadelphia 76ers,8:00 PM,8:00 PM
+12,Wed.,26-Oct-16,Sacramento Kings,Phoenix Suns,7:00 PM,10:00 PM
+13,Wed.,26-Oct-16,Houston Rockets,Los Angeles Lakers,7:30 PM,10:30 PM
+14,Thu.,27-Oct-16,Washington Wizards,Atlanta Hawks,7:30 PM,7:30 PM
+15,Thu.,27-Oct-16,Boston Celtics,Chicago Bulls,7:00 PM,8:00 PM
+16,Thu.,27-Oct-16,San Antonio Spurs,Sacramento Kings,7:30 PM,10:30 PM
+17,Thu.,27-Oct-16,Los Angeles Clippers,Portland Trail Blazers,7:30 PM,10:30 PM
+18,Fri.,28-Oct-16,Cleveland Cavaliers,Toronto Raptors,7:00 PM,7:00 PM
+19,Fri.,28-Oct-16,Indiana Pacers,Brooklyn Nets,7:30 PM,7:30 PM
+20,Fri.,28-Oct-16,Orlando Magic,Detroit Pistons,7:30 PM,7:30 PM
+21,Fri.,28-Oct-16,Phoenix Suns,Oklahoma City Thunder,7:00 PM,8:00 PM
+22,Fri.,28-Oct-16,Charlotte Hornets,Miami Heat,8:00 PM,8:00 PM
+23,Fri.,28-Oct-16,Houston Rockets,Dallas Mavericks,7:30 PM,8:30 PM
+24,Fri.,28-Oct-16,Los Angeles Lakers,Utah Jazz,7:00 PM,9:00 PM
+25,Fri.,28-Oct-16,Golden State Warriors,New Orleans Pelicans,8:30 PM,9:30 PM
+26,Sat.,29-Oct-16,Atlanta Hawks,Philadelphia 76ers,1:00 PM,1:00 PM
+27,Sat.,29-Oct-16,Boston Celtics,Charlotte Hornets,7:00 PM,7:00 PM
+28,Sat.,29-Oct-16,Memphis Grizzlies,New York Knicks,7:30 PM,7:30 PM
+29,Sat.,29-Oct-16,Orlando Magic,Cleveland Cavaliers,7:30 PM,7:30 PM
+30,Sat.,29-Oct-16,Indiana Pacers,Chicago Bulls,7:00 PM,8:00 PM
+31,Sat.,29-Oct-16,Brooklyn Nets,Milwaukee Bucks,7:00 PM,8:00 PM
+32,Sat.,29-Oct-16,New Orleans Pelicans,San Antonio Spurs,7:00 PM,8:00 PM
+33,Sat.,29-Oct-16,Portland Trail Blazers,Denver Nuggets,7:00 PM,9:00 PM
+34,Sat.,29-Oct-16,Minnesota Timberwolves,Sacramento Kings,7:30 PM,10:30 PM
+35,Sun.,30-Oct-16,Utah Jazz,Los Angeles Clippers,1:30 PM,4:30 PM
+36,Sun.,30-Oct-16,Golden State Warriors,Phoenix Suns,3:00 PM,6:00 PM
+37,Sun.,30-Oct-16,San Antonio Spurs,Miami Heat,6:00 PM,6:00 PM
+38,Sun.,30-Oct-16,Milwaukee Bucks,Detroit Pistons,6:00 PM,6:00 PM
+39,Sun.,30-Oct-16,Washington Wizards,Memphis Grizzlies,6:00 PM,7:00 PM
+40,Sun.,30-Oct-16,Los Angeles Lakers,Oklahoma City Thunder,6:00 PM,7:00 PM
+41,Sun.,30-Oct-16,Dallas Mavericks,Houston Rockets,7:00 PM,8:00 PM
+42,Mon.,31-Oct-16,Denver Nuggets,Toronto Raptors,7:30 PM,7:30 PM
+43,Mon.,31-Oct-16,Chicago Bulls,Brooklyn Nets,7:30 PM,7:30 PM
+44,Mon.,31-Oct-16,Sacramento Kings,Atlanta Hawks,7:30 PM,7:30 PM
+45,Mon.,31-Oct-16,Phoenix Suns,Los Angeles Clippers,7:30 PM,10:30 PM
+46,Tue.,1-Nov-16,Orlando Magic,Philadelphia 76ers,7:00 PM,7:00 PM
+47,Tue.,1-Nov-16,Houston Rockets,Cleveland Cavaliers,7:00 PM,7:00 PM
+48,Tue.,1-Nov-16,Los Angeles Lakers,Indiana Pacers,7:00 PM,7:00 PM
+49,Tue.,1-Nov-16,Sacramento Kings,Miami Heat,7:30 PM,7:30 PM
+50,Tue.,1-Nov-16,New York Knicks,Detroit Pistons,7:30 PM,7:30 PM
+51,Tue.,1-Nov-16,Milwaukee Bucks,New Orleans Pelicans,7:00 PM,8:00 PM
+52,Tue.,1-Nov-16,Memphis Grizzlies,Minnesota Timberwolves,7:00 PM,8:00 PM
+53,Tue.,1-Nov-16,Utah Jazz,San Antonio Spurs,7:30 PM,8:30 PM
+54,Tue.,1-Nov-16,Golden State Warriors,Portland Trail Blazers,7:00 PM,10:00 PM
+55,Wed.,2-Nov-16,Toronto Raptors,Washington Wizards,7:00 PM,7:00 PM
+56,Wed.,2-Nov-16,Philadelphia 76ers,Charlotte Hornets,7:00 PM,7:00 PM
+57,Wed.,2-Nov-16,Detroit Pistons,Brooklyn Nets,7:30 PM,7:30 PM
+58,Wed.,2-Nov-16,Houston Rockets,New York Knicks,7:30 PM,7:30 PM
+59,Wed.,2-Nov-16,Los Angeles Lakers,Atlanta Hawks,7:30 PM,7:30 PM
+60,Wed.,2-Nov-16,New Orleans Pelicans,Memphis Grizzlies,7:00 PM,8:00 PM
+61,Wed.,2-Nov-16,Chicago Bulls,Boston Celtics,8:00 PM,8:00 PM
+62,Wed.,2-Nov-16,Dallas Mavericks,Utah Jazz,7:00 PM,9:00 PM
+63,Wed.,2-Nov-16,Portland Trail Blazers,Phoenix Suns,7:00 PM,10:00 PM
+64,Wed.,2-Nov-16,Oklahoma City Thunder,Los Angeles Clippers,7:30 PM,10:30 PM
+65,Thu.,3-Nov-16,Sacramento Kings,Orlando Magic,7:00 PM,7:00 PM
+66,Thu.,3-Nov-16,Indiana Pacers,Milwaukee Bucks,7:00 PM,8:00 PM
+67,Thu.,3-Nov-16,Denver Nuggets,Minnesota Timberwolves,7:00 PM,8:00 PM
+68,Thu.,3-Nov-16,Boston Celtics,Cleveland Cavaliers,8:00 PM,8:00 PM
+69,Thu.,3-Nov-16,Oklahoma City Thunder,Golden State Warriors,7:30 PM,10:30 PM
+70,Fri.,4-Nov-16,Atlanta Hawks,Washington Wizards,7:00 PM,7:00 PM
+71,Fri.,4-Nov-16,Miami Heat,Toronto Raptors,7:30 PM,7:30 PM
+72,Fri.,4-Nov-16,Charlotte Hornets,Brooklyn Nets,7:30 PM,7:30 PM
+73,Fri.,4-Nov-16,New York Knicks,Chicago Bulls,7:00 PM,8:00 PM
+74,Fri.,4-Nov-16,Los Angeles Clippers,Memphis Grizzlies,7:00 PM,8:00 PM
+75,Fri.,4-Nov-16,Phoenix Suns,New Orleans Pelicans,7:00 PM,8:00 PM
+76,Fri.,4-Nov-16,Portland Trail Blazers,Dallas Mavericks,7:30 PM,8:30 PM
+77,Fri.,4-Nov-16,San Antonio Spurs,Utah Jazz,7:00 PM,9:00 PM
+78,Fri.,4-Nov-16,Golden State Warriors,Los Angeles Lakers,7:30 PM,10:30 PM
+79,Sat.,5-Nov-16,Minnesota Timberwolves,Oklahoma City Thunder,5:00 PM,6:00 PM
+80,Sat.,5-Nov-16,Cleveland Cavaliers,Philadelphia 76ers,7:00 PM,7:00 PM
+81,Sat.,5-Nov-16,Washington Wizards,Orlando Magic,7:00 PM,7:00 PM
+82,Sat.,5-Nov-16,Denver Nuggets,Detroit Pistons,7:00 PM,7:00 PM
+83,Sat.,5-Nov-16,Chicago Bulls,Indiana Pacers,7:00 PM,7:00 PM
+84,Sat.,5-Nov-16,Houston Rockets,Atlanta Hawks,7:30 PM,7:30 PM
+85,Sat.,5-Nov-16,Sacramento Kings,Milwaukee Bucks,7:00 PM,8:00 PM
+86,Sat.,5-Nov-16,Los Angeles Clippers,San Antonio Spurs,7:30 PM,8:30 PM
+87,Sun.,6-Nov-16,Utah Jazz,New York Knicks,12:00 PM,12:00 PM
+88,Sun.,6-Nov-16,Portland Trail Blazers,Memphis Grizzlies,2:30 PM,3:30 PM
+89,Sun.,6-Nov-16,Sacramento Kings,Toronto Raptors,6:00 PM,6:00 PM
+90,Sun.,6-Nov-16,Milwaukee Bucks,Dallas Mavericks,6:00 PM,7:00 PM
+91,Sun.,6-Nov-16,Denver Nuggets,Boston Celtics,7:30 PM,7:30 PM
+92,Sun.,6-Nov-16,Phoenix Suns,Los Angeles Lakers,6:30 PM,9:30 PM
+93,Mon.,7-Nov-16,Utah Jazz,Philadelphia 76ers,7:00 PM,7:00 PM
+94,Mon.,7-Nov-16,Houston Rockets,Washington Wizards,7:00 PM,7:00 PM
+95,Mon.,7-Nov-16,Indiana Pacers,Charlotte Hornets,7:00 PM,7:00 PM
+96,Mon.,7-Nov-16,Orlando Magic,Chicago Bulls,7:00 PM,8:00 PM
+97,Mon.,7-Nov-16,Miami Heat,Oklahoma City Thunder,7:00 PM,8:00 PM
+98,Mon.,7-Nov-16,Detroit Pistons,Los Angeles Clippers,7:30 PM,10:30 PM
+99,Mon.,7-Nov-16,New Orleans Pelicans,Golden State Warriors,7:30 PM,10:30 PM
+100,Tue.,8-Nov-16,Atlanta Hawks,Cleveland Cavaliers,7:00 PM,7:00 PM
+101,Tue.,8-Nov-16,Minnesota Timberwolves,Brooklyn Nets,7:30 PM,7:30 PM
+102,Tue.,8-Nov-16,Denver Nuggets,Memphis Grizzlies,7:00 PM,8:00 PM
+103,Tue.,8-Nov-16,Phoenix Suns,Portland Trail Blazers,7:00 PM,10:00 PM
+104,Tue.,8-Nov-16,Dallas Mavericks,Los Angeles Lakers,7:30 PM,10:30 PM
+105,Tue.,8-Nov-16,New Orleans Pelicans,Sacramento Kings,7:30 PM,10:30 PM
+106,Wed.,9-Nov-16,Brooklyn Nets,New York Knicks,7:00 PM,7:00 PM
+107,Wed.,9-Nov-16,Boston Celtics,Washington Wizards,7:00 PM,7:00 PM
+108,Wed.,9-Nov-16,Utah Jazz,Charlotte Hornets,7:00 PM,7:00 PM
+109,Wed.,9-Nov-16,Minnesota Timberwolves,Orlando Magic,7:00 PM,7:00 PM
+110,Wed.,9-Nov-16,Philadelphia 76ers,Indiana Pacers,7:00 PM,7:00 PM
+111,Wed.,9-Nov-16,Chicago Bulls,Atlanta Hawks,7:30 PM,7:30 PM
+112,Wed.,9-Nov-16,Toronto Raptors,Oklahoma City Thunder,7:00 PM,8:00 PM
+113,Wed.,9-Nov-16,Detroit Pistons,Phoenix Suns,7:00 PM,9:00 PM
+114,Wed.,9-Nov-16,Houston Rockets,San Antonio Spurs,8:30 PM,9:30 PM
+115,Wed.,9-Nov-16,Portland Trail Blazers,Los Angeles Clippers,7:30 PM,10:30 PM
+116,Wed.,9-Nov-16,Dallas Mavericks,Golden State Warriors,7:30 PM,10:30 PM
+117,Thu.,10-Nov-16,New Orleans Pelicans,Milwaukee Bucks,7:00 PM,8:00 PM
+118,Thu.,10-Nov-16,Chicago Bulls,Miami Heat,8:00 PM,8:00 PM
+119,Thu.,10-Nov-16,Golden State Warriors,Denver Nuggets,7:00 PM,9:00 PM
+120,Thu.,10-Nov-16,Los Angeles Lakers,Sacramento Kings,7:30 PM,10:30 PM
+121,Fri.,11-Nov-16,Indiana Pacers,Philadelphia 76ers,7:00 PM,7:00 PM
+122,Fri.,11-Nov-16,Cleveland Cavaliers,Washington Wizards,7:00 PM,7:00 PM
+123,Fri.,11-Nov-16,Toronto Raptors,Charlotte Hornets,7:00 PM,7:00 PM
+124,Fri.,11-Nov-16,Utah Jazz,Orlando Magic,7:00 PM,7:00 PM
+125,Fri.,11-Nov-16,New York Knicks,Boston Celtics,7:30 PM,7:30 PM
+126,Fri.,11-Nov-16,Los Angeles Clippers,Oklahoma City Thunder,7:00 PM,8:00 PM
+127,Fri.,11-Nov-16,Detroit Pistons,San Antonio Spurs,7:30 PM,8:30 PM
+128,Fri.,11-Nov-16,Sacramento Kings,Portland Trail Blazers,7:00 PM,10:00 PM
+129,Sat.,12-Nov-16,Los Angeles Lakers,New Orleans Pelicans,6:00 PM,7:00 PM
+130,Sat.,12-Nov-16,Boston Celtics,Indiana Pacers,7:00 PM,7:00 PM
+131,Sat.,12-Nov-16,New York Knicks,Toronto Raptors,7:30 PM,7:30 PM
+132,Sat.,12-Nov-16,Philadelphia 76ers,Atlanta Hawks,7:30 PM,7:30 PM
+133,Sat.,12-Nov-16,Washington Wizards,Chicago Bulls,7:00 PM,8:00 PM
+134,Sat.,12-Nov-16,San Antonio Spurs,Houston Rockets,7:00 PM,8:00 PM
+135,Sat.,12-Nov-16,Los Angeles Clippers,Minnesota Timberwolves,7:00 PM,8:00 PM
+136,Sat.,12-Nov-16,Utah Jazz,Miami Heat,8:00 PM,8:00 PM
+137,Sat.,12-Nov-16,Memphis Grizzlies,Milwaukee Bucks,7:30 PM,8:30 PM
+138,Sat.,12-Nov-16,Detroit Pistons,Denver Nuggets,7:00 PM,9:00 PM
+139,Sat.,12-Nov-16,Brooklyn Nets,Phoenix Suns,7:00 PM,9:00 PM
+140,Sun.,13-Nov-16,Charlotte Hornets,Cleveland Cavaliers,3:30 PM,3:30 PM
+141,Sun.,13-Nov-16,Orlando Magic,Oklahoma City Thunder,6:00 PM,7:00 PM
+142,Sun.,13-Nov-16,Los Angeles Lakers,Minnesota Timberwolves,6:00 PM,7:00 PM
+143,Sun.,13-Nov-16,Phoenix Suns,Golden State Warriors,5:00 PM,8:00 PM
+144,Sun.,13-Nov-16,Denver Nuggets,Portland Trail Blazers,6:00 PM,9:00 PM
+145,Mon.,14-Nov-16,Orlando Magic,Indiana Pacers,7:00 PM,7:00 PM
+146,Mon.,14-Nov-16,Dallas Mavericks,New York Knicks,7:30 PM,7:30 PM
+147,Mon.,14-Nov-16,Oklahoma City Thunder,Detroit Pistons,7:30 PM,7:30 PM
+148,Mon.,14-Nov-16,Boston Celtics,New Orleans Pelicans,7:00 PM,8:00 PM
+149,Mon.,14-Nov-16,Philadelphia 76ers,Houston Rockets,7:00 PM,8:00 PM
+150,Mon.,14-Nov-16,Miami Heat,San Antonio Spurs,7:30 PM,8:30 PM
+151,Mon.,14-Nov-16,Memphis Grizzlies,Utah Jazz,7:00 PM,9:00 PM
+152,Mon.,14-Nov-16,Brooklyn Nets,Los Angeles Clippers,7:30 PM,10:30 PM
+153,Tue.,15-Nov-16,Toronto Raptors,Cleveland Cavaliers,7:00 PM,7:00 PM
+154,Tue.,15-Nov-16,Atlanta Hawks,Miami Heat,7:30 PM,7:30 PM
+155,Tue.,15-Nov-16,Charlotte Hornets,Minnesota Timberwolves,7:00 PM,8:00 PM
+156,Tue.,15-Nov-16,Chicago Bulls,Portland Trail Blazers,7:00 PM,10:00 PM
+157,Tue.,15-Nov-16,Brooklyn Nets,Los Angeles Lakers,7:30 PM,10:30 PM
+158,Wed.,16-Nov-16,Washington Wizards,Philadelphia 76ers,7:00 PM,7:00 PM
+159,Wed.,16-Nov-16,New Orleans Pelicans,Orlando Magic,7:00 PM,7:00 PM
+160,Wed.,16-Nov-16,Cleveland Cavaliers,Indiana Pacers,7:00 PM,7:00 PM
+161,Wed.,16-Nov-16,Dallas Mavericks,Boston Celtics,7:30 PM,7:30 PM
+162,Wed.,16-Nov-16,Detroit Pistons,New York Knicks,7:30 PM,7:30 PM
+163,Wed.,16-Nov-16,Milwaukee Bucks,Atlanta Hawks,7:30 PM,7:30 PM
+164,Wed.,16-Nov-16,Houston Rockets,Oklahoma City Thunder,7:00 PM,8:00 PM
+165,Wed.,16-Nov-16,Golden State Warriors,Toronto Raptors,8:00 PM,8:00 PM
+166,Wed.,16-Nov-16,Phoenix Suns,Denver Nuggets,7:00 PM,9:00 PM
+167,Wed.,16-Nov-16,Memphis Grizzlies,Los Angeles Clippers,7:30 PM,10:30 PM
+168,Wed.,16-Nov-16,San Antonio Spurs,Sacramento Kings,7:30 PM,10:30 PM
+169,Thu.,17-Nov-16,New York Knicks,Washington Wizards,7:00 PM,7:00 PM
+170,Thu.,17-Nov-16,Milwaukee Bucks,Miami Heat,7:30 PM,7:30 PM
+171,Thu.,17-Nov-16,Portland Trail Blazers,Houston Rockets,7:00 PM,8:00 PM
+172,Thu.,17-Nov-16,Philadelphia 76ers,Minnesota Timberwolves,7:00 PM,8:00 PM
+173,Thu.,17-Nov-16,Chicago Bulls,Utah Jazz,8:30 PM,10:30 PM
+174,Fri.,18-Nov-16,Atlanta Hawks,Charlotte Hornets,7:00 PM,7:00 PM
+175,Fri.,18-Nov-16,Detroit Pistons,Cleveland Cavaliers,7:30 PM,7:30 PM
+176,Fri.,18-Nov-16,Phoenix Suns,Indiana Pacers,7:00 PM,7:00 PM
+177,Fri.,18-Nov-16,Portland Trail Blazers,New Orleans Pelicans,7:00 PM,8:00 PM
+178,Fri.,18-Nov-16,Brooklyn Nets,Oklahoma City Thunder,7:00 PM,8:00 PM
+179,Fri.,18-Nov-16,Golden State Warriors,Boston Celtics,8:00 PM,8:00 PM
+180,Fri.,18-Nov-16,Memphis Grizzlies,Dallas Mavericks,7:30 PM,8:30 PM
+181,Fri.,18-Nov-16,Toronto Raptors,Denver Nuggets,7:00 PM,9:00 PM
+182,Fri.,18-Nov-16,San Antonio Spurs,Los Angeles Lakers,7:30 PM,10:30 PM
+183,Fri.,18-Nov-16,Los Angeles Clippers,Sacramento Kings,7:30 PM,10:30 PM
+184,Sat.,19-Nov-16,Utah Jazz,Houston Rockets,4:00 PM,5:00 PM
+185,Sat.,19-Nov-16,Charlotte Hornets,New Orleans Pelicans,6:00 PM,7:00 PM
+186,Sat.,19-Nov-16,Miami Heat,Washington Wizards,7:00 PM,7:00 PM
+187,Sat.,19-Nov-16,Dallas Mavericks,Orlando Magic,7:00 PM,7:00 PM
+188,Sat.,19-Nov-16,Boston Celtics,Detroit Pistons,7:00 PM,7:00 PM
+189,Sat.,19-Nov-16,Phoenix Suns,Philadelphia 76ers,7:30 PM,7:30 PM
+190,Sat.,19-Nov-16,Minnesota Timberwolves,Memphis Grizzlies,7:00 PM,8:00 PM
+191,Sat.,19-Nov-16,Golden State Warriors,Milwaukee Bucks,7:30 PM,8:30 PM
+192,Sat.,19-Nov-16,Chicago Bulls,Los Angeles Clippers,7:30 PM,10:30 PM
+193,Sun.,20-Nov-16,Atlanta Hawks,New York Knicks,1:00 PM,1:00 PM
+194,Sun.,20-Nov-16,Portland Trail Blazers,Brooklyn Nets,3:30 PM,3:30 PM
+195,Sun.,20-Nov-16,Indiana Pacers,Oklahoma City Thunder,6:00 PM,7:00 PM
+196,Sun.,20-Nov-16,Toronto Raptors,Sacramento Kings,6:00 PM,9:00 PM
+197,Sun.,20-Nov-16,Utah Jazz,Denver Nuggets,7:00 PM,9:00 PM
+198,Sun.,20-Nov-16,Chicago Bulls,Los Angeles Lakers,6:30 PM,9:30 PM
+199,Mon.,21-Nov-16,Miami Heat,Philadelphia 76ers,7:00 PM,7:00 PM
+200,Mon.,21-Nov-16,Phoenix Suns,Washington Wizards,7:00 PM,7:00 PM
+201,Mon.,21-Nov-16,Memphis Grizzlies,Charlotte Hornets,7:00 PM,7:00 PM
+202,Mon.,21-Nov-16,Golden State Warriors,Indiana Pacers,7:00 PM,7:00 PM
+203,Mon.,21-Nov-16,Houston Rockets,Detroit Pistons,7:30 PM,7:30 PM
+204,Mon.,21-Nov-16,Orlando Magic,Milwaukee Bucks,7:00 PM,8:00 PM
+205,Mon.,21-Nov-16,Boston Celtics,Minnesota Timberwolves,7:00 PM,8:00 PM
+206,Mon.,21-Nov-16,Dallas Mavericks,San Antonio Spurs,7:30 PM,8:30 PM
+207,Mon.,21-Nov-16,Toronto Raptors,Los Angeles Clippers,7:30 PM,10:30 PM
+208,Tue.,22-Nov-16,Portland Trail Blazers,New York Knicks,7:30 PM,7:30 PM
+209,Tue.,22-Nov-16,New Orleans Pelicans,Atlanta Hawks,7:30 PM,7:30 PM
+210,Tue.,22-Nov-16,Chicago Bulls,Denver Nuggets,7:00 PM,9:00 PM
+211,Tue.,22-Nov-16,Oklahoma City Thunder,Los Angeles Lakers,7:30 PM,10:30 PM
+212,Wed.,23-Nov-16,Memphis Grizzlies,Philadelphia 76ers,7:00 PM,7:00 PM
+213,Wed.,23-Nov-16,San Antonio Spurs,Charlotte Hornets,7:00 PM,7:00 PM
+214,Wed.,23-Nov-16,Phoenix Suns,Orlando Magic,7:00 PM,7:00 PM
+215,Wed.,23-Nov-16,Portland Trail Blazers,Cleveland Cavaliers,7:00 PM,7:00 PM
+216,Wed.,23-Nov-16,Atlanta Hawks,Indiana Pacers,7:00 PM,7:00 PM
+217,Wed.,23-Nov-16,Boston Celtics,Brooklyn Nets,7:30 PM,7:30 PM
+218,Wed.,23-Nov-16,Miami Heat,Detroit Pistons,7:30 PM,7:30 PM
+219,Wed.,23-Nov-16,Toronto Raptors,Houston Rockets,7:00 PM,8:00 PM
+220,Wed.,23-Nov-16,Los Angeles Clippers,Dallas Mavericks,7:30 PM,8:30 PM
+221,Wed.,23-Nov-16,Denver Nuggets,Utah Jazz,7:00 PM,9:00 PM
+222,Wed.,23-Nov-16,Minnesota Timberwolves,New Orleans Pelicans,8:30 PM,9:30 PM
+223,Wed.,23-Nov-16,Los Angeles Lakers,Golden State Warriors,7:30 PM,10:30 PM
+224,Wed.,23-Nov-16,Oklahoma City Thunder,Sacramento Kings,7:30 PM,10:30 PM
+225,Fri.,25-Nov-16,San Antonio Spurs,Boston Celtics,1:00 PM,1:00 PM
+226,Fri.,25-Nov-16,Washington Wizards,Orlando Magic,7:00 PM,7:00 PM
+227,Fri.,25-Nov-16,Dallas Mavericks,Cleveland Cavaliers,7:30 PM,7:30 PM
+228,Fri.,25-Nov-16,Charlotte Hornets,New York Knicks,7:30 PM,7:30 PM
+229,Fri.,25-Nov-16,Chicago Bulls,Philadelphia 76ers,7:30 PM,7:30 PM
+230,Fri.,25-Nov-16,Los Angeles Clippers,Detroit Pistons,7:30 PM,7:30 PM
+231,Fri.,25-Nov-16,Atlanta Hawks,Utah Jazz,6:00 PM,8:00 PM
+232,Fri.,25-Nov-16,Toronto Raptors,Milwaukee Bucks,7:00 PM,8:00 PM
+233,Fri.,25-Nov-16,Miami Heat,Memphis Grizzlies,7:00 PM,8:00 PM
+234,Fri.,25-Nov-16,Brooklyn Nets,Indiana Pacers,8:00 PM,8:00 PM
+235,Fri.,25-Nov-16,Oklahoma City Thunder,Denver Nuggets,7:00 PM,9:00 PM
+236,Fri.,25-Nov-16,Minnesota Timberwolves,Phoenix Suns,7:00 PM,9:00 PM
+237,Fri.,25-Nov-16,New Orleans Pelicans,Portland Trail Blazers,7:00 PM,10:00 PM
+238,Fri.,25-Nov-16,Golden State Warriors,Los Angeles Lakers,7:30 PM,10:30 PM
+239,Fri.,25-Nov-16,Houston Rockets,Sacramento Kings,7:30 PM,10:30 PM
+240,Sat.,26-Nov-16,San Antonio Spurs,Washington Wizards,7:00 PM,7:00 PM
+241,Sat.,26-Nov-16,New York Knicks,Charlotte Hornets,7:00 PM,7:00 PM
+242,Sat.,26-Nov-16,Detroit Pistons,Oklahoma City Thunder,7:00 PM,8:00 PM
+243,Sat.,26-Nov-16,Memphis Grizzlies,Miami Heat,8:00 PM,8:00 PM
+244,Sat.,26-Nov-16,Minnesota Timberwolves,Golden State Warriors,7:30 PM,10:30 PM
+245,Sun.,27-Nov-16,Cleveland Cavaliers,Philadelphia 76ers,1:00 PM,1:00 PM
+246,Sun.,27-Nov-16,Denver Nuggets,Phoenix Suns,1:30 PM,3:30 PM
+247,Sun.,27-Nov-16,Sacramento Kings,Brooklyn Nets,6:00 PM,6:00 PM
+248,Sun.,27-Nov-16,Milwaukee Bucks,Orlando Magic,6:00 PM,6:00 PM
+249,Sun.,27-Nov-16,Los Angeles Clippers,Indiana Pacers,6:00 PM,6:00 PM
+250,Sun.,27-Nov-16,New Orleans Pelicans,Dallas Mavericks,6:00 PM,7:00 PM
+251,Sun.,27-Nov-16,Houston Rockets,Portland Trail Blazers,6:00 PM,9:00 PM
+252,Sun.,27-Nov-16,Atlanta Hawks,Los Angeles Lakers,6:30 PM,9:30 PM
+253,Mon.,28-Nov-16,Sacramento Kings,Washington Wizards,7:00 PM,7:00 PM
+254,Mon.,28-Nov-16,Philadelphia 76ers,Toronto Raptors,7:30 PM,7:30 PM
+255,Mon.,28-Nov-16,Oklahoma City Thunder,New York Knicks,7:30 PM,7:30 PM
+256,Mon.,28-Nov-16,Boston Celtics,Miami Heat,7:30 PM,7:30 PM
+257,Mon.,28-Nov-16,Charlotte Hornets,Memphis Grizzlies,7:00 PM,8:00 PM
+258,Mon.,28-Nov-16,Utah Jazz,Minnesota Timberwolves,7:00 PM,8:00 PM
+259,Mon.,28-Nov-16,Atlanta Hawks,Golden State Warriors,7:30 PM,10:30 PM
+260,Tue.,29-Nov-16,Detroit Pistons,Charlotte Hornets,7:00 PM,7:00 PM
+261,Tue.,29-Nov-16,Los Angeles Clippers,Brooklyn Nets,7:30 PM,7:30 PM
+262,Tue.,29-Nov-16,Cleveland Cavaliers,Milwaukee Bucks,7:00 PM,8:00 PM
+263,Tue.,29-Nov-16,Los Angeles Lakers,New Orleans Pelicans,7:00 PM,8:00 PM
+264,Tue.,29-Nov-16,Orlando Magic,San Antonio Spurs,7:30 PM,8:30 PM
+265,Tue.,29-Nov-16,Houston Rockets,Utah Jazz,7:00 PM,9:00 PM
+266,Wed.,30-Nov-16,Sacramento Kings,Philadelphia 76ers,7:00 PM,7:00 PM
+267,Wed.,30-Nov-16,Detroit Pistons,Boston Celtics,7:30 PM,7:30 PM
+268,Wed.,30-Nov-16,Memphis Grizzlies,Toronto Raptors,7:30 PM,7:30 PM
+269,Wed.,30-Nov-16,Los Angeles Lakers,Chicago Bulls,7:00 PM,8:00 PM
+270,Wed.,30-Nov-16,Washington Wizards,Oklahoma City Thunder,7:00 PM,8:00 PM
+271,Wed.,30-Nov-16,New York Knicks,Minnesota Timberwolves,7:00 PM,8:00 PM
+272,Wed.,30-Nov-16,San Antonio Spurs,Dallas Mavericks,7:30 PM,8:30 PM
+273,Wed.,30-Nov-16,Miami Heat,Denver Nuggets,7:00 PM,9:00 PM
+274,Wed.,30-Nov-16,Atlanta Hawks,Phoenix Suns,7:00 PM,9:00 PM
+275,Wed.,30-Nov-16,Indiana Pacers,Portland Trail Blazers,7:00 PM,10:00 PM
+276,Thu.,1-Dec-16,Dallas Mavericks,Charlotte Hornets,7:00 PM,7:00 PM
+277,Thu.,1-Dec-16,Milwaukee Bucks,Brooklyn Nets,7:30 PM,7:30 PM
+278,Thu.,1-Dec-16,Orlando Magic,Memphis Grizzlies,7:00 PM,8:00 PM
+279,Thu.,1-Dec-16,Los Angeles Clippers,Cleveland Cavaliers,8:00 PM,8:00 PM
+280,Thu.,1-Dec-16,Miami Heat,Utah Jazz,7:00 PM,9:00 PM
+281,Thu.,1-Dec-16,Houston Rockets,Golden State Warriors,7:30 PM,10:30 PM
+282,Fri.,2-Dec-16,Orlando Magic,Philadelphia 76ers,7:00 PM,7:00 PM
+283,Fri.,2-Dec-16,Sacramento Kings,Boston Celtics,7:30 PM,7:30 PM
+284,Fri.,2-Dec-16,Los Angeles Lakers,Toronto Raptors,7:30 PM,7:30 PM
+285,Fri.,2-Dec-16,Minnesota Timberwolves,New York Knicks,7:30 PM,7:30 PM
+286,Fri.,2-Dec-16,Cleveland Cavaliers,Chicago Bulls,7:00 PM,8:00 PM
+287,Fri.,2-Dec-16,Los Angeles Clippers,New Orleans Pelicans,7:00 PM,8:00 PM
+288,Fri.,2-Dec-16,Detroit Pistons,Atlanta Hawks,8:00 PM,8:00 PM
+289,Fri.,2-Dec-16,Washington Wizards,San Antonio Spurs,7:30 PM,8:30 PM
+290,Fri.,2-Dec-16,Houston Rockets,Denver Nuggets,8:30 PM,10:30 PM
+291,Sat.,3-Dec-16,Brooklyn Nets,Milwaukee Bucks,4:00 PM,5:00 PM
+292,Sat.,3-Dec-16,Minnesota Timberwolves,Charlotte Hornets,7:00 PM,7:00 PM
+293,Sat.,3-Dec-16,Atlanta Hawks,Toronto Raptors,7:30 PM,7:30 PM
+294,Sat.,3-Dec-16,Boston Celtics,Philadelphia 76ers,7:30 PM,7:30 PM
+295,Sat.,3-Dec-16,Los Angeles Lakers,Memphis Grizzlies,7:00 PM,8:00 PM
+296,Sat.,3-Dec-16,Chicago Bulls,Dallas Mavericks,7:30 PM,8:30 PM
+297,Sat.,3-Dec-16,Denver Nuggets,Utah Jazz,7:00 PM,9:00 PM
+298,Sat.,3-Dec-16,Miami Heat,Portland Trail Blazers,7:00 PM,10:00 PM
+299,Sat.,3-Dec-16,Phoenix Suns,Golden State Warriors,7:30 PM,10:30 PM
+300,Sun.,4-Dec-16,Orlando Magic,Detroit Pistons,6:00 PM,6:00 PM
+301,Sun.,4-Dec-16,New Orleans Pelicans,Oklahoma City Thunder,6:00 PM,7:00 PM
+302,Sun.,4-Dec-16,Sacramento Kings,New York Knicks,7:30 PM,7:30 PM
+303,Sun.,4-Dec-16,Indiana Pacers,Los Angeles Clippers,6:30 PM,9:30 PM
+304,Mon.,5-Dec-16,Denver Nuggets,Philadelphia 76ers,7:00 PM,7:00 PM
+305,Mon.,5-Dec-16,Cleveland Cavaliers,Toronto Raptors,7:30 PM,7:30 PM
+306,Mon.,5-Dec-16,Washington Wizards,Brooklyn Nets,7:30 PM,7:30 PM
+307,Mon.,5-Dec-16,Oklahoma City Thunder,Atlanta Hawks,7:30 PM,7:30 PM
+308,Mon.,5-Dec-16,Portland Trail Blazers,Chicago Bulls,7:00 PM,8:00 PM
+309,Mon.,5-Dec-16,San Antonio Spurs,Milwaukee Bucks,7:00 PM,8:00 PM
+310,Mon.,5-Dec-16,Memphis Grizzlies,New Orleans Pelicans,7:00 PM,8:00 PM
+311,Mon.,5-Dec-16,Boston Celtics,Houston Rockets,7:00 PM,8:00 PM
+312,Mon.,5-Dec-16,Charlotte Hornets,Dallas Mavericks,7:30 PM,8:30 PM
+313,Mon.,5-Dec-16,Utah Jazz,Los Angeles Lakers,7:30 PM,10:30 PM
+314,Mon.,5-Dec-16,Indiana Pacers,Golden State Warriors,7:30 PM,10:30 PM
+315,Tue.,6-Dec-16,Orlando Magic,Washington Wizards,7:00 PM,7:00 PM
+316,Tue.,6-Dec-16,New York Knicks,Miami Heat,7:30 PM,7:30 PM
+317,Tue.,6-Dec-16,Chicago Bulls,Detroit Pistons,7:30 PM,7:30 PM
+318,Tue.,6-Dec-16,Philadelphia 76ers,Memphis Grizzlies,7:00 PM,8:00 PM
+319,Tue.,6-Dec-16,San Antonio Spurs,Minnesota Timberwolves,7:00 PM,8:00 PM
+320,Tue.,6-Dec-16,Phoenix Suns,Utah Jazz,7:00 PM,9:00 PM
+321,Wed.,7-Dec-16,Detroit Pistons,Charlotte Hornets,7:00 PM,7:00 PM
+322,Wed.,7-Dec-16,Boston Celtics,Orlando Magic,7:00 PM,7:00 PM
+323,Wed.,7-Dec-16,Denver Nuggets,Brooklyn Nets,7:30 PM,7:30 PM
+324,Wed.,7-Dec-16,Miami Heat,Atlanta Hawks,7:30 PM,7:30 PM
+325,Wed.,7-Dec-16,Portland Trail Blazers,Milwaukee Bucks,7:00 PM,8:00 PM
+326,Wed.,7-Dec-16,Los Angeles Lakers,Houston Rockets,7:00 PM,8:00 PM
+327,Wed.,7-Dec-16,Cleveland Cavaliers,New York Knicks,8:00 PM,8:00 PM
+328,Wed.,7-Dec-16,Sacramento Kings,Dallas Mavericks,7:30 PM,8:30 PM
+329,Wed.,7-Dec-16,Indiana Pacers,Phoenix Suns,7:00 PM,9:00 PM
+330,Wed.,7-Dec-16,Golden State Warriors,Los Angeles Clippers,7:30 PM,10:30 PM
+331,Thu.,8-Dec-16,Minnesota Timberwolves,Toronto Raptors,7:00 PM,7:00 PM
+332,Thu.,8-Dec-16,Denver Nuggets,Washington Wizards,7:00 PM,7:00 PM
+333,Thu.,8-Dec-16,Portland Trail Blazers,Memphis Grizzlies,7:00 PM,8:00 PM
+334,Thu.,8-Dec-16,Philadelphia 76ers,New Orleans Pelicans,7:00 PM,8:00 PM
+335,Thu.,8-Dec-16,Golden State Warriors,Utah Jazz,7:00 PM,9:00 PM
+336,Thu.,8-Dec-16,San Antonio Spurs,Chicago Bulls,8:30 PM,9:30 PM
+337,Fri.,9-Dec-16,Orlando Magic,Charlotte Hornets,7:00 PM,7:00 PM
+338,Fri.,9-Dec-16,Miami Heat,Cleveland Cavaliers,7:30 PM,7:30 PM
+339,Fri.,9-Dec-16,Toronto Raptors,Boston Celtics,7:30 PM,7:30 PM
+340,Fri.,9-Dec-16,Atlanta Hawks,Milwaukee Bucks,7:00 PM,8:00 PM
+341,Fri.,9-Dec-16,Houston Rockets,Oklahoma City Thunder,7:00 PM,8:00 PM
+342,Fri.,9-Dec-16,Detroit Pistons,Minnesota Timberwolves,7:00 PM,8:00 PM
+343,Fri.,9-Dec-16,Indiana Pacers,Dallas Mavericks,7:30 PM,8:30 PM
+344,Fri.,9-Dec-16,Phoenix Suns,Los Angeles Lakers,7:30 PM,10:30 PM
+345,Fri.,9-Dec-16,New York Knicks,Sacramento Kings,7:30 PM,10:30 PM
+346,Sat.,10-Dec-16,Milwaukee Bucks,Washington Wizards,7:00 PM,7:00 PM
+347,Sat.,10-Dec-16,Denver Nuggets,Orlando Magic,7:00 PM,7:00 PM
+348,Sat.,10-Dec-16,Portland Trail Blazers,Indiana Pacers,7:00 PM,7:00 PM
+349,Sat.,10-Dec-16,Charlotte Hornets,Cleveland Cavaliers,7:30 PM,7:30 PM
+350,Sat.,10-Dec-16,Miami Heat,Chicago Bulls,7:00 PM,8:00 PM
+351,Sat.,10-Dec-16,Golden State Warriors,Memphis Grizzlies,7:00 PM,8:00 PM
+352,Sat.,10-Dec-16,Dallas Mavericks,Houston Rockets,7:00 PM,8:00 PM
+353,Sat.,10-Dec-16,Brooklyn Nets,San Antonio Spurs,7:30 PM,8:30 PM
+354,Sat.,10-Dec-16,Sacramento Kings,Utah Jazz,7:00 PM,9:00 PM
+355,Sat.,10-Dec-16,New Orleans Pelicans,Los Angeles Clippers,7:30 PM,10:30 PM
+356,Sun.,11-Dec-16,Philadelphia 76ers,Detroit Pistons,6:00 PM,6:00 PM
+357,Sun.,11-Dec-16,Boston Celtics,Oklahoma City Thunder,6:00 PM,7:00 PM
+358,Sun.,11-Dec-16,Golden State Warriors,Minnesota Timberwolves,6:00 PM,7:00 PM
+359,Sun.,11-Dec-16,New Orleans Pelicans,Phoenix Suns,6:30 PM,8:30 PM
+360,Sun.,11-Dec-16,New York Knicks,Los Angeles Lakers,6:30 PM,9:30 PM
+361,Mon.,12-Dec-16,Charlotte Hornets,Indiana Pacers,7:00 PM,7:00 PM
+362,Mon.,12-Dec-16,Milwaukee Bucks,Toronto Raptors,7:30 PM,7:30 PM
+363,Mon.,12-Dec-16,Washington Wizards,Miami Heat,7:30 PM,7:30 PM
+364,Mon.,12-Dec-16,Brooklyn Nets,Houston Rockets,7:00 PM,8:00 PM
+365,Mon.,12-Dec-16,Denver Nuggets,Dallas Mavericks,7:30 PM,8:30 PM
+366,Mon.,12-Dec-16,Portland Trail Blazers,Los Angeles Clippers,7:30 PM,10:30 PM
+367,Mon.,12-Dec-16,Los Angeles Lakers,Sacramento Kings,7:30 PM,10:30 PM
+368,Tue.,13-Dec-16,Memphis Grizzlies,Cleveland Cavaliers,7:00 PM,7:00 PM
+369,Tue.,13-Dec-16,Orlando Magic,Atlanta Hawks,7:30 PM,7:30 PM
+370,Tue.,13-Dec-16,Minnesota Timberwolves,Chicago Bulls,7:00 PM,8:00 PM
+371,Tue.,13-Dec-16,Golden State Warriors,New Orleans Pelicans,7:00 PM,8:00 PM
+372,Tue.,13-Dec-16,New York Knicks,Phoenix Suns,7:00 PM,9:00 PM
+373,Tue.,13-Dec-16,Oklahoma City Thunder,Portland Trail Blazers,7:30 PM,10:30 PM
+374,Wed.,14-Dec-16,Toronto Raptors,Philadelphia 76ers,7:00 PM,7:00 PM
+375,Wed.,14-Dec-16,Charlotte Hornets,Washington Wizards,7:00 PM,7:00 PM
+376,Wed.,14-Dec-16,Los Angeles Clippers,Orlando Magic,7:00 PM,7:00 PM
+377,Wed.,14-Dec-16,Indiana Pacers,Miami Heat,7:00 PM,7:00 PM
+378,Wed.,14-Dec-16,Los Angeles Lakers,Brooklyn Nets,7:30 PM,7:30 PM
+379,Wed.,14-Dec-16,Cleveland Cavaliers,Memphis Grizzlies,7:00 PM,8:00 PM
+380,Wed.,14-Dec-16,Sacramento Kings,Houston Rockets,7:00 PM,8:00 PM
+381,Wed.,14-Dec-16,Detroit Pistons,Dallas Mavericks,7:30 PM,8:30 PM
+382,Wed.,14-Dec-16,Oklahoma City Thunder,Utah Jazz,7:00 PM,9:00 PM
+383,Wed.,14-Dec-16,Boston Celtics,San Antonio Spurs,8:30 PM,9:30 PM
+384,Thu.,15-Dec-16,Chicago Bulls,Milwaukee Bucks,7:00 PM,8:00 PM
+385,Thu.,15-Dec-16,Indiana Pacers,New Orleans Pelicans,7:00 PM,8:00 PM
+386,Thu.,15-Dec-16,Portland Trail Blazers,Denver Nuggets,7:00 PM,9:00 PM
+387,Thu.,15-Dec-16,San Antonio Spurs,Phoenix Suns,7:00 PM,9:00 PM
+388,Thu.,15-Dec-16,New York Knicks,Golden State Warriors,7:30 PM,10:30 PM
+389,Fri.,16-Dec-16,Detroit Pistons,Washington Wizards,7:00 PM,7:00 PM
+390,Fri.,16-Dec-16,Brooklyn Nets,Orlando Magic,7:00 PM,7:00 PM
+391,Fri.,16-Dec-16,Charlotte Hornets,Boston Celtics,7:30 PM,7:30 PM
+392,Fri.,16-Dec-16,Atlanta Hawks,Toronto Raptors,7:30 PM,7:30 PM
+393,Fri.,16-Dec-16,Milwaukee Bucks,Chicago Bulls,7:00 PM,8:00 PM
+394,Fri.,16-Dec-16,Sacramento Kings,Memphis Grizzlies,7:00 PM,8:00 PM
+395,Fri.,16-Dec-16,New Orleans Pelicans,Houston Rockets,7:00 PM,8:00 PM
+396,Fri.,16-Dec-16,Los Angeles Lakers,Philadelphia 76ers,8:00 PM,8:00 PM
+397,Fri.,16-Dec-16,Los Angeles Clippers,Miami Heat,8:00 PM,8:00 PM
+398,Fri.,16-Dec-16,Dallas Mavericks,Utah Jazz,8:30 PM,10:30 PM
+399,Sat.,17-Dec-16,Phoenix Suns,Oklahoma City Thunder,4:00 PM,5:00 PM
+400,Sat.,17-Dec-16,Indiana Pacers,Detroit Pistons,7:00 PM,7:00 PM
+401,Sat.,17-Dec-16,Charlotte Hornets,Atlanta Hawks,7:30 PM,7:30 PM
+402,Sat.,17-Dec-16,Los Angeles Lakers,Cleveland Cavaliers,7:30 PM,7:30 PM
+403,Sat.,17-Dec-16,Houston Rockets,Minnesota Timberwolves,7:00 PM,8:00 PM
+404,Sat.,17-Dec-16,New York Knicks,Denver Nuggets,7:00 PM,9:00 PM
+405,Sat.,17-Dec-16,Portland Trail Blazers,Golden State Warriors,7:30 PM,10:30 PM
+406,Sun.,18-Dec-16,Los Angeles Clippers,Washington Wizards,3:30 PM,3:30 PM
+407,Sun.,18-Dec-16,Utah Jazz,Memphis Grizzlies,5:00 PM,6:00 PM
+408,Sun.,18-Dec-16,Brooklyn Nets,Philadelphia 76ers,6:00 PM,6:00 PM
+409,Sun.,18-Dec-16,Toronto Raptors,Orlando Magic,6:00 PM,6:00 PM
+410,Sun.,18-Dec-16,Boston Celtics,Miami Heat,6:00 PM,6:00 PM
+411,Sun.,18-Dec-16,Sacramento Kings,Dallas Mavericks,6:00 PM,7:00 PM
+412,Sun.,18-Dec-16,New Orleans Pelicans,San Antonio Spurs,6:00 PM,7:00 PM
+413,Mon.,19-Dec-16,Washington Wizards,Indiana Pacers,7:00 PM,7:00 PM
+414,Mon.,19-Dec-16,Detroit Pistons,Chicago Bulls,7:00 PM,8:00 PM
+415,Mon.,19-Dec-16,Atlanta Hawks,Oklahoma City Thunder,7:00 PM,8:00 PM
+416,Mon.,19-Dec-16,Phoenix Suns,Minnesota Timberwolves,7:00 PM,8:00 PM
+417,Mon.,19-Dec-16,Dallas Mavericks,Denver Nuggets,7:00 PM,9:00 PM
+418,Tue.,20-Dec-16,New Orleans Pelicans,Philadelphia 76ers,7:00 PM,7:00 PM
+419,Tue.,20-Dec-16,Los Angeles Lakers,Charlotte Hornets,7:00 PM,7:00 PM
+420,Tue.,20-Dec-16,Brooklyn Nets,Toronto Raptors,7:30 PM,7:30 PM
+421,Tue.,20-Dec-16,Indiana Pacers,New York Knicks,7:30 PM,7:30 PM
+422,Tue.,20-Dec-16,Orlando Magic,Miami Heat,7:30 PM,7:30 PM
+423,Tue.,20-Dec-16,Cleveland Cavaliers,Milwaukee Bucks,7:00 PM,8:00 PM
+424,Tue.,20-Dec-16,Boston Celtics,Memphis Grizzlies,7:00 PM,8:00 PM
+425,Tue.,20-Dec-16,San Antonio Spurs,Houston Rockets,7:00 PM,8:00 PM
+426,Tue.,20-Dec-16,Denver Nuggets,Los Angeles Clippers,7:30 PM,10:30 PM
+427,Tue.,20-Dec-16,Utah Jazz,Golden State Warriors,7:30 PM,10:30 PM
+428,Tue.,20-Dec-16,Portland Trail Blazers,Sacramento Kings,7:30 PM,10:30 PM
+429,Wed.,21-Dec-16,Milwaukee Bucks,Cleveland Cavaliers,7:00 PM,7:00 PM
+430,Wed.,21-Dec-16,Minnesota Timberwolves,Atlanta Hawks,7:30 PM,7:30 PM
+431,Wed.,21-Dec-16,Memphis Grizzlies,Detroit Pistons,7:30 PM,7:30 PM
+432,Wed.,21-Dec-16,Washington Wizards,Chicago Bulls,7:00 PM,8:00 PM
+433,Wed.,21-Dec-16,Oklahoma City Thunder,New Orleans Pelicans,7:00 PM,8:00 PM
+434,Wed.,21-Dec-16,Sacramento Kings,Utah Jazz,7:00 PM,9:00 PM
+435,Wed.,21-Dec-16,Houston Rockets,Phoenix Suns,7:00 PM,9:00 PM
+436,Wed.,21-Dec-16,Dallas Mavericks,Portland Trail Blazers,7:00 PM,10:00 PM
+437,Thu.,22-Dec-16,Golden State Warriors,Brooklyn Nets,7:30 PM,7:30 PM
+438,Thu.,22-Dec-16,Orlando Magic,New York Knicks,7:30 PM,7:30 PM
+439,Thu.,22-Dec-16,Los Angeles Lakers,Miami Heat,7:30 PM,7:30 PM
+440,Thu.,22-Dec-16,Boston Celtics,Indiana Pacers,8:00 PM,8:00 PM
+441,Thu.,22-Dec-16,San Antonio Spurs,Los Angeles Clippers,7:30 PM,10:30 PM
+442,Fri.,23-Dec-16,Chicago Bulls,Charlotte Hornets,7:00 PM,7:00 PM
+443,Fri.,23-Dec-16,Los Angeles Lakers,Orlando Magic,7:00 PM,7:00 PM
+444,Fri.,23-Dec-16,Brooklyn Nets,Cleveland Cavaliers,7:30 PM,7:30 PM
+445,Fri.,23-Dec-16,Oklahoma City Thunder,Boston Celtics,7:30 PM,7:30 PM
+446,Fri.,23-Dec-16,Golden State Warriors,Detroit Pistons,7:30 PM,7:30 PM
+447,Fri.,23-Dec-16,Washington Wizards,Milwaukee Bucks,7:00 PM,8:00 PM
+448,Fri.,23-Dec-16,Houston Rockets,Memphis Grizzlies,7:00 PM,8:00 PM
+449,Fri.,23-Dec-16,Miami Heat,New Orleans Pelicans,7:00 PM,8:00 PM
+450,Fri.,23-Dec-16,Sacramento Kings,Minnesota Timberwolves,7:00 PM,8:00 PM
+451,Fri.,23-Dec-16,Atlanta Hawks,Denver Nuggets,7:00 PM,9:00 PM
+452,Fri.,23-Dec-16,Toronto Raptors,Utah Jazz,7:00 PM,9:00 PM
+453,Fri.,23-Dec-16,Philadelphia 76ers,Phoenix Suns,7:00 PM,9:00 PM
+454,Fri.,23-Dec-16,San Antonio Spurs,Portland Trail Blazers,7:00 PM,10:00 PM
+455,Fri.,23-Dec-16,Dallas Mavericks,Los Angeles Clippers,7:30 PM,10:30 PM
+456,Sun.,25-Dec-16,Boston Celtics,New York Knicks,12:00 PM,12:00 PM
+457,Sun.,25-Dec-16,Golden State Warriors,Cleveland Cavaliers,2:30 PM,2:30 PM
+458,Sun.,25-Dec-16,Chicago Bulls,San Antonio Spurs,4:00 PM,5:00 PM
+459,Sun.,25-Dec-16,Minnesota Timberwolves,Oklahoma City Thunder,7:00 PM,8:00 PM
+460,Sun.,25-Dec-16,Los Angeles Clippers,Los Angeles Lakers,7:30 PM,10:30 PM
+461,Mon.,26-Dec-16,Milwaukee Bucks,Washington Wizards,7:00 PM,7:00 PM
+462,Mon.,26-Dec-16,Memphis Grizzlies,Orlando Magic,7:00 PM,7:00 PM
+463,Mon.,26-Dec-16,Charlotte Hornets,Brooklyn Nets,7:30 PM,7:30 PM
+464,Mon.,26-Dec-16,Cleveland Cavaliers,Detroit Pistons,7:30 PM,7:30 PM
+465,Mon.,26-Dec-16,Indiana Pacers,Chicago Bulls,7:00 PM,8:00 PM
+466,Mon.,26-Dec-16,Dallas Mavericks,New Orleans Pelicans,7:00 PM,8:00 PM
+467,Mon.,26-Dec-16,Phoenix Suns,Houston Rockets,7:00 PM,8:00 PM
+468,Mon.,26-Dec-16,Atlanta Hawks,Minnesota Timberwolves,7:00 PM,8:00 PM
+469,Mon.,26-Dec-16,Toronto Raptors,Portland Trail Blazers,7:00 PM,10:00 PM
+470,Mon.,26-Dec-16,Denver Nuggets,Los Angeles Clippers,7:30 PM,10:30 PM
+471,Mon.,26-Dec-16,Philadelphia 76ers,Sacramento Kings,7:30 PM,10:30 PM
+472,Tue.,27-Dec-16,Memphis Grizzlies,Boston Celtics,7:30 PM,7:30 PM
+473,Tue.,27-Dec-16,Oklahoma City Thunder,Miami Heat,7:30 PM,7:30 PM
+474,Tue.,27-Dec-16,Houston Rockets,Dallas Mavericks,7:30 PM,8:30 PM
+475,Tue.,27-Dec-16,Utah Jazz,Los Angeles Lakers,7:30 PM,10:30 PM
+476,Wed.,28-Dec-16,Indiana Pacers,Washington Wizards,7:00 PM,7:00 PM
+477,Wed.,28-Dec-16,Charlotte Hornets,Orlando Magic,7:00 PM,7:00 PM
+478,Wed.,28-Dec-16,New York Knicks,Atlanta Hawks,7:30 PM,7:30 PM
+479,Wed.,28-Dec-16,Milwaukee Bucks,Detroit Pistons,7:30 PM,7:30 PM
+480,Wed.,28-Dec-16,Brooklyn Nets,Chicago Bulls,7:00 PM,8:00 PM
+481,Wed.,28-Dec-16,Los Angeles Clippers,New Orleans Pelicans,7:00 PM,8:00 PM
+482,Wed.,28-Dec-16,Phoenix Suns,San Antonio Spurs,7:30 PM,8:30 PM
+483,Wed.,28-Dec-16,Minnesota Timberwolves,Denver Nuggets,7:00 PM,9:00 PM
+484,Wed.,28-Dec-16,Sacramento Kings,Portland Trail Blazers,7:00 PM,10:00 PM
+485,Wed.,28-Dec-16,Toronto Raptors,Golden State Warriors,7:30 PM,10:30 PM
+486,Thu.,29-Dec-16,Miami Heat,Charlotte Hornets,7:00 PM,7:00 PM
+487,Thu.,29-Dec-16,Oklahoma City Thunder,Memphis Grizzlies,7:00 PM,8:00 PM
+488,Thu.,29-Dec-16,Boston Celtics,Cleveland Cavaliers,8:00 PM,8:00 PM
+489,Thu.,29-Dec-16,Philadelphia 76ers,Utah Jazz,7:00 PM,9:00 PM
+490,Thu.,29-Dec-16,Toronto Raptors,Phoenix Suns,7:00 PM,9:00 PM
+491,Thu.,29-Dec-16,Dallas Mavericks,Los Angeles Lakers,7:30 PM,10:30 PM
+492,Fri.,30-Dec-16,Chicago Bulls,Indiana Pacers,4:00 PM,4:00 PM
+493,Fri.,30-Dec-16,Brooklyn Nets,Washington Wizards,7:00 PM,7:00 PM
+494,Fri.,30-Dec-16,Miami Heat,Boston Celtics,7:30 PM,7:30 PM
+495,Fri.,30-Dec-16,New York Knicks,New Orleans Pelicans,7:00 PM,8:00 PM
+496,Fri.,30-Dec-16,Los Angeles Clippers,Houston Rockets,7:00 PM,8:00 PM
+497,Fri.,30-Dec-16,Milwaukee Bucks,Minnesota Timberwolves,7:00 PM,8:00 PM
+498,Fri.,30-Dec-16,Detroit Pistons,Atlanta Hawks,8:00 PM,8:00 PM
+499,Fri.,30-Dec-16,Portland Trail Blazers,San Antonio Spurs,7:30 PM,8:30 PM
+500,Fri.,30-Dec-16,Philadelphia 76ers,Denver Nuggets,7:00 PM,9:00 PM
+501,Fri.,30-Dec-16,Dallas Mavericks,Golden State Warriors,7:30 PM,10:30 PM
+502,Sat.,31-Dec-16,Memphis Grizzlies,Sacramento Kings,2:00 PM,5:00 PM
+503,Sat.,31-Dec-16,Milwaukee Bucks,Chicago Bulls,6:00 PM,7:00 PM
+504,Sat.,31-Dec-16,New York Knicks,Houston Rockets,7:00 PM,8:00 PM
+505,Sat.,31-Dec-16,Cleveland Cavaliers,Charlotte Hornets,7:00 PM,7:00 PM
+506,Sat.,31-Dec-16,Phoenix Suns,Utah Jazz,6:00 PM,8:00 PM
+507,Sat.,31-Dec-16,Los Angeles Clippers,Oklahoma City Thunder,7:00 PM,8:00 PM
+508,Sun.,1-Jan-17,San Antonio Spurs,Atlanta Hawks,6:00 PM,6:00 PM
+509,Sun.,1-Jan-17,Detroit Pistons,Miami Heat,6:00 PM,6:00 PM
+510,Sun.,1-Jan-17,Orlando Magic,Indiana Pacers,6:00 PM,6:00 PM
+511,Sun.,1-Jan-17,Portland Trail Blazers,Minnesota Timberwolves,6:00 PM,7:00 PM
+512,Sun.,1-Jan-17,Toronto Raptors,Los Angeles Lakers,6:30 PM,9:30 PM
+513,Mon.,2-Jan-17,Oklahoma City Thunder,Milwaukee Bucks,6:00 PM,7:00 PM
+514,Mon.,2-Jan-17,New Orleans Pelicans,Cleveland Cavaliers,7:00 PM,7:00 PM
+515,Mon.,2-Jan-17,Utah Jazz,Brooklyn Nets,7:30 PM,7:30 PM
+516,Mon.,2-Jan-17,Orlando Magic,New York Knicks,7:30 PM,7:30 PM
+517,Mon.,2-Jan-17,Charlotte Hornets,Chicago Bulls,7:00 PM,8:00 PM
+518,Mon.,2-Jan-17,Washington Wizards,Houston Rockets,7:00 PM,8:00 PM
+519,Mon.,2-Jan-17,Phoenix Suns,Los Angeles Clippers,7:30 PM,10:30 PM
+520,Mon.,2-Jan-17,Denver Nuggets,Golden State Warriors,7:30 PM,10:30 PM
+521,Tue.,3-Jan-17,Minnesota Timberwolves,Philadelphia 76ers,7:00 PM,7:00 PM
+522,Tue.,3-Jan-17,Utah Jazz,Boston Celtics,7:30 PM,7:30 PM
+523,Tue.,3-Jan-17,Indiana Pacers,Detroit Pistons,7:30 PM,7:30 PM
+524,Tue.,3-Jan-17,Washington Wizards,Dallas Mavericks,7:30 PM,8:30 PM
+525,Tue.,3-Jan-17,Toronto Raptors,San Antonio Spurs,7:30 PM,8:30 PM
+526,Tue.,3-Jan-17,Sacramento Kings,Denver Nuggets,7:00 PM,9:00 PM
+527,Tue.,3-Jan-17,Miami Heat,Phoenix Suns,7:00 PM,9:00 PM
+528,Tue.,3-Jan-17,Memphis Grizzlies,Los Angeles Lakers,7:30 PM,10:30 PM
+529,Wed.,4-Jan-17,Oklahoma City Thunder,Charlotte Hornets,7:00 PM,7:00 PM
+530,Wed.,4-Jan-17,Atlanta Hawks,Orlando Magic,7:00 PM,7:00 PM
+531,Wed.,4-Jan-17,Milwaukee Bucks,New York Knicks,7:30 PM,7:30 PM
+532,Wed.,4-Jan-17,Chicago Bulls,Cleveland Cavaliers,8:00 PM,8:00 PM
+533,Wed.,4-Jan-17,Memphis Grizzlies,Los Angeles Clippers,7:30 PM,10:30 PM
+534,Wed.,4-Jan-17,Portland Trail Blazers,Golden State Warriors,7:30 PM,10:30 PM
+535,Wed.,4-Jan-17,Miami Heat,Sacramento Kings,7:30 PM,10:30 PM
+536,Thu.,5-Jan-17,Brooklyn Nets,Indiana Pacers,7:00 PM,7:00 PM
+537,Thu.,5-Jan-17,Utah Jazz,Toronto Raptors,7:30 PM,7:30 PM
+538,Thu.,5-Jan-17,Charlotte Hornets,Detroit Pistons,7:30 PM,7:30 PM
+539,Thu.,5-Jan-17,Atlanta Hawks,New Orleans Pelicans,7:00 PM,8:00 PM
+540,Thu.,5-Jan-17,Oklahoma City Thunder,Houston Rockets,7:00 PM,8:00 PM
+541,Thu.,5-Jan-17,Phoenix Suns,Dallas Mavericks,7:30 PM,8:30 PM
+542,Thu.,5-Jan-17,Los Angeles Lakers,Portland Trail Blazers,7:00 PM,10:00 PM
+543,Thu.,5-Jan-17,San Antonio Spurs,Denver Nuggets,8:30 PM,10:30 PM
+544,Fri.,6-Jan-17,Minnesota Timberwolves,Washington Wizards,7:00 PM,7:00 PM
+545,Fri.,6-Jan-17,Houston Rockets,Orlando Magic,7:00 PM,7:00 PM
+546,Fri.,6-Jan-17,Philadelphia 76ers,Boston Celtics,7:30 PM,7:30 PM
+547,Fri.,6-Jan-17,Cleveland Cavaliers,Brooklyn Nets,7:30 PM,7:30 PM
+548,Fri.,6-Jan-17,New York Knicks,Milwaukee Bucks,7:00 PM,8:00 PM
+549,Fri.,6-Jan-17,Miami Heat,Los Angeles Lakers,7:30 PM,10:30 PM
+550,Fri.,6-Jan-17,Memphis Grizzlies,Golden State Warriors,7:30 PM,10:30 PM
+551,Fri.,6-Jan-17,Los Angeles Clippers,Sacramento Kings,7:30 PM,10:30 PM
+552,Sat.,7-Jan-17,New York Knicks,Indiana Pacers,7:00 PM,7:00 PM
+553,Sat.,7-Jan-17,New Orleans Pelicans,Boston Celtics,7:30 PM,7:30 PM
+554,Sat.,7-Jan-17,Toronto Raptors,Chicago Bulls,7:00 PM,8:00 PM
+555,Sat.,7-Jan-17,Denver Nuggets,Oklahoma City Thunder,7:00 PM,8:00 PM
+556,Sat.,7-Jan-17,Utah Jazz,Minnesota Timberwolves,7:00 PM,8:00 PM
+557,Sat.,7-Jan-17,Atlanta Hawks,Dallas Mavericks,7:30 PM,8:30 PM
+558,Sat.,7-Jan-17,Charlotte Hornets,San Antonio Spurs,7:30 PM,8:30 PM
+559,Sat.,7-Jan-17,Detroit Pistons,Portland Trail Blazers,7:00 PM,10:00 PM
+560,Sun.,8-Jan-17,Philadelphia 76ers,Brooklyn Nets,12:00 PM,12:00 PM
+561,Sun.,8-Jan-17,Miami Heat,Los Angeles Clippers,12:30 PM,3:30 PM
+562,Sun.,8-Jan-17,Washington Wizards,Milwaukee Bucks,2:30 PM,3:30 PM
+563,Sun.,8-Jan-17,Houston Rockets,Toronto Raptors,6:00 PM,6:00 PM
+564,Sun.,8-Jan-17,Utah Jazz,Memphis Grizzlies,7:00 PM,8:00 PM
+565,Sun.,8-Jan-17,Cleveland Cavaliers,Phoenix Suns,6:30 PM,8:30 PM
+566,Sun.,8-Jan-17,Golden State Warriors,Sacramento Kings,6:00 PM,9:00 PM
+567,Sun.,8-Jan-17,Orlando Magic,Los Angeles Lakers,6:30 PM,9:30 PM
+568,Mon.,9-Jan-17,New Orleans Pelicans,New York Knicks,7:30 PM,7:30 PM
+569,Mon.,9-Jan-17,Oklahoma City Thunder,Chicago Bulls,7:00 PM,8:00 PM
+570,Mon.,9-Jan-17,Dallas Mavericks,Minnesota Timberwolves,7:00 PM,8:00 PM
+571,Tue.,10-Jan-17,Chicago Bulls,Washington Wizards,7:00 PM,7:00 PM
+572,Tue.,10-Jan-17,Boston Celtics,Toronto Raptors,7:30 PM,7:30 PM
+573,Tue.,10-Jan-17,Atlanta Hawks,Brooklyn Nets,7:30 PM,7:30 PM
+574,Tue.,10-Jan-17,Charlotte Hornets,Houston Rockets,7:00 PM,8:00 PM
+575,Tue.,10-Jan-17,Milwaukee Bucks,San Antonio Spurs,7:30 PM,8:30 PM
+576,Tue.,10-Jan-17,Cleveland Cavaliers,Utah Jazz,7:00 PM,9:00 PM
+577,Tue.,10-Jan-17,Portland Trail Blazers,Los Angeles Lakers,7:30 PM,10:30 PM
+578,Tue.,10-Jan-17,Miami Heat,Golden State Warriors,7:30 PM,10:30 PM
+579,Tue.,10-Jan-17,Detroit Pistons,Sacramento Kings,7:30 PM,10:30 PM
+580,Wed.,11-Jan-17,New York Knicks,Philadelphia 76ers,7:00 PM,7:00 PM
+581,Wed.,11-Jan-17,Memphis Grizzlies,Oklahoma City Thunder,7:00 PM,8:00 PM
+582,Wed.,11-Jan-17,Houston Rockets,Minnesota Timberwolves,7:00 PM,8:00 PM
+583,Wed.,11-Jan-17,Washington Wizards,Boston Celtics,8:00 PM,8:00 PM
+584,Wed.,11-Jan-17,Orlando Magic,Los Angeles Clippers,7:30 PM,10:30 PM
+585,Wed.,11-Jan-17,Cleveland Cavaliers,Portland Trail Blazers,7:30 PM,10:30 PM
+586,Thu.,12-Jan-17,New Orleans Pelicans,Brooklyn Nets,7:30 PM,7:30 PM
+587,Thu.,12-Jan-17,Chicago Bulls,New York Knicks,8:00 PM,8:00 PM
+588,Thu.,12-Jan-17,Los Angeles Lakers,San Antonio Spurs,7:30 PM,8:30 PM
+589,Thu.,12-Jan-17,Indiana Pacers,Denver**,8:00 PM,3:00 PM
+590,Thu.,12-Jan-17,Detroit Pistons,Golden State Warriors,7:30 PM,10:30 PM
+591,Thu.,12-Jan-17,Dallas Mavericks,Phoenix*,9:00 PM,10:00 PM
+592,Fri.,13-Jan-17,Brooklyn Nets,Toronto Raptors,7:30 PM,7:30 PM
+593,Fri.,13-Jan-17,Charlotte Hornets,Philadelphia 76ers,7:00 PM,7:00 PM
+594,Fri.,13-Jan-17,Miami Heat,Milwaukee Bucks,7:00 PM,8:00 PM
+595,Fri.,13-Jan-17,Memphis Grizzlies,Houston Rockets,7:00 PM,8:00 PM
+596,Fri.,13-Jan-17,Oklahoma City Thunder,Minnesota Timberwolves,7:00 PM,8:00 PM
+597,Fri.,13-Jan-17,Boston Celtics,Atlanta Hawks,8:00 PM,8:00 PM
+598,Fri.,13-Jan-17,Orlando Magic,Portland Trail Blazers,7:00 PM,10:00 PM
+599,Fri.,13-Jan-17,Cleveland Cavaliers,Sacramento Kings,7:30 PM,10:30 PM
+600,Fri.,13-Jan-17,Detroit Pistons,Utah Jazz,8:30 PM,10:30 PM
+601,Sat.,14-Jan-17,Los Angeles Lakers,Los Angeles Clippers,12:30 PM,3:30 PM
+602,Sat.,14-Jan-17,New Orleans Pelicans,Chicago Bulls,4:00 PM,5:00 PM
+603,Sat.,14-Jan-17,Philadelphia 76ers,Washington Wizards,8:00 PM,8:00 PM
+604,Sat.,14-Jan-17,Orlando Magic,Utah Jazz,7:00 PM,9:00 PM
+605,Sat.,14-Jan-17,San Antonio Spurs,Phoenix*,5:00 PM,6:00 PM
+606,Sun.,15-Jan-17,New York Knicks,Toronto Raptors,3:00 PM,3:00 PM
+607,Sun.,15-Jan-17,Milwaukee Bucks,Atlanta Hawks,3:00 PM,3:00 PM
+608,Sun.,15-Jan-17,Minnesota Timberwolves,Dallas Mavericks,3:00 PM,4:00 PM
+609,Sun.,15-Jan-17,Houston Rockets,Brooklyn Nets,6:00 PM,6:00 PM
+610,Sun.,15-Jan-17,Oklahoma City Thunder,Sacramento Kings,6:00 PM,9:00 PM
+611,Sun.,15-Jan-17,Chicago Bulls,Memphis Grizzlies,8:00 PM,9:00 PM
+612,Sun.,15-Jan-17,Detroit Pistons,Los Angeles Lakers,6:30 PM,9:30 PM
+613,Mon.,16-Jan-17,Atlanta Hawks,New York Knicks,1:00 PM,1:00 PM
+614,Mon.,16-Jan-17,Portland Trail Blazers,Washington Wizards,2:00 PM,2:00 PM
+615,Mon.,16-Jan-17,Philadelphia 76ers,Milwaukee Bucks,2:30 PM,3:30 PM
+616,Mon.,16-Jan-17,New Orleans Pelicans,Indiana Pacers,4:00 PM,4:00 PM
+617,Mon.,16-Jan-17,Orlando Magic,Denver Nuggets,3:00 PM,5:00 PM
+618,Mon.,16-Jan-17,Charlotte Hornets,Boston Celtics,7:30 PM,7:30 PM
+619,Mon.,16-Jan-17,Cleveland Cavaliers,Golden State Warriors,5:30 PM,8:30 PM
+620,Mon.,16-Jan-17,Utah Jazz,Phoenix Suns,7:00 PM,9:00 PM
+621,Mon.,16-Jan-17,Oklahoma City Thunder,Los Angeles Clippers,7:30 PM,10:30 PM
+622,Tue.,17-Jan-17,Toronto Raptors,Brooklyn Nets,7:30 PM,7:30 PM
+623,Tue.,17-Jan-17,Houston Rockets,Miami Heat,7:30 PM,7:30 PM
+624,Tue.,17-Jan-17,Dallas Mavericks,Chicago Bulls,7:00 PM,8:00 PM
+625,Tue.,17-Jan-17,Minnesota Timberwolves,San Antonio Spurs,7:30 PM,8:30 PM
+626,Tue.,17-Jan-17,Denver Nuggets,Los Angeles Lakers,7:30 PM,10:30 PM
+627,Wed.,18-Jan-17,Toronto Raptors,Philadelphia 76ers,7:00 PM,7:00 PM
+628,Wed.,18-Jan-17,Memphis Grizzlies,Washington Wizards,7:00 PM,7:00 PM
+629,Wed.,18-Jan-17,Portland Trail Blazers,Charlotte Hornets,7:00 PM,7:00 PM
+630,Wed.,18-Jan-17,New York Knicks,Boston Celtics,7:30 PM,7:30 PM
+631,Wed.,18-Jan-17,Orlando Magic,New Orleans Pelicans,7:00 PM,8:00 PM
+632,Wed.,18-Jan-17,Milwaukee Bucks,Houston Rockets,7:00 PM,8:00 PM
+633,Wed.,18-Jan-17,Atlanta Hawks,Detroit Pistons,8:00 PM,8:00 PM
+634,Wed.,18-Jan-17,Oklahoma City Thunder,Golden State Warriors,7:30 PM,10:30 PM
+635,Wed.,18-Jan-17,Indiana Pacers,Sacramento Kings,7:30 PM,10:30 PM
+636,Thu.,19-Jan-17,Phoenix Suns,Cleveland Cavaliers,7:00 PM,7:00 PM
+637,Thu.,19-Jan-17,Dallas Mavericks,Miami Heat,7:30 PM,7:30 PM
+638,Thu.,19-Jan-17,Washington Wizards,New York Knicks,8:00 PM,8:00 PM
+639,Thu.,19-Jan-17,Denver Nuggets,San Antonio Spurs,7:30 PM,8:30 PM
+640,Thu.,19-Jan-17,Minnesota Timberwolves,Los Angeles Clippers,7:30 PM,10:30 PM
+641,Fri.,20-Jan-17,Portland Trail Blazers,Philadelphia 76ers,7:00 PM,7:00 PM
+642,Fri.,20-Jan-17,Toronto Raptors,Charlotte Hornets,7:00 PM,7:00 PM
+643,Fri.,20-Jan-17,Milwaukee Bucks,Orlando Magic,7:00 PM,7:00 PM
+644,Fri.,20-Jan-17,Sacramento Kings,Memphis Grizzlies,7:00 PM,8:00 PM
+645,Fri.,20-Jan-17,Brooklyn Nets,New Orleans Pelicans,7:00 PM,8:00 PM
+646,Fri.,20-Jan-17,Golden State Warriors,Houston Rockets,7:00 PM,8:00 PM
+647,Fri.,20-Jan-17,Chicago Bulls,Atlanta Hawks,8:00 PM,8:00 PM
+648,Fri.,20-Jan-17,Utah Jazz,Dallas Mavericks,7:30 PM,8:30 PM
+649,Fri.,20-Jan-17,Indiana Pacers,Los Angeles Lakers,7:30 PM,10:30 PM
+650,Sat.,21-Jan-17,Portland Trail Blazers,Boston Celtics,5:00 PM,5:00 PM
+651,Sat.,21-Jan-17,Washington Wizards,Detroit Pistons,6:00 PM,6:00 PM
+652,Sat.,21-Jan-17,Brooklyn Nets,Charlotte Hornets,7:00 PM,7:00 PM
+653,Sat.,21-Jan-17,Philadelphia 76ers,Atlanta Hawks,7:00 PM,7:00 PM
+654,Sat.,21-Jan-17,Phoenix Suns,New York Knicks,7:30 PM,7:30 PM
+655,Sat.,21-Jan-17,Milwaukee Bucks,Miami Heat,7:30 PM,7:30 PM
+656,Sat.,21-Jan-17,Houston Rockets,Memphis Grizzlies,7:00 PM,8:00 PM
+657,Sat.,21-Jan-17,San Antonio Spurs,Cleveland Cavaliers,8:30 PM,8:30 PM
+658,Sat.,21-Jan-17,Los Angeles Clippers,Denver Nuggets,7:00 PM,9:00 PM
+659,Sat.,21-Jan-17,Indiana Pacers,Utah Jazz,7:00 PM,9:00 PM
+660,Sat.,21-Jan-17,Sacramento Kings,Chicago Bulls,8:00 PM,9:00 PM
+661,Sun.,22-Jan-17,Golden State Warriors,Orlando Magic,12:00 PM,12:00 PM
+662,Sun.,22-Jan-17,Los Angeles Lakers,Dallas Mavericks,2:30 PM,3:30 PM
+663,Sun.,22-Jan-17,Phoenix Suns,Toronto Raptors,6:00 PM,6:00 PM
+664,Sun.,22-Jan-17,Denver Nuggets,Minnesota Timberwolves,6:00 PM,7:00 PM
+665,Mon.,23-Jan-17,Washington Wizards,Charlotte Hornets,7:00 PM,7:00 PM
+666,Mon.,23-Jan-17,San Antonio Spurs,Brooklyn Nets,7:30 PM,7:30 PM
+667,Mon.,23-Jan-17,Los Angeles Clippers,Atlanta Hawks,7:30 PM,7:30 PM
+668,Mon.,23-Jan-17,Golden State Warriors,Miami Heat,7:30 PM,7:30 PM
+669,Mon.,23-Jan-17,Sacramento Kings,Detroit Pistons,7:30 PM,7:30 PM
+670,Mon.,23-Jan-17,Houston Rockets,Milwaukee Bucks,7:00 PM,8:00 PM
+671,Mon.,23-Jan-17,Cleveland Cavaliers,New Orleans Pelicans,7:00 PM,8:00 PM
+672,Mon.,23-Jan-17,New York Knicks,Indiana Pacers,8:00 PM,8:00 PM
+673,Mon.,23-Jan-17,Oklahoma City Thunder,Utah Jazz,7:00 PM,9:00 PM
+674,Tue.,24-Jan-17,San Antonio Spurs,Toronto Raptors,7:00 PM,7:00 PM
+675,Tue.,24-Jan-17,Los Angeles Clippers,Philadelphia 76ers,7:00 PM,7:00 PM
+676,Tue.,24-Jan-17,Boston Celtics,Washington Wizards,7:00 PM,7:00 PM
+677,Tue.,24-Jan-17,Chicago Bulls,Orlando Magic,7:00 PM,7:00 PM
+678,Tue.,24-Jan-17,Utah Jazz,Denver Nuggets,7:00 PM,9:00 PM
+679,Tue.,24-Jan-17,Minnesota Timberwolves,Phoenix Suns,7:00 PM,9:00 PM
+680,Wed.,25-Jan-17,Sacramento Kings,Cleveland Cavaliers,7:00 PM,7:00 PM
+681,Wed.,25-Jan-17,Houston Rockets,Boston Celtics,7:30 PM,7:30 PM
+682,Wed.,25-Jan-17,Miami Heat,Brooklyn Nets,7:30 PM,7:30 PM
+683,Wed.,25-Jan-17,Atlanta Hawks,Chicago Bulls,7:00 PM,8:00 PM
+684,Wed.,25-Jan-17,Philadelphia 76ers,Milwaukee Bucks,7:00 PM,8:00 PM
+685,Wed.,25-Jan-17,Toronto Raptors,Memphis Grizzlies,7:00 PM,8:00 PM
+686,Wed.,25-Jan-17,Oklahoma City Thunder,New Orleans Pelicans,7:00 PM,8:00 PM
+687,Wed.,25-Jan-17,Golden State Warriors,Charlotte Hornets,8:00 PM,8:00 PM
+688,Wed.,25-Jan-17,New York Knicks,Dallas Mavericks,7:30 PM,8:30 PM
+689,Wed.,25-Jan-17,Los Angeles Lakers,Portland Trail Blazers,7:30 PM,10:30 PM
+690,Thu.,26-Jan-17,Dallas Mavericks,Oklahoma City Thunder,7:00 PM,8:00 PM
+691,Thu.,26-Jan-17,Indiana Pacers,Minnesota Timberwolves,7:00 PM,8:00 PM
+692,Thu.,26-Jan-17,Phoenix Suns,Denver Nuggets,7:00 PM,9:00 PM
+693,Thu.,26-Jan-17,Los Angeles Lakers,Utah Jazz,8:30 PM,10:30 PM
+694,Fri.,27-Jan-17,Houston Rockets,Philadelphia 76ers,7:00 PM,7:00 PM
+695,Fri.,27-Jan-17,Brooklyn Nets,Cleveland Cavaliers,7:30 PM,7:30 PM
+696,Fri.,27-Jan-17,Sacramento Kings,Indiana Pacers,7:00 PM,7:00 PM
+697,Fri.,27-Jan-17,Orlando Magic,Boston Celtics,7:30 PM,7:30 PM
+698,Fri.,27-Jan-17,Milwaukee Bucks,Toronto Raptors,7:30 PM,7:30 PM
+699,Fri.,27-Jan-17,Charlotte Hornets,New York Knicks,7:30 PM,7:30 PM
+700,Fri.,27-Jan-17,Miami Heat,Chicago Bulls,7:00 PM,8:00 PM
+701,Fri.,27-Jan-17,San Antonio Spurs,New Orleans Pelicans,7:00 PM,8:00 PM
+702,Fri.,27-Jan-17,Washington Wizards,Atlanta Hawks,8:00 PM,8:00 PM
+703,Fri.,27-Jan-17,Memphis Grizzlies,Portland Trail Blazers,7:00 PM,10:00 PM
+704,Sat.,28-Jan-17,Sacramento Kings,Charlotte Hornets,7:00 PM,7:00 PM
+705,Sat.,28-Jan-17,Detroit Pistons,Miami Heat,7:30 PM,7:30 PM
+706,Sat.,28-Jan-17,Boston Celtics,Milwaukee Bucks,7:00 PM,8:00 PM
+707,Sat.,28-Jan-17,Los Angeles Clippers,Golden State Warriors,5:30 PM,8:30 PM
+708,Sat.,28-Jan-17,Memphis Grizzlies,Utah Jazz,7:00 PM,9:00 PM
+709,Sat.,28-Jan-17,Denver Nuggets,Phoenix Suns,7:00 PM,9:00 PM
+710,Sat.,28-Jan-17,Brooklyn Nets,Minnesota Timberwolves,8:00 PM,9:00 PM
+711,Sun.,29-Jan-17,New York Knicks,Atlanta Hawks,3:00 PM,3:00 PM
+712,Sun.,29-Jan-17,Oklahoma City Thunder,Cleveland Cavaliers,3:30 PM,3:30 PM
+713,Sun.,29-Jan-17,Houston Rockets,Indiana Pacers,6:00 PM,6:00 PM
+714,Sun.,29-Jan-17,Washington Wizards,New Orleans Pelicans,5:00 PM,6:00 PM
+715,Sun.,29-Jan-17,Orlando Magic,Toronto Raptors,6:00 PM,6:00 PM
+716,Sun.,29-Jan-17,Philadelphia 76ers,Chicago Bulls,6:00 PM,7:00 PM
+717,Sun.,29-Jan-17,Dallas Mavericks,San Antonio Spurs,6:00 PM,7:00 PM
+718,Sun.,29-Jan-17,Golden State Warriors,Portland Trail Blazers,6:00 PM,9:00 PM
+719,Mon.,30-Jan-17,Brooklyn Nets,Miami Heat,7:30 PM,7:30 PM
+720,Mon.,30-Jan-17,Orlando Magic,Minnesota Timberwolves,7:00 PM,8:00 PM
+721,Mon.,30-Jan-17,Detroit Pistons,Boston Celtics,8:00 PM,8:00 PM
+722,Mon.,30-Jan-17,Cleveland Cavaliers,Dallas Mavericks,7:30 PM,8:30 PM
+723,Mon.,30-Jan-17,Memphis Grizzlies,Phoenix Suns,8:30 PM,10:30 PM
+724,Tue.,31-Jan-17,New York Knicks,Washington Wizards,7:00 PM,7:00 PM
+725,Tue.,31-Jan-17,New Orleans Pelicans,Toronto Raptors,7:30 PM,7:30 PM
+726,Tue.,31-Jan-17,Sacramento Kings,Houston Rockets,7:00 PM,8:00 PM
+727,Tue.,31-Jan-17,Oklahoma City Thunder,San Antonio Spurs,7:30 PM,8:30 PM
+728,Tue.,31-Jan-17,Charlotte Hornets,Portland Trail Blazers,7:00 PM,10:00 PM
+729,Tue.,31-Jan-17,Denver Nuggets,Los Angeles Lakers,7:30 PM,10:30 PM
+730,Wed.,1-Feb-17,Indiana Pacers,Orlando Magic,7:00 PM,7:00 PM
+731,Wed.,1-Feb-17,Minnesota Timberwolves,Cleveland Cavaliers,7:00 PM,7:00 PM
+732,Wed.,1-Feb-17,Toronto Raptors,Boston Celtics,7:30 PM,7:30 PM
+733,Wed.,1-Feb-17,New York Knicks,Brooklyn Nets,7:30 PM,7:30 PM
+734,Wed.,1-Feb-17,Atlanta Hawks,Miami Heat,7:30 PM,7:30 PM
+735,Wed.,1-Feb-17,New Orleans Pelicans,Detroit Pistons,7:30 PM,7:30 PM
+736,Wed.,1-Feb-17,Philadelphia 76ers,Dallas Mavericks,7:30 PM,8:30 PM
+737,Wed.,1-Feb-17,Memphis Grizzlies,Denver Nuggets,7:00 PM,9:00 PM
+738,Wed.,1-Feb-17,Milwaukee Bucks,Utah Jazz,7:00 PM,9:00 PM
+739,Wed.,1-Feb-17,Los Angeles Clippers,Phoenix Suns,7:00 PM,9:00 PM
+740,Wed.,1-Feb-17,Chicago Bulls,Oklahoma City Thunder,8:30 PM,9:30 PM
+741,Wed.,1-Feb-17,Charlotte Hornets,Golden State Warriors,7:30 PM,10:30 PM
+742,Thu.,2-Feb-17,Los Angeles Lakers,Washington Wizards,7:00 PM,7:00 PM
+743,Thu.,2-Feb-17,Atlanta Hawks,Houston Rockets,7:00 PM,8:00 PM
+744,Thu.,2-Feb-17,Philadelphia 76ers,San Antonio Spurs,7:30 PM,8:30 PM
+745,Thu.,2-Feb-17,Golden State Warriors,Los Angeles Clippers,7:30 PM,10:30 PM
+746,Fri.,3-Feb-17,Toronto Raptors,Orlando Magic,7:00 PM,7:00 PM
+747,Fri.,3-Feb-17,Indiana Pacers,Brooklyn Nets,7:30 PM,7:30 PM
+748,Fri.,3-Feb-17,Minnesota Timberwolves,Detroit Pistons,7:30 PM,7:30 PM
+749,Fri.,3-Feb-17,Chicago Bulls,Houston Rockets,7:00 PM,8:00 PM
+750,Fri.,3-Feb-17,Memphis Grizzlies,Oklahoma City Thunder,7:00 PM,8:00 PM
+751,Fri.,3-Feb-17,Los Angeles Lakers,Boston Celtics,8:00 PM,8:00 PM
+752,Fri.,3-Feb-17,Milwaukee Bucks,Denver Nuggets,7:00 PM,9:00 PM
+753,Fri.,3-Feb-17,Phoenix Suns,Sacramento Kings,7:30 PM,10:30 PM
+754,Fri.,3-Feb-17,Dallas Mavericks,Portland Trail Blazers,7:30 PM,10:30 PM
+755,Sat.,4-Feb-17,New Orleans Pelicans,Washington Wizards,7:00 PM,7:00 PM
+756,Sat.,4-Feb-17,Orlando Magic,Atlanta Hawks,7:00 PM,7:00 PM
+757,Sat.,4-Feb-17,Detroit Pistons,Indiana Pacers,7:00 PM,7:00 PM
+758,Sat.,4-Feb-17,Philadelphia 76ers,Miami Heat,7:30 PM,7:30 PM
+759,Sat.,4-Feb-17,Cleveland Cavaliers,New York Knicks,8:30 PM,8:30 PM
+760,Sat.,4-Feb-17,Charlotte Hornets,Utah Jazz,7:00 PM,9:00 PM
+761,Sat.,4-Feb-17,Milwaukee Bucks,Phoenix Suns,7:00 PM,9:00 PM
+762,Sat.,4-Feb-17,Denver Nuggets,San Antonio Spurs,8:00 PM,9:00 PM
+763,Sat.,4-Feb-17,Memphis Grizzlies,Minnesota Timberwolves,8:00 PM,9:00 PM
+764,Sat.,4-Feb-17,Golden State Warriors,Sacramento Kings,7:30 PM,10:30 PM
+765,Sun.,5-Feb-17,Toronto Raptors,Brooklyn Nets,12:00 PM,12:00 PM
+766,Sun.,5-Feb-17,Los Angeles Clippers,Boston Celtics,2:00 PM,2:00 PM
+767,Sun.,5-Feb-17,Portland Trail Blazers,Oklahoma City Thunder,2:00 PM,3:00 PM
+768,Mon.,6-Feb-17,Los Angeles Lakers,New York Knicks,7:00 PM,7:00 PM
+769,Mon.,6-Feb-17,Cleveland Cavaliers,Washington Wizards,7:00 PM,7:00 PM
+770,Mon.,6-Feb-17,Oklahoma City Thunder,Indiana Pacers,7:00 PM,7:00 PM
+771,Mon.,6-Feb-17,Los Angeles Clippers,Toronto Raptors,7:30 PM,7:30 PM
+772,Mon.,6-Feb-17,Utah Jazz,Atlanta Hawks,7:30 PM,7:30 PM
+773,Mon.,6-Feb-17,Philadelphia 76ers,Detroit Pistons,7:30 PM,7:30 PM
+774,Mon.,6-Feb-17,Phoenix Suns,New Orleans Pelicans,7:00 PM,8:00 PM
+775,Mon.,6-Feb-17,Miami Heat,Minnesota Timberwolves,7:00 PM,8:00 PM
+776,Mon.,6-Feb-17,Dallas Mavericks,Denver Nuggets,7:00 PM,9:00 PM
+777,Mon.,6-Feb-17,San Antonio Spurs,Memphis Grizzlies,8:30 PM,9:30 PM
+778,Mon.,6-Feb-17,Chicago Bulls,Sacramento Kings,7:30 PM,10:30 PM
+779,Tue.,7-Feb-17,Brooklyn Nets,Charlotte Hornets,7:00 PM,7:00 PM
+780,Tue.,7-Feb-17,Orlando Magic,Houston Rockets,7:00 PM,8:00 PM
+781,Tue.,7-Feb-17,Portland Trail Blazers,Dallas Mavericks,7:30 PM,8:30 PM
+782,Wed.,8-Feb-17,San Antonio Spurs,Philadelphia 76ers,7:00 PM,7:00 PM
+783,Wed.,8-Feb-17,Cleveland Cavaliers,Indiana Pacers,7:00 PM,7:00 PM
+784,Wed.,8-Feb-17,Washington Wizards,Brooklyn Nets,7:30 PM,7:30 PM
+785,Wed.,8-Feb-17,Denver Nuggets,Atlanta Hawks,7:30 PM,7:30 PM
+786,Wed.,8-Feb-17,Los Angeles Lakers,Detroit Pistons,7:30 PM,7:30 PM
+787,Wed.,8-Feb-17,Miami Heat,Milwaukee Bucks,7:00 PM,8:00 PM
+788,Wed.,8-Feb-17,Phoenix Suns,Memphis Grizzlies,7:00 PM,8:00 PM
+789,Wed.,8-Feb-17,Utah Jazz,New Orleans Pelicans,7:00 PM,8:00 PM
+790,Wed.,8-Feb-17,Toronto Raptors,Minnesota Timberwolves,7:00 PM,8:00 PM
+791,Wed.,8-Feb-17,Los Angeles Clippers,New York Knicks,8:00 PM,8:00 PM
+792,Wed.,8-Feb-17,Chicago Bulls,Golden State Warriors,7:30 PM,10:30 PM
+793,Wed.,8-Feb-17,Boston Celtics,Sacramento Kings,7:30 PM,10:30 PM
+794,Thu.,9-Feb-17,Houston Rockets,Charlotte Hornets,7:00 PM,7:00 PM
+795,Thu.,9-Feb-17,Philadelphia 76ers,Orlando Magic,7:00 PM,7:00 PM
+796,Thu.,9-Feb-17,Cleveland Cavaliers,Oklahoma City Thunder,7:00 PM,8:00 PM
+797,Thu.,9-Feb-17,Utah Jazz,Dallas Mavericks,7:30 PM,8:30 PM
+798,Thu.,9-Feb-17,Boston Celtics,Portland Trail Blazers,7:30 PM,10:30 PM
+799,Fri.,10-Feb-17,Miami Heat,Brooklyn Nets,7:30 PM,7:30 PM
+800,Fri.,10-Feb-17,Denver Nuggets,New York Knicks,7:30 PM,7:30 PM
+801,Fri.,10-Feb-17,San Antonio Spurs,Detroit Pistons,7:30 PM,7:30 PM
+802,Fri.,10-Feb-17,Los Angeles Lakers,Milwaukee Bucks,7:00 PM,8:00 PM
+803,Fri.,10-Feb-17,Golden State Warriors,Memphis Grizzlies,7:00 PM,8:00 PM
+804,Fri.,10-Feb-17,New Orleans Pelicans,Minnesota Timberwolves,7:00 PM,8:00 PM
+805,Fri.,10-Feb-17,Indiana Pacers,Washington Wizards,8:00 PM,8:00 PM
+806,Fri.,10-Feb-17,Atlanta Hawks,Sacramento Kings,7:30 PM,10:30 PM
+807,Fri.,10-Feb-17,Chicago Bulls,Phoenix Suns,8:30 PM,10:30 PM
+808,Sat.,11-Feb-17,Los Angeles Clippers,Charlotte Hornets,5:00 PM,5:00 PM
+809,Sat.,11-Feb-17,Milwaukee Bucks,Indiana Pacers,7:00 PM,7:00 PM
+810,Sat.,11-Feb-17,Miami Heat,Philadelphia 76ers,7:30 PM,7:30 PM
+811,Sat.,11-Feb-17,Denver Nuggets,Cleveland Cavaliers,7:30 PM,7:30 PM
+812,Sat.,11-Feb-17,Phoenix Suns,Houston Rockets,8:00 PM,9:00 PM
+813,Sat.,11-Feb-17,Golden State Warriors,Oklahoma City Thunder,7:30 PM,8:30 PM
+814,Sat.,11-Feb-17,Orlando Magic,Dallas Mavericks,8:00 PM,9:00 PM
+815,Sat.,11-Feb-17,Boston Celtics,Utah Jazz,8:00 PM,10:00 PM
+816,Sun.,12-Feb-17,Chicago Bulls,Minnesota Timberwolves,2:30 PM,3:30 PM
+817,Sun.,12-Feb-17,San Antonio Spurs,New York Knicks,3:30 PM,3:30 PM
+818,Sun.,12-Feb-17,Detroit Pistons,Toronto Raptors,6:00 PM,6:00 PM
+819,Sun.,12-Feb-17,New Orleans Pelicans,Sacramento Kings,6:00 PM,9:00 PM
+820,Mon.,13-Feb-17,Oklahoma City Thunder,Washington Wizards,7:00 PM,7:00 PM
+821,Mon.,13-Feb-17,Philadelphia 76ers,Charlotte Hornets,7:00 PM,7:00 PM
+822,Mon.,13-Feb-17,Memphis Grizzlies,Brooklyn Nets,7:30 PM,7:30 PM
+823,Mon.,13-Feb-17,Orlando Magic,Miami Heat,7:30 PM,7:30 PM
+824,Mon.,13-Feb-17,Detroit Pistons,Milwaukee Bucks,7:00 PM,8:00 PM
+825,Mon.,13-Feb-17,San Antonio Spurs,Indiana Pacers,8:00 PM,8:00 PM
+826,Mon.,13-Feb-17,Boston Celtics,Dallas Mavericks,7:30 PM,8:30 PM
+827,Mon.,13-Feb-17,Golden State Warriors,Denver Nuggets,7:00 PM,9:00 PM
+828,Mon.,13-Feb-17,Los Angeles Clippers,Utah Jazz,7:00 PM,9:00 PM
+829,Mon.,13-Feb-17,New Orleans Pelicans,Phoenix Suns,7:00 PM,9:00 PM
+830,Mon.,13-Feb-17,Atlanta Hawks,Portland Trail Blazers,7:30 PM,10:30 PM
+831,Tue.,14-Feb-17,Toronto Raptors,Chicago Bulls,7:00 PM,8:00 PM
+832,Tue.,14-Feb-17,Cleveland Cavaliers,Minnesota Timberwolves,7:00 PM,8:00 PM
+833,Tue.,14-Feb-17,Sacramento Kings,Los Angeles Lakers,7:30 PM,10:30 PM
+834,Wed.,15-Feb-17,San Antonio Spurs,Orlando Magic,7:00 PM,7:00 PM
+835,Wed.,15-Feb-17,Indiana Pacers,Cleveland Cavaliers,7:00 PM,7:00 PM
+836,Wed.,15-Feb-17,Philadelphia 76ers,Boston Celtics,7:30 PM,7:30 PM
+837,Wed.,15-Feb-17,Charlotte Hornets,Toronto Raptors,7:30 PM,7:30 PM
+838,Wed.,15-Feb-17,Milwaukee Bucks,Brooklyn Nets,7:30 PM,7:30 PM
+839,Wed.,15-Feb-17,Dallas Mavericks,Detroit Pistons,7:30 PM,7:30 PM
+840,Wed.,15-Feb-17,New Orleans Pelicans,Memphis Grizzlies,7:00 PM,8:00 PM
+841,Wed.,15-Feb-17,Miami Heat,Houston Rockets,7:00 PM,8:00 PM
+842,Wed.,15-Feb-17,Minnesota Timberwolves,Denver Nuggets,7:00 PM,9:00 PM
+843,Wed.,15-Feb-17,Portland Trail Blazers,Utah Jazz,7:00 PM,9:00 PM
+844,Wed.,15-Feb-17,Los Angeles Lakers,Phoenix Suns,7:00 PM,9:00 PM
+845,Wed.,15-Feb-17,New York Knicks,Oklahoma City Thunder,8:30 PM,9:30 PM
+846,Wed.,15-Feb-17,Atlanta Hawks,Los Angeles Clippers,7:30 PM,10:30 PM
+847,Wed.,15-Feb-17,Sacramento Kings,Golden State Warriors,7:30 PM,10:30 PM
+848,Thu.,16-Feb-17,Washington Wizards,Indiana Pacers,7:00 PM,7:00 PM
+849,Thu.,16-Feb-17,Boston Celtics,Chicago Bulls,7:00 PM,8:00 PM
+850,Thu.,23-Feb-17,Portland Trail Blazers,Orlando Magic,7:00 PM,7:00 PM
+851,Thu.,23-Feb-17,Charlotte Hornets,Detroit Pistons,7:30 PM,7:30 PM
+852,Thu.,23-Feb-17,Houston Rockets,New Orleans Pelicans,7:00 PM,8:00 PM
+853,Thu.,23-Feb-17,New York Knicks,Cleveland Cavaliers,8:00 PM,8:00 PM
+854,Thu.,23-Feb-17,Los Angeles Clippers,Golden State Warriors,7:30 PM,10:30 PM
+855,Thu.,23-Feb-17,Denver Nuggets,Sacramento Kings,7:30 PM,10:30 PM
+856,Fri.,24-Feb-17,Washington Wizards,Philadelphia 76ers,7:00 PM,7:00 PM
+857,Fri.,24-Feb-17,Memphis Grizzlies,Indiana Pacers,7:00 PM,7:00 PM
+858,Fri.,24-Feb-17,Boston Celtics,Toronto Raptors,7:30 PM,7:30 PM
+859,Fri.,24-Feb-17,Phoenix Suns,Chicago Bulls,7:00 PM,8:00 PM
+860,Fri.,24-Feb-17,Utah Jazz,Milwaukee Bucks,7:00 PM,8:00 PM
+861,Fri.,24-Feb-17,Los Angeles Lakers,Oklahoma City Thunder,7:00 PM,8:00 PM
+862,Fri.,24-Feb-17,Dallas Mavericks,Minnesota Timberwolves,7:00 PM,8:00 PM
+863,Fri.,24-Feb-17,Miami Heat,Atlanta Hawks,8:00 PM,8:00 PM
+864,Fri.,24-Feb-17,Brooklyn Nets,Denver Nuggets,7:00 PM,9:00 PM
+865,Fri.,24-Feb-17,San Antonio Spurs,Los Angeles Clippers,7:30 PM,10:30 PM
+866,Sat.,25-Feb-17,Charlotte Hornets,Sacramento Kings,2:00 PM,5:00 PM
+867,Sat.,25-Feb-17,Atlanta Hawks,Orlando Magic,7:00 PM,7:00 PM
+868,Sat.,25-Feb-17,Philadelphia 76ers,New York Knicks,7:30 PM,7:30 PM
+869,Sat.,25-Feb-17,Indiana Pacers,Miami Heat,8:00 PM,8:00 PM
+870,Sat.,25-Feb-17,New Orleans Pelicans,Dallas Mavericks,7:30 PM,8:30 PM
+871,Sat.,25-Feb-17,Chicago Bulls,Cleveland Cavaliers,8:30 PM,8:30 PM
+872,Sat.,25-Feb-17,Minnesota Timberwolves,Houston Rockets,8:00 PM,9:00 PM
+873,Sat.,25-Feb-17,Brooklyn Nets,Golden State Warriors,7:30 PM,10:30 PM
+874,Sun.,26-Feb-17,San Antonio Spurs,Los Angeles Lakers,12:30 PM,3:30 PM
+875,Sun.,26-Feb-17,Phoenix Suns,Milwaukee Bucks,2:30 PM,3:30 PM
+876,Sun.,26-Feb-17,Memphis Grizzlies,Denver Nuggets,3:00 PM,5:00 PM
+877,Sun.,26-Feb-17,Utah Jazz,Washington Wizards,5:00 PM,5:00 PM
+878,Sun.,26-Feb-17,Portland Trail Blazers,Toronto Raptors,6:00 PM,6:00 PM
+879,Sun.,26-Feb-17,Boston Celtics,Detroit Pistons,6:00 PM,6:00 PM
+880,Sun.,26-Feb-17,New Orleans Pelicans,Oklahoma City Thunder,6:00 PM,7:00 PM
+881,Sun.,26-Feb-17,Charlotte Hornets,Los Angeles Clippers,6:30 PM,9:30 PM
+882,Mon.,27-Feb-17,Toronto Raptors,New York Knicks,7:00 PM,7:00 PM
+883,Mon.,27-Feb-17,Golden State Warriors,Philadelphia 76ers,7:00 PM,7:00 PM
+884,Mon.,27-Feb-17,Milwaukee Bucks,Cleveland Cavaliers,7:00 PM,7:00 PM
+885,Mon.,27-Feb-17,Atlanta Hawks,Boston Celtics,7:30 PM,7:30 PM
+886,Mon.,27-Feb-17,Indiana Pacers,Houston Rockets,7:00 PM,8:00 PM
+887,Mon.,27-Feb-17,Miami Heat,Dallas Mavericks,8:30 PM,9:30 PM
+888,Mon.,27-Feb-17,Minnesota Timberwolves,Sacramento Kings,7:30 PM,10:30 PM
+889,Tue.,28-Feb-17,Golden State Warriors,Washington Wizards,7:00 PM,7:00 PM
+890,Tue.,28-Feb-17,Portland Trail Blazers,Detroit Pistons,7:30 PM,7:30 PM
+891,Tue.,28-Feb-17,Denver Nuggets,Chicago Bulls,7:00 PM,8:00 PM
+892,Tue.,28-Feb-17,Phoenix Suns,Memphis Grizzlies,7:00 PM,8:00 PM
+893,Tue.,28-Feb-17,Utah Jazz,Oklahoma City Thunder,7:00 PM,8:00 PM
+894,Tue.,28-Feb-17,Charlotte Hornets,Los Angeles Lakers,7:30 PM,10:30 PM
+895,Wed.,1-Mar-17,New York Knicks,Orlando Magic,7:00 PM,7:00 PM
+896,Wed.,1-Mar-17,Washington Wizards,Toronto Raptors,7:30 PM,7:30 PM
+897,Wed.,1-Mar-17,Dallas Mavericks,Atlanta Hawks,7:30 PM,7:30 PM
+898,Wed.,1-Mar-17,Philadelphia 76ers,Miami Heat,7:30 PM,7:30 PM
+899,Wed.,1-Mar-17,Denver Nuggets,Milwaukee Bucks,7:00 PM,8:00 PM
+900,Wed.,1-Mar-17,Detroit Pistons,New Orleans Pelicans,7:00 PM,8:00 PM
+901,Wed.,1-Mar-17,Cleveland Cavaliers,Boston Celtics,8:00 PM,8:00 PM
+902,Wed.,1-Mar-17,Indiana Pacers,San Antonio Spurs,7:30 PM,8:30 PM
+903,Wed.,1-Mar-17,Minnesota Timberwolves,Utah Jazz,7:00 PM,9:00 PM
+904,Wed.,1-Mar-17,Houston Rockets,Los Angeles Clippers,7:30 PM,10:30 PM
+905,Wed.,1-Mar-17,Brooklyn Nets,Sacramento Kings,7:30 PM,10:30 PM
+906,Thu.,2-Mar-17,Golden State Warriors,Chicago Bulls,7:00 PM,8:00 PM
+907,Thu.,2-Mar-17,Charlotte Hornets,Phoenix Suns,7:00 PM,9:00 PM
+908,Thu.,2-Mar-17,Oklahoma City Thunder,Portland Trail Blazers,7:30 PM,10:30 PM
+909,Fri.,3-Mar-17,New York Knicks,Philadelphia 76ers,7:00 PM,7:00 PM
+910,Fri.,3-Mar-17,Toronto Raptors,Washington Wizards,7:00 PM,7:00 PM
+911,Fri.,3-Mar-17,Miami Heat,Orlando Magic,7:00 PM,7:00 PM
+912,Fri.,3-Mar-17,Los Angeles Clippers,Milwaukee Bucks,7:00 PM,8:00 PM
+913,Fri.,3-Mar-17,Cleveland Cavaliers,Atlanta Hawks,8:00 PM,8:00 PM
+914,Fri.,3-Mar-17,Memphis Grizzlies,Dallas Mavericks,7:30 PM,8:30 PM
+915,Fri.,3-Mar-17,Brooklyn Nets,Utah Jazz,7:00 PM,9:00 PM
+916,Fri.,3-Mar-17,Oklahoma City Thunder,Phoenix Suns,7:00 PM,9:00 PM
+917,Fri.,3-Mar-17,San Antonio Spurs,New Orleans Pelicans,8:30 PM,9:30 PM
+918,Fri.,3-Mar-17,Boston Celtics,Los Angeles Lakers,7:30 PM,10:30 PM
+919,Sat.,4-Mar-17,Detroit Pistons,Philadelphia 76ers,6:00 PM,6:00 PM
+920,Sat.,4-Mar-17,Toronto Raptors,Milwaukee Bucks,7:00 PM,8:00 PM
+921,Sat.,4-Mar-17,Cleveland Cavaliers,Miami Heat,8:00 PM,8:00 PM
+922,Sat.,4-Mar-17,Los Angeles Clippers,Chicago Bulls,7:30 PM,8:30 PM
+923,Sat.,4-Mar-17,Charlotte Hornets,Denver Nuggets,7:00 PM,9:00 PM
+924,Sat.,4-Mar-17,Memphis Grizzlies,Houston Rockets,8:00 PM,9:00 PM
+925,Sat.,4-Mar-17,Minnesota Timberwolves,San Antonio Spurs,8:00 PM,9:00 PM
+926,Sat.,4-Mar-17,Brooklyn Nets,Portland Trail Blazers,7:00 PM,10:00 PM
+927,Sun.,5-Mar-17,Indiana Pacers,Atlanta Hawks,3:00 PM,3:00 PM
+928,Sun.,5-Mar-17,Golden State Warriors,New York Knicks,3:30 PM,3:30 PM
+929,Sun.,5-Mar-17,Boston Celtics,Phoenix Suns,3:00 PM,5:00 PM
+930,Sun.,5-Mar-17,Orlando Magic,Washington Wizards,5:00 PM,5:00 PM
+931,Sun.,5-Mar-17,Utah Jazz,Sacramento Kings,3:00 PM,6:00 PM
+932,Sun.,5-Mar-17,Oklahoma City Thunder,Dallas Mavericks,7:30 PM,8:30 PM
+933,Sun.,5-Mar-17,New Orleans Pelicans,Los Angeles Lakers,6:30 PM,9:30 PM
+934,Mon.,6-Mar-17,Milwaukee Bucks,Philadelphia 76ers,7:00 PM,7:00 PM
+935,Mon.,6-Mar-17,New York Knicks,Orlando Magic,7:00 PM,7:00 PM
+936,Mon.,6-Mar-17,Miami Heat,Cleveland Cavaliers,7:00 PM,7:00 PM
+937,Mon.,6-Mar-17,Golden State Warriors,Atlanta Hawks,7:30 PM,7:30 PM
+938,Mon.,6-Mar-17,Chicago Bulls,Detroit Pistons,7:30 PM,7:30 PM
+939,Mon.,6-Mar-17,Brooklyn Nets,Memphis Grizzlies,7:00 PM,8:00 PM
+940,Mon.,6-Mar-17,Portland Trail Blazers,Minnesota Timberwolves,7:00 PM,8:00 PM
+941,Mon.,6-Mar-17,Indiana Pacers,Charlotte Hornets,8:00 PM,8:00 PM
+942,Mon.,6-Mar-17,Houston Rockets,San Antonio Spurs,7:30 PM,8:30 PM
+943,Mon.,6-Mar-17,Sacramento Kings,Denver Nuggets,7:00 PM,9:00 PM
+944,Mon.,6-Mar-17,New Orleans Pelicans,Utah Jazz,7:00 PM,9:00 PM
+945,Mon.,6-Mar-17,Boston Celtics,Los Angeles Clippers,7:30 PM,10:30 PM
+946,Tue.,7-Mar-17,Portland Trail Blazers,Oklahoma City Thunder,7:00 PM,8:00 PM
+947,Tue.,7-Mar-17,Los Angeles Lakers,Dallas Mavericks,7:30 PM,8:30 PM
+948,Tue.,7-Mar-17,Washington Wizards,Phoenix Suns,7:00 PM,9:00 PM
+949,Wed.,8-Mar-17,Chicago Bulls,Orlando Magic,7:00 PM,7:00 PM
+950,Wed.,8-Mar-17,Brooklyn Nets,Atlanta Hawks,7:30 PM,7:30 PM
+951,Wed.,8-Mar-17,Charlotte Hornets,Miami Heat,7:30 PM,7:30 PM
+952,Wed.,8-Mar-17,New York Knicks,Milwaukee Bucks,7:00 PM,8:00 PM
+953,Wed.,8-Mar-17,Toronto Raptors,New Orleans Pelicans,7:00 PM,8:00 PM
+954,Wed.,8-Mar-17,Utah Jazz,Houston Rockets,7:00 PM,8:00 PM
+955,Wed.,8-Mar-17,Los Angeles Clippers,Minnesota Timberwolves,7:00 PM,8:00 PM
+956,Wed.,8-Mar-17,Detroit Pistons,Indiana Pacers,8:00 PM,8:00 PM
+957,Wed.,8-Mar-17,Sacramento Kings,San Antonio Spurs,7:30 PM,8:30 PM
+958,Wed.,8-Mar-17,Washington Wizards,Denver Nuggets,7:00 PM,9:00 PM
+959,Wed.,8-Mar-17,Boston Celtics,Golden State Warriors,7:30 PM,10:30 PM
+960,Thu.,9-Mar-17,Cleveland Cavaliers,Detroit Pistons,7:30 PM,7:30 PM
+961,Thu.,9-Mar-17,Los Angeles Clippers,Memphis Grizzlies,7:00 PM,8:00 PM
+962,Thu.,9-Mar-17,San Antonio Spurs,Oklahoma City Thunder,7:00 PM,8:00 PM
+963,Thu.,9-Mar-17,Philadelphia 76ers,Portland Trail Blazers,7:00 PM,10:00 PM
+964,Thu.,9-Mar-17,Los Angeles Lakers,Phoenix Suns,8:30 PM,10:30 PM
+965,Fri.,10-Mar-17,Orlando Magic,Charlotte Hornets,7:00 PM,7:00 PM
+966,Fri.,10-Mar-17,Houston Rockets,Chicago Bulls,7:00 PM,8:00 PM
+967,Fri.,10-Mar-17,Indiana Pacers,Milwaukee Bucks,7:00 PM,8:00 PM
+968,Fri.,10-Mar-17,Golden State Warriors,Minnesota Timberwolves,7:00 PM,8:00 PM
+969,Fri.,10-Mar-17,Toronto Raptors,Atlanta Hawks,8:00 PM,8:00 PM
+970,Fri.,10-Mar-17,Boston Celtics,Denver Nuggets,7:00 PM,9:00 PM
+971,Fri.,10-Mar-17,Brooklyn Nets,Dallas Mavericks,8:00 PM,9:00 PM
+972,Fri.,10-Mar-17,Washington Wizards,Sacramento Kings,7:30 PM,10:30 PM
+973,Sat.,11-Mar-17,Utah Jazz,Oklahoma City Thunder,2:00 PM,3:00 PM
+974,Sat.,11-Mar-17,Philadelphia 76ers,Los Angeles Clippers,12:30 PM,3:30 PM
+975,Sat.,11-Mar-17,New York Knicks,Detroit Pistons,5:00 PM,5:00 PM
+976,Sat.,11-Mar-17,New Orleans Pelicans,Charlotte Hornets,7:00 PM,7:00 PM
+977,Sat.,11-Mar-17,Cleveland Cavaliers,Orlando Magic,7:00 PM,7:00 PM
+978,Sat.,11-Mar-17,Minnesota Timberwolves,Milwaukee Bucks,7:00 PM,8:00 PM
+979,Sat.,11-Mar-17,Toronto Raptors,Miami Heat,8:00 PM,8:00 PM
+980,Sat.,11-Mar-17,Golden State Warriors,San Antonio Spurs,7:30 PM,8:30 PM
+981,Sat.,11-Mar-17,Atlanta Hawks,Memphis Grizzlies,8:00 PM,9:00 PM
+982,Sat.,11-Mar-17,Phoenix Suns,Dallas Mavericks,8:00 PM,9:00 PM
+983,Sat.,11-Mar-17,Washington Wizards,Portland Trail Blazers,7:00 PM,10:00 PM
+984,Sat.,11-Mar-17,Denver Nuggets,Sacramento Kings,7:30 PM,10:30 PM
+985,Sun.,12-Mar-17,Chicago Bulls,Boston Celtics,3:30 PM,3:30 PM
+986,Sun.,12-Mar-17,New York Knicks,Brooklyn Nets,6:00 PM,6:00 PM
+987,Sun.,12-Mar-17,Miami Heat,Indiana Pacers,6:00 PM,6:00 PM
+988,Sun.,12-Mar-17,Portland Trail Blazers,Phoenix Suns,6:00 PM,9:00 PM
+989,Sun.,12-Mar-17,Cleveland Cavaliers,Houston Rockets,8:00 PM,9:00 PM
+990,Sun.,12-Mar-17,Philadelphia 76ers,Los Angeles Lakers,6:30 PM,9:30 PM
+991,Mon.,13-Mar-17,Chicago Bulls,Charlotte Hornets,7:00 PM,7:00 PM
+992,Mon.,13-Mar-17,Dallas Mavericks,Toronto Raptors,7:30 PM,7:30 PM
+993,Mon.,13-Mar-17,Milwaukee Bucks,Memphis Grizzlies,7:00 PM,8:00 PM
+994,Mon.,13-Mar-17,Atlanta Hawks,San Antonio Spurs,7:00 PM,8:00 PM
+995,Mon.,13-Mar-17,Washington Wizards,Minnesota Timberwolves,7:00 PM,8:00 PM
+996,Mon.,13-Mar-17,Los Angeles Clippers,Utah Jazz,7:00 PM,9:00 PM
+997,Mon.,13-Mar-17,Orlando Magic,Sacramento Kings,7:30 PM,10:30 PM
+998,Mon.,13-Mar-17,Los Angeles Lakers,Denver Nuggets,8:30 PM,10:30 PM
+999,Tue.,14-Mar-17,Detroit Pistons,Cleveland Cavaliers,7:00 PM,7:00 PM
+1000,Tue.,14-Mar-17,Oklahoma City Thunder,Brooklyn Nets,7:30 PM,7:30 PM
+1001,Tue.,14-Mar-17,Indiana Pacers,New York Knicks,7:30 PM,7:30 PM
+1002,Tue.,14-Mar-17,Portland Trail Blazers,New Orleans Pelicans,7:00 PM,8:00 PM
+1003,Tue.,14-Mar-17,Philadelphia 76ers,Golden State Warriors,7:30 PM,10:30 PM
+1004,Wed.,15-Mar-17,Dallas Mavericks,Washington Wizards,7:00 PM,7:00 PM
+1005,Wed.,15-Mar-17,Charlotte Hornets,Indiana Pacers,7:00 PM,7:00 PM
+1006,Wed.,15-Mar-17,Minnesota Timberwolves,Boston Celtics,7:30 PM,7:30 PM
+1007,Wed.,15-Mar-17,New Orleans Pelicans,Miami Heat,7:30 PM,7:30 PM
+1008,Wed.,15-Mar-17,Utah Jazz,Detroit Pistons,7:30 PM,7:30 PM
+1009,Wed.,15-Mar-17,Memphis Grizzlies,Chicago Bulls,7:00 PM,8:00 PM
+1010,Wed.,15-Mar-17,Los Angeles Lakers,Houston Rockets,7:00 PM,8:00 PM
+1011,Wed.,15-Mar-17,Portland Trail Blazers,San Antonio Spurs,7:00 PM,8:00 PM
+1012,Wed.,15-Mar-17,Sacramento Kings,Phoenix Suns,7:00 PM,10:00 PM
+1013,Wed.,15-Mar-17,Milwaukee Bucks,Los Angeles Clippers,7:30 PM,10:30 PM
+1014,Thu.,16-Mar-17,Utah Jazz,Cleveland Cavaliers,7:00 PM,7:00 PM
+1015,Thu.,16-Mar-17,Oklahoma City Thunder,Toronto Raptors,7:00 PM,7:00 PM
+1016,Thu.,16-Mar-17,Brooklyn Nets,New York Knicks,7:30 PM,7:30 PM
+1017,Thu.,16-Mar-17,Memphis Grizzlies,Atlanta Hawks,7:30 PM,7:30 PM
+1018,Thu.,16-Mar-17,Los Angeles Clippers,Denver Nuggets,7:00 PM,9:00 PM
+1019,Thu.,16-Mar-17,Orlando Magic,Golden State Warriors,7:30 PM,10:30 PM
+1020,Fri.,17-Mar-17,Dallas Mavericks,Philadelphia 76ers,7:00 PM,7:00 PM
+1021,Fri.,17-Mar-17,Chicago Bulls,Washington Wizards,7:00 PM,7:00 PM
+1022,Fri.,17-Mar-17,Boston Celtics,Brooklyn Nets,7:30 PM,7:30 PM
+1023,Fri.,17-Mar-17,Toronto Raptors,Detroit Pistons,7:30 PM,7:30 PM
+1024,Fri.,17-Mar-17,Houston Rockets,New Orleans Pelicans,7:00 PM,8:00 PM
+1025,Fri.,17-Mar-17,Minnesota Timberwolves,Miami Heat,8:00 PM,8:00 PM
+1026,Fri.,17-Mar-17,Orlando Magic,Phoenix Suns,7:00 PM,10:00 PM
+1027,Fri.,17-Mar-17,Milwaukee Bucks,Los Angeles Lakers,7:30 PM,10:30 PM
+1028,Sat.,18-Mar-17,Sacramento Kings,Oklahoma City Thunder,2:00 PM,3:00 PM
+1029,Sat.,18-Mar-17,Portland Trail Blazers,Atlanta Hawks,6:00 PM,6:00 PM
+1030,Sat.,18-Mar-17,Washington Wizards,Charlotte Hornets,7:00 PM,7:00 PM
+1031,Sat.,18-Mar-17,Cleveland Cavaliers,Los Angeles Clippers,5:30 PM,8:30 PM
+1032,Sat.,18-Mar-17,Utah Jazz,Chicago Bulls,8:00 PM,9:00 PM
+1033,Sat.,18-Mar-17,San Antonio Spurs,Memphis Grizzlies,8:00 PM,9:00 PM
+1034,Sat.,18-Mar-17,Houston Rockets,Denver Nuggets,7:30 PM,9:30 PM
+1035,Sat.,18-Mar-17,Milwaukee Bucks,Golden State Warriors,7:30 PM,10:30 PM
+1036,Sun.,19-Mar-17,Dallas Mavericks,Brooklyn Nets,12:00 PM,12:00 PM
+1037,Sun.,19-Mar-17,Boston Celtics,Philadelphia 76ers,1:00 PM,1:00 PM
+1038,Sun.,19-Mar-17,Phoenix Suns,Detroit Pistons,4:30 PM,4:30 PM
+1039,Sun.,19-Mar-17,Minnesota Timberwolves,New Orleans Pelicans,5:00 PM,6:00 PM
+1040,Sun.,19-Mar-17,Indiana Pacers,Toronto Raptors,6:00 PM,6:00 PM
+1041,Sun.,19-Mar-17,Portland Trail Blazers,Miami Heat,6:00 PM,6:00 PM
+1042,Sun.,19-Mar-17,Sacramento Kings,San Antonio Spurs,6:00 PM,7:00 PM
+1043,Sun.,19-Mar-17,Cleveland Cavaliers,Los Angeles Lakers,6:30 PM,9:30 PM
+1044,Mon.,20-Mar-17,Atlanta Hawks,Charlotte Hornets,7:00 PM,7:00 PM
+1045,Mon.,20-Mar-17,Philadelphia 76ers,Orlando Magic,7:00 PM,7:00 PM
+1046,Mon.,20-Mar-17,Utah Jazz,Indiana Pacers,7:00 PM,7:00 PM
+1047,Mon.,20-Mar-17,Washington Wizards,Boston Celtics,7:30 PM,7:30 PM
+1048,Mon.,20-Mar-17,Denver Nuggets,Houston Rockets,7:00 PM,8:00 PM
+1049,Mon.,20-Mar-17,Golden State Warriors,Oklahoma City Thunder,7:00 PM,8:00 PM
+1050,Mon.,20-Mar-17,New York Knicks,Los Angeles Clippers,7:30 PM,10:30 PM
+1051,Tue.,21-Mar-17,Chicago Bulls,Toronto Raptors,7:00 PM,7:00 PM
+1052,Tue.,21-Mar-17,Detroit Pistons,Brooklyn Nets,7:30 PM,7:30 PM
+1053,Tue.,21-Mar-17,Phoenix Suns,Miami Heat,7:30 PM,7:30 PM
+1054,Tue.,21-Mar-17,Memphis Grizzlies,New Orleans Pelicans,7:00 PM,8:00 PM
+1055,Tue.,21-Mar-17,Golden State Warriors,Dallas Mavericks,7:30 PM,8:30 PM
+1056,Tue.,21-Mar-17,San Antonio Spurs,Minnesota Timberwolves,8:30 PM,9:30 PM
+1057,Tue.,21-Mar-17,Milwaukee Bucks,Portland Trail Blazers,7:00 PM,10:00 PM
+1058,Tue.,21-Mar-17,Los Angeles Clippers,Los Angeles Lakers,7:30 PM,10:30 PM
+1059,Wed.,22-Mar-17,Charlotte Hornets,Orlando Magic,7:00 PM,7:00 PM
+1060,Wed.,22-Mar-17,Indiana Pacers,Boston Celtics,7:30 PM,7:30 PM
+1061,Wed.,22-Mar-17,Detroit Pistons,Chicago Bulls,7:00 PM,8:00 PM
+1062,Wed.,22-Mar-17,Philadelphia 76ers,Oklahoma City Thunder,7:00 PM,8:00 PM
+1063,Wed.,22-Mar-17,Atlanta Hawks,Washington Wizards,8:00 PM,8:00 PM
+1064,Wed.,22-Mar-17,Cleveland Cavaliers,Denver Nuggets,7:00 PM,9:00 PM
+1065,Wed.,22-Mar-17,Milwaukee Bucks,Sacramento Kings,7:30 PM,10:30 PM
+1066,Wed.,22-Mar-17,New York Knicks,Utah Jazz,8:30 PM,10:30 PM
+1067,Thu.,23-Mar-17,Phoenix Suns,Brooklyn Nets,7:30 PM,7:30 PM
+1068,Thu.,23-Mar-17,Toronto Raptors,Miami Heat,7:30 PM,7:30 PM
+1069,Thu.,23-Mar-17,Los Angeles Clippers,Dallas Mavericks,7:30 PM,8:30 PM
+1070,Thu.,23-Mar-17,Memphis Grizzlies,San Antonio Spurs,7:30 PM,8:30 PM
+1071,Thu.,23-Mar-17,New York Knicks,Portland Trail Blazers,7:00 PM,10:00 PM
+1072,Fri.,24-Mar-17,Brooklyn Nets,Washington Wizards,7:00 PM,7:00 PM
+1073,Fri.,24-Mar-17,Cleveland Cavaliers,Charlotte Hornets,7:00 PM,7:00 PM
+1074,Fri.,24-Mar-17,Detroit Pistons,Orlando Magic,7:00 PM,7:00 PM
+1075,Fri.,24-Mar-17,Denver Nuggets,Indiana Pacers,7:00 PM,7:00 PM
+1076,Fri.,24-Mar-17,Phoenix Suns,Boston Celtics,7:30 PM,7:30 PM
+1077,Fri.,24-Mar-17,Philadelphia 76ers,Chicago Bulls,7:00 PM,8:00 PM
+1078,Fri.,24-Mar-17,Atlanta Hawks,Milwaukee Bucks,7:00 PM,8:00 PM
+1079,Fri.,24-Mar-17,New Orleans Pelicans,Houston Rockets,7:00 PM,8:00 PM
+1080,Fri.,24-Mar-17,Minnesota Timberwolves,Los Angeles Lakers,7:30 PM,10:30 PM
+1081,Fri.,24-Mar-17,Sacramento Kings,Golden State Warriors,7:30 PM,10:30 PM
+1082,Sat.,25-Mar-17,Utah Jazz,Los Angeles Clippers,12:30 PM,3:30 PM
+1083,Sat.,25-Mar-17,Washington Wizards,Cleveland Cavaliers,7:30 PM,7:30 PM
+1084,Sat.,25-Mar-17,Toronto Raptors,Dallas Mavericks,7:30 PM,8:30 PM
+1085,Sat.,25-Mar-17,New York Knicks,San Antonio Spurs,7:30 PM,8:30 PM
+1086,Sat.,25-Mar-17,Minnesota Timberwolves,Portland Trail Blazers,7:00 PM,10:00 PM
+1087,Sun.,26-Mar-17,Phoenix Suns,Charlotte Hornets,1:00 PM,1:00 PM
+1088,Sun.,26-Mar-17,Brooklyn Nets,Atlanta Hawks,1:00 PM,1:00 PM
+1089,Sun.,26-Mar-17,Sacramento Kings,Los Angeles Clippers,12:30 PM,3:30 PM
+1090,Sun.,26-Mar-17,Chicago Bulls,Milwaukee Bucks,2:30 PM,3:30 PM
+1091,Sun.,26-Mar-17,Oklahoma City Thunder,Houston Rockets,2:30 PM,3:30 PM
+1092,Sun.,26-Mar-17,Philadelphia 76ers,Indiana Pacers,6:00 PM,6:00 PM
+1093,Sun.,26-Mar-17,Miami Heat,Boston Celtics,6:00 PM,6:00 PM
+1094,Sun.,26-Mar-17,Memphis Grizzlies,Golden State Warriors,5:00 PM,8:00 PM
+1095,Sun.,26-Mar-17,New Orleans Pelicans,Denver Nuggets,6:00 PM,8:00 PM
+1096,Sun.,26-Mar-17,Portland Trail Blazers,Los Angeles Lakers,6:30 PM,9:30 PM
+1097,Mon.,27-Mar-17,Orlando Magic,Toronto Raptors,7:30 PM,7:30 PM
+1098,Mon.,27-Mar-17,Detroit Pistons,New York Knicks,7:30 PM,7:30 PM
+1099,Mon.,27-Mar-17,Cleveland Cavaliers,San Antonio Spurs,7:00 PM,8:00 PM
+1100,Mon.,27-Mar-17,Oklahoma City Thunder,Dallas Mavericks,7:30 PM,8:30 PM
+1101,Mon.,27-Mar-17,Memphis Grizzlies,Sacramento Kings,7:30 PM,10:30 PM
+1102,Mon.,27-Mar-17,New Orleans Pelicans,Utah Jazz,8:30 PM,10:30 PM
+1103,Tue.,28-Mar-17,Milwaukee Bucks,Charlotte Hornets,7:00 PM,7:00 PM
+1104,Tue.,28-Mar-17,Minnesota Timberwolves,Indiana Pacers,7:00 PM,7:00 PM
+1105,Tue.,28-Mar-17,Philadelphia 76ers,Brooklyn Nets,7:30 PM,7:30 PM
+1106,Tue.,28-Mar-17,Phoenix Suns,Atlanta Hawks,7:30 PM,7:30 PM
+1107,Tue.,28-Mar-17,Miami Heat,Detroit Pistons,7:30 PM,7:30 PM
+1108,Tue.,28-Mar-17,Golden State Warriors,Houston Rockets,7:00 PM,8:00 PM
+1109,Tue.,28-Mar-17,Denver Nuggets,Portland Trail Blazers,7:00 PM,10:00 PM
+1110,Tue.,28-Mar-17,Washington Wizards,Los Angeles Lakers,7:30 PM,10:30 PM
+1111,Wed.,29-Mar-17,Atlanta Hawks,Philadelphia 76ers,7:00 PM,7:00 PM
+1112,Wed.,29-Mar-17,Oklahoma City Thunder,Orlando Magic,7:00 PM,7:00 PM
+1113,Wed.,29-Mar-17,Milwaukee Bucks,Boston Celtics,7:30 PM,7:30 PM
+1114,Wed.,29-Mar-17,Charlotte Hornets,Toronto Raptors,7:30 PM,7:30 PM
+1115,Wed.,29-Mar-17,Miami Heat,New York Knicks,7:30 PM,7:30 PM
+1116,Wed.,29-Mar-17,Indiana Pacers,Memphis Grizzlies,7:00 PM,8:00 PM
+1117,Wed.,29-Mar-17,Dallas Mavericks,New Orleans Pelicans,7:00 PM,8:00 PM
+1118,Wed.,29-Mar-17,Golden State Warriors,San Antonio Spurs,8:30 PM,9:30 PM
+1119,Wed.,29-Mar-17,Washington Wizards,Los Angeles Clippers,7:30 PM,10:30 PM
+1120,Wed.,29-Mar-17,Utah Jazz,Sacramento Kings,7:30 PM,10:30 PM
+1121,Thu.,30-Mar-17,Brooklyn Nets,Detroit Pistons,7:30 PM,7:30 PM
+1122,Thu.,30-Mar-17,Cleveland Cavaliers,Chicago Bulls,7:00 PM,8:00 PM
+1123,Thu.,30-Mar-17,Los Angeles Lakers,Minnesota Timberwolves,7:00 PM,8:00 PM
+1124,Thu.,30-Mar-17,Los Angeles Clippers,Phoenix Suns,7:00 PM,10:00 PM
+1125,Thu.,30-Mar-17,Houston Rockets,Portland Trail Blazers,7:30 PM,10:30 PM
+1126,Fri.,31-Mar-17,Indiana Pacers,Toronto Raptors,7:00 PM,7:00 PM
+1127,Fri.,31-Mar-17,Denver Nuggets,Charlotte Hornets,7:00 PM,7:00 PM
+1128,Fri.,31-Mar-17,Philadelphia 76ers,Cleveland Cavaliers,7:30 PM,7:30 PM
+1129,Fri.,31-Mar-17,Orlando Magic,Boston Celtics,7:30 PM,7:30 PM
+1130,Fri.,31-Mar-17,Detroit Pistons,Milwaukee Bucks,7:00 PM,8:00 PM
+1131,Fri.,31-Mar-17,Dallas Mavericks,Memphis Grizzlies,7:00 PM,8:00 PM
+1132,Fri.,31-Mar-17,Sacramento Kings,New Orleans Pelicans,7:00 PM,8:00 PM
+1133,Fri.,31-Mar-17,New York Knicks,Miami Heat,8:00 PM,8:00 PM
+1134,Fri.,31-Mar-17,Washington Wizards,Utah Jazz,7:00 PM,9:00 PM
+1135,Fri.,31-Mar-17,San Antonio Spurs,Oklahoma City Thunder,8:30 PM,9:30 PM
+1136,Fri.,31-Mar-17,Houston Rockets,Golden State Warriors,7:30 PM,10:30 PM
+1137,Sat.,1-Apr-17,Los Angeles Lakers,Los Angeles Clippers,12:30 PM,3:30 PM
+1138,Sat.,1-Apr-17,Atlanta Hawks,Chicago Bulls,4:00 PM,5:00 PM
+1139,Sat.,1-Apr-17,Orlando Magic,Brooklyn Nets,6:00 PM,6:00 PM
+1140,Sat.,1-Apr-17,Sacramento Kings,Minnesota Timberwolves,7:00 PM,8:00 PM
+1141,Sat.,1-Apr-17,Phoenix Suns,Portland Trail Blazers,7:00 PM,10:00 PM
+1142,Sun.,2-Apr-17,Charlotte Hornets,Oklahoma City Thunder,2:00 PM,3:00 PM
+1143,Sun.,2-Apr-17,Memphis Grizzlies,Los Angeles Lakers,12:30 PM,3:30 PM
+1144,Sun.,2-Apr-17,Dallas Mavericks,Milwaukee Bucks,2:30 PM,3:30 PM
+1145,Sun.,2-Apr-17,Boston Celtics,New York Knicks,3:30 PM,3:30 PM
+1146,Sun.,2-Apr-17,Chicago Bulls,New Orleans Pelicans,5:00 PM,6:00 PM
+1147,Sun.,2-Apr-17,Philadelphia 76ers,Toronto Raptors,6:00 PM,6:00 PM
+1148,Sun.,2-Apr-17,Atlanta Hawks,Brooklyn Nets,6:00 PM,6:00 PM
+1149,Sun.,2-Apr-17,Denver Nuggets,Miami Heat,6:00 PM,6:00 PM
+1150,Sun.,2-Apr-17,Indiana Pacers,Cleveland Cavaliers,6:00 PM,6:00 PM
+1151,Sun.,2-Apr-17,Utah Jazz,San Antonio Spurs,6:00 PM,7:00 PM
+1152,Sun.,2-Apr-17,Washington Wizards,Golden State Warriors,5:00 PM,8:00 PM
+1153,Sun.,2-Apr-17,Houston Rockets,Phoenix Suns,6:00 PM,9:00 PM
+1154,Tue.,4-Apr-17,Brooklyn Nets,Philadelphia 76ers,7:00 PM,7:00 PM
+1155,Tue.,4-Apr-17,Charlotte Hornets,Washington Wizards,7:00 PM,7:00 PM
+1156,Tue.,4-Apr-17,Orlando Magic,Cleveland Cavaliers,7:00 PM,7:00 PM
+1157,Tue.,4-Apr-17,Toronto Raptors,Indiana Pacers,7:00 PM,7:00 PM
+1158,Tue.,4-Apr-17,Denver Nuggets,New Orleans Pelicans,7:00 PM,8:00 PM
+1159,Tue.,4-Apr-17,Milwaukee Bucks,Oklahoma City Thunder,7:00 PM,8:00 PM
+1160,Tue.,4-Apr-17,Chicago Bulls,New York Knicks,8:00 PM,8:00 PM
+1161,Tue.,4-Apr-17,Memphis Grizzlies,San Antonio Spurs,7:30 PM,8:30 PM
+1162,Tue.,4-Apr-17,Minnesota Timberwolves,Golden State Warriors,7:30 PM,10:30 PM
+1163,Tue.,4-Apr-17,Dallas Mavericks,Sacramento Kings,7:30 PM,10:30 PM
+1164,Tue.,4-Apr-17,Portland Trail Blazers,Utah Jazz,8:30 PM,10:30 PM
+1165,Wed.,5-Apr-17,Miami Heat,Charlotte Hornets,7:00 PM,7:00 PM
+1166,Wed.,5-Apr-17,Toronto Raptors,Detroit Pistons,7:30 PM,7:30 PM
+1167,Wed.,5-Apr-17,Oklahoma City Thunder,Memphis Grizzlies,7:00 PM,8:00 PM
+1168,Wed.,5-Apr-17,Denver Nuggets,Houston Rockets,7:00 PM,8:00 PM
+1169,Wed.,5-Apr-17,Cleveland Cavaliers,Boston Celtics,8:00 PM,8:00 PM
+1170,Wed.,5-Apr-17,Los Angeles Lakers,San Antonio Spurs,7:30 PM,8:30 PM
+1171,Wed.,5-Apr-17,Golden State Warriors,Phoenix Suns,7:00 PM,10:00 PM
+1172,Wed.,5-Apr-17,Dallas Mavericks,Los Angeles Clippers,7:30 PM,10:30 PM
+1173,Thu.,6-Apr-17,Chicago Bulls,Philadelphia 76ers,7:00 PM,7:00 PM
+1174,Thu.,6-Apr-17,Brooklyn Nets,Orlando Magic,7:00 PM,7:00 PM
+1175,Thu.,6-Apr-17,Milwaukee Bucks,Indiana Pacers,7:00 PM,7:00 PM
+1176,Thu.,6-Apr-17,Washington Wizards,New York Knicks,7:30 PM,7:30 PM
+1177,Thu.,6-Apr-17,Boston Celtics,Atlanta Hawks,8:00 PM,8:00 PM
+1178,Thu.,6-Apr-17,Minnesota Timberwolves,Portland Trail Blazers,7:30 PM,10:30 PM
+1179,Fri.,7-Apr-17,Atlanta Hawks,Cleveland Cavaliers,7:30 PM,7:30 PM
+1180,Fri.,7-Apr-17,Miami Heat,Toronto Raptors,7:30 PM,7:30 PM
+1181,Fri.,7-Apr-17,New York Knicks,Memphis Grizzlies,7:00 PM,8:00 PM
+1182,Fri.,7-Apr-17,Detroit Pistons,Houston Rockets,7:00 PM,8:00 PM
+1183,Fri.,7-Apr-17,San Antonio Spurs,Dallas Mavericks,7:30 PM,8:30 PM
+1184,Fri.,7-Apr-17,New Orleans Pelicans,Denver Nuggets,7:00 PM,9:00 PM
+1185,Fri.,7-Apr-17,Minnesota Timberwolves,Utah Jazz,7:00 PM,9:00 PM
+1186,Fri.,7-Apr-17,Oklahoma City Thunder,Phoenix Suns,7:00 PM,10:00 PM
+1187,Fri.,7-Apr-17,Sacramento Kings,Los Angeles Lakers,7:30 PM,10:30 PM
+1188,Sat.,8-Apr-17,Chicago Bulls,Brooklyn Nets,5:00 PM,5:00 PM
+1189,Sat.,8-Apr-17,Boston Celtics,Charlotte Hornets,6:00 PM,6:00 PM
+1190,Sat.,8-Apr-17,Indiana Pacers,Orlando Magic,6:00 PM,6:00 PM
+1191,Sat.,8-Apr-17,Milwaukee Bucks,Philadelphia 76ers,7:00 PM,7:00 PM
+1192,Sat.,8-Apr-17,Miami Heat,Washington Wizards,7:00 PM,7:00 PM
+1193,Sat.,8-Apr-17,Los Angeles Clippers,San Antonio Spurs,7:30 PM,8:30 PM
+1194,Sat.,8-Apr-17,Utah Jazz,Portland Trail Blazers,7:00 PM,10:00 PM
+1195,Sat.,8-Apr-17,New Orleans Pelicans,Golden State Warriors,7:30 PM,10:30 PM
+1196,Sun.,9-Apr-17,Toronto Raptors,New York Knicks,1:00 PM,1:00 PM
+1197,Sun.,9-Apr-17,Cleveland Cavaliers,Atlanta Hawks,3:30 PM,3:30 PM
+1198,Sun.,9-Apr-17,Oklahoma City Thunder,Denver Nuggets,3:00 PM,5:00 PM
+1199,Sun.,9-Apr-17,Dallas Mavericks,Phoenix Suns,3:00 PM,6:00 PM
+1200,Sun.,9-Apr-17,Houston Rockets,Sacramento Kings,3:00 PM,6:00 PM
+1201,Sun.,9-Apr-17,Detroit Pistons,Memphis Grizzlies,5:00 PM,6:00 PM
+1202,Sun.,9-Apr-17,Minnesota Timberwolves,Los Angeles Lakers,6:30 PM,9:30 PM
+1203,Mon.,10-Apr-17,Indiana Pacers,Philadelphia 76ers,7:00 PM,7:00 PM
+1204,Mon.,10-Apr-17,Brooklyn Nets,Boston Celtics,7:30 PM,7:30 PM
+1205,Mon.,10-Apr-17,Cleveland Cavaliers,Miami Heat,7:30 PM,7:30 PM
+1206,Mon.,10-Apr-17,Orlando Magic,Chicago Bulls,7:00 PM,8:00 PM
+1207,Mon.,10-Apr-17,Charlotte Hornets,Milwaukee Bucks,7:00 PM,8:00 PM
+1208,Mon.,10-Apr-17,Washington Wizards,Detroit Pistons,8:00 PM,8:00 PM
+1209,Mon.,10-Apr-17,San Antonio Spurs,Portland Trail Blazers,7:00 PM,10:00 PM
+1210,Mon.,10-Apr-17,Houston Rockets,Los Angeles Clippers,7:30 PM,10:30 PM
+1211,Mon.,10-Apr-17,Utah Jazz,Golden State Warriors,7:30 PM,10:30 PM
+1212,Tue.,11-Apr-17,Charlotte Hornets,Atlanta Hawks,7:30 PM,7:30 PM
+1213,Tue.,11-Apr-17,Oklahoma City Thunder,Minnesota Timberwolves,7:00 PM,8:00 PM
+1214,Tue.,11-Apr-17,Denver Nuggets,Dallas Mavericks,7:30 PM,8:30 PM
+1215,Tue.,11-Apr-17,New Orleans Pelicans,Los Angeles Lakers,7:30 PM,10:30 PM
+1216,Tue.,11-Apr-17,Phoenix Suns,Sacramento Kings,7:30 PM,10:30 PM
+1217,Wed.,12-Apr-17,Detroit Pistons,Orlando Magic,8:00 PM,8:00 PM
+1218,Wed.,12-Apr-17,Toronto Raptors,Cleveland Cavaliers,8:00 PM,8:00 PM
+1219,Wed.,12-Apr-17,Milwaukee Bucks,Boston Celtics,8:00 PM,8:00 PM
+1220,Wed.,12-Apr-17,Philadelphia 76ers,New York Knicks,8:00 PM,8:00 PM
+1221,Wed.,12-Apr-17,Washington Wizards,Miami Heat,8:00 PM,8:00 PM
+1222,Wed.,12-Apr-17,Brooklyn Nets,Chicago Bulls,7:00 PM,8:00 PM
+1223,Wed.,12-Apr-17,Dallas Mavericks,Memphis Grizzlies,7:00 PM,8:00 PM
+1224,Wed.,12-Apr-17,Minnesota Timberwolves,Houston Rockets,7:00 PM,8:00 PM
+1225,Wed.,12-Apr-17,Denver Nuggets,Oklahoma City Thunder,7:00 PM,8:00 PM
+1226,Wed.,12-Apr-17,Atlanta Hawks,Indiana Pacers,8:00 PM,8:00 PM
+1227,Wed.,12-Apr-17,San Antonio Spurs,Utah Jazz,8:30 PM,10:30 PM
+1228,Wed.,12-Apr-17,Sacramento Kings,Los Angeles Clippers,7:30 PM,10:30 PM
+1229,Wed.,12-Apr-17,Los Angeles Lakers,Golden State Warriors,7:30 PM,10:30 PM
+1230,Wed.,12-Apr-17,New Orleans Pelicans,Portland Trail Blazers,7:30 PM,10:30 PM
+"* - Game to be played at Mexico City Arena, Mexico City, Mexico",,,,,,
+"** - Game to be played at O2 Arena, London, England",,,,,,
