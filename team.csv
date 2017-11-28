@@ -1,31 +1,31 @@
-TEAM_ID,TEAM_NAME,Owner,Web,Conference,Division,Arena,Location,Total Salary
-1610612737,Atlanta Hawks,Tony Ressler ,www.nba.com/hawks,Eastern,Southeast,Philips Arena,"Atlanta, Georgia",98499718
-1610612738,Boston Celtics,Wyc Grousbeck,www.nba.com/celtics,Eastern,Atlantic,TD Garden,"Boston, Massachusetts",109873911
-1610612751,Brooklyn Nets,Mikhail Prokhorov,www.nba.com/nets,Eastern,Atlantic,Barclays Center,"Brooklyn, New York",95696831
-1610612766,Charlotte Hornets,Michael Jordan,www.nba.com/hornets,Eastern,Southeast,Spectrum Center,"Charlotte, North Carolina",117316719
-1610612741,Chicago Bulls,Jerry Reinsdorf,www.nba.com/bulls,Eastern,Central,United Center,"Chicago, Illinois",84046991
-1610612739,Cleveland Cavaliers,Dan Gilbert,www.nba.com/cavaliers,Eastern,Central,Quicken Loans Arena,"Cleveland, Ohio",134077147
-1610612742,Dallas Mavericks,Mark Cuban,www.mavs.com,Western,Southwest,American Airlines Center,"Dallas, Texas",86566422
-1610612743,Denver Nuggets,Ann Walton Kroenke,www.nba.com/nuggets,Western,Northwest,Pepsi Center,"Denver, Colorado",105994137
-1610612765,Detroit Pistons,Tom Gores,www.nba.com/pistons,Eastern,Central,Little Caesars Arena,"Detroit, Michigan",115772423
-1610612744,Golden State Warriors,Joe Lacob,www.nba.com/warriors,Western,Pacific,Oracle Arena,"Oakland, California",135356914
-1610612745,Houston Rockets,Tilman Fertitta,www.nba.com/rockets,Western,Southwest,Toyota Center,"Houston, Texas",116454281
-1610612754,Indiana Pacers,Herbert Simon,www.nba.com/pacers,Eastern,Central,Bankers Life Fieldhouse,"Indianapolis, Indiana",92966886
-1610612746,LA Clippers,Steve Ballmer,www.nba.com/clippers,Western,Pacific,Staples Center,"Los Angeles, California",119143421
-1610612747,Los Angeles Lakers,Buss Family,www.nba.com/lakers,Western,Pacific,Staples Center,"Los Angeles, California",102238687
-1610612763,Memphis Grizzlies,Robert J. Pera,memphisgrizzlies.com,Western,Southwest,FedExForum,"Memphis, Tennessee",111826373
-1610612748,Miami Heat,Micky Arison,www.nba.com/heat,Eastern,Southeast,American Airlines Arena,"Miami, Florida",102035764
-1610612749,Milwaukee Bucks,Marc Lasry ,www.nba.com/bucks,Eastern,Central,BMO Harris Bradley Center,"Milwaukee, Wisconsin",114857603
-1610612750,Minnesota Timberwolves,Glen Taylor,www.nba.com/timberwolves,Western,Northwest,Target Center,"Minneapolis, Minnesota",105222982
-1610612740,New Orleans Pelicans,Tom Benson,www.nba.com/pelicans,Western,Southwest,Smoothie King Center,"New Orleans, Louisiana",118476193
-1610612752,New York Knicks,James Dolan,www.nba.com/knicks,Eastern,Atlantic,Madison Square Garden,"New York City, New York",103075162
-1610612760,Oklahoma City Thunder,Clay Bennett,www.nba.com/thunder,Western,Northwest,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",132579518
-1610612753,Orlando Magic,Richard DeVos,www.nba.com/magic,Eastern,Southeast,Amway Center,"Orlando, Florida",98543113
-1610612755,Philadelphia 76ers,Joshua Harris,www.nba.com/sixers,Eastern,Atlantic,Wells Fargo Center,"Philadelphia, Pennsylvania",99093000
-1610612756,Phoenix Suns,Robert Sarver,www.nba.com/suns,Western,Pacific,Talking Stick Resort Arena,"Phoenix, Arizona",90144813
-1610612757,Portland Trail Blazers,Paul Allen,www.nba.com/blazers,Western,Northwest,Moda Center,"Portland, Oregon",122197921
-1610612758,Sacramento Kings,Paul E. Jacobs,www.nba.com/kings,Western,Pacific,Golden 1 Center,"Sacramento, California",94838784
-1610612759,San Antonio Spurs,Peter Holt,www.nba.com/spurs,Western,Southwest,AT&T Center,"San Antonio, Texas",116153554
-1610612761,Toronto Raptors,Larry Tanenbaum,www.nba.com/raptors,Eastern,Atlantic,Air Canada Centre,"Toronto, Ontario",117429381
-1610612762,Utah Jazz,Gail Miller,www.nba.com/jazz,Western,Northwest,Vivint Smart Home Arena,"Salt Lake City, Utah",111201646
-1610612764,Washington Wizards,Ted Leonsis,www.nba.com/wizards,Eastern,Southeast,Capital One Arena,"Washington, D.C.",124944506
+TEAM_ID,TEAM_NAME,Owner,Web,Conference,Arena,Location,Total Salary
+1610612737,Atlanta Hawks,Antony Ressler,www.nba.com/hawks,Eastern,Philips Arena,"Atlanta, Georgia",98499718
+1610612738,Boston Celtics,Wyc Grousbeck,www.nba.com/celtics,Eastern,TD Garden,"Boston, Massachusetts",109873911
+1610612751,Brooklyn Nets,Mikhail Prokhorov,www.nba.com/nets,Eastern,Barclays Center,"Brooklyn, New York",95696831
+1610612766,Charlotte Hornets,Michael Jordan,www.nba.com/hornets,Eastern,Spectrum Center,"Charlotte, North Carolina",117316719
+1610612741,Chicago Bulls,Jerry Reinsdorf,www.nba.com/bulls,Eastern,United Center,"Chicago, Illinois",84046991
+1610612739,Cleveland Cavaliers,Dan Gilbert,www.nba.com/cavaliers,Eastern,Quicken Loans Arena,"Cleveland, Ohio",134077147
+1610612742,Dallas Mavericks,Mark Cuban,www.mavs.com,Western,American Airlines Center,"Dallas, Texas",86566422
+1610612743,Denver Nuggets,Ann Walton Kroenke,www.nba.com/nuggets,Western,Pepsi Center,"Denver, Colorado",105994137
+1610612765,Detroit Pistons,Tom Gores,www.nba.com/pistons,Eastern,Little Caesars Arena,"Detroit, Michigan",115772423
+1610612744,Golden State Warriors,Joe Lacob,www.nba.com/warriors,Western,Oracle Arena,"Oakland, California",135356914
+1610612745,Houston Rockets,Tilman Fertitta,www.nba.com/rockets,Western,Toyota Center,"Houston, Texas",116454281
+1610612754,Indiana Pacers,Herbert Simon,www.nba.com/pacers,Eastern,Bankers Life Fieldhouse,"Indianapolis, Indiana",92966886
+1610612746,LA Clippers,Steve Ballmer,www.nba.com/clippers,Western,Staples Center,"Los Angeles, California",119143421
+1610612747,Los Angeles Lakers,Buss Family,www.nba.com/lakers,Western,Staples Center,"Los Angeles, California",102238687
+1610612763,Memphis Grizzlies,Robert J. Pera,memphisgrizzlies.com,Western,FedExForum,"Memphis, Tennessee",111826373
+1610612748,Miami Heat,Micky Arison,www.nba.com/heat,Eastern,American Airlines Arena,"Miami, Florida",102035764
+1610612749,Milwaukee Bucks,Marc Lasry,www.nba.com/bucks,Eastern,BMO Harris Bradley Center,"Milwaukee, Wisconsin",114857603
+1610612750,Minnesota Timberwolves,Glen Taylor,www.nba.com/timberwolves,Western,Target Center,"Minneapolis, Minnesota",105222982
+1610612740,New Orleans Pelicans,Tom Benson,www.nba.com/pelicans,Western,Smoothie King Center,"New Orleans, Louisiana",118476193
+1610612752,New York Knicks,James Dolan,www.nba.com/knicks,Eastern,Madison Square Garden,"New York City, New York",103075162
+1610612760,Oklahoma City Thunder,Clay Bennett,www.nba.com/thunder,Western,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",132579518
+1610612753,Orlando Magic,Richard DeVos,www.nba.com/magic,Eastern,Amway Center,"Orlando, Florida",98543113
+1610612755,Philadelphia 76ers,Joshua Harris,www.nba.com/sixers,Eastern,Wells Fargo Center,"Philadelphia, Pennsylvania",99093000
+1610612756,Phoenix Suns,Robert Sarver,www.nba.com/suns,Western,Talking Stick Resort Arena,"Phoenix, Arizona",90144813
+1610612757,Portland Trail Blazers,Paul Allen,www.nba.com/blazers,Western,Moda Center,"Portland, Oregon",122197921
+1610612758,Sacramento Kings,Paul E. Jacobs,www.nba.com/kings,Western,Golden 1 Center,"Sacramento, California",94838784
+1610612759,San Antonio Spurs,Peter Holt,www.nba.com/spurs,Western,AT&T Center,"San Antonio, Texas",116153554
+1610612761,Toronto Raptors,Larry Tanenbaum,www.nba.com/raptors,Eastern,Air Canada Centre,"Toronto, Ontario",117429381
+1610612762,Utah Jazz,Gail Miller,www.nba.com/jazz,Western,Vivint Smart Home Arena,"Salt Lake City, Utah",111201646
+1610612764,Washington Wizards,Ted Leonsis,www.nba.com/wizards,Eastern,Capital One Arena,"Washington, D.C.",124944506

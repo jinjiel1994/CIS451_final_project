@@ -1,501 +1,501 @@
-personId,firstName,lastName,displayName,weightPounds,heightFeet,heightInches,teamData,pos,jersey,playerUrl,orderChar,isAllStar,posExpanded
-203518,Alex,Abrines,"Abrines, Alex",190,6,6,Oklahoma City Thunder,G,8,/players/alex/abrines/203518,A,FALSE,Guard
-203112,Quincy,Acy,"Acy, Quincy",240,6,7,Brooklyn Nets,F,13,/players/quincy/acy/203112,A,FALSE,Forward
-203500,Steven,Adams,"Adams, Steven",255,7,0,Oklahoma City Thunder,C,12,/players/steven/adams/203500,A,FALSE,Center
-1628389,Bam,Adebayo,"Adebayo, Bam",255,6,10,Miami Heat,C-F,13,/players/bam/adebayo/1628389,A,FALSE,Center-Forward
-201167,Arron,Afflalo,"Afflalo, Arron",210,6,5,Orlando Magic,G,4,/players/arron/afflalo/201167,A,FALSE,Guard
-201582,Alexis,Ajinca,"Ajinca, Alexis",248,7,2,New Orleans Pelicans,C,42,/players/alexis/ajinca/201582,A,FALSE,Center
-202332,Cole,Aldrich,"Aldrich, Cole",253,6,11,Minnesota Timberwolves,C,45,/players/cole/aldrich/202332,A,FALSE,Center
-200746,LaMarcus,Aldridge,"Aldridge, LaMarcus",260,6,11,San Antonio Spurs,F,12,/players/lamarcus/aldridge/200746,A,FALSE,Forward
-1628386,Jarrett,Allen,"Allen, Jarrett",234,6,11,Brooklyn Nets,C,31,/players/jarrett/allen/1628386,A,FALSE,Center
-1628443,Kadeem,Allen,"Allen, Kadeem",200,6,3,Boston Celtics,G,45,/players/kadeem/allen/1628443,A,FALSE,Guard
-2754,Tony,Allen,"Allen, Tony",213,6,4,New Orleans Pelicans,G-F,24,/players/tony/allen/2754,A,FALSE,Guard-Forward
-202329,Al-Farouq,Aminu,"Aminu, Al-Farouq",220,6,9,Portland Trail Blazers,F,8,/players/al-farouq/aminu/202329,A,FALSE,Forward
-1626147,Justin,Anderson,"Anderson, Justin",230,6,6,Philadelphia 76ers,G-F,1,/players/justin/anderson/1626147,A,FALSE,Guard-Forward
-203937,Kyle,Anderson,"Anderson, Kyle",230,6,9,San Antonio Spurs,F,1,/players/kyle/anderson/203937,A,FALSE,Forward
-201583,Ryan,Anderson,"Anderson, Ryan",240,6,10,Houston Rockets,F,33,/players/ryan/anderson/201583,A,FALSE,Forward
-1628387,Ike,Anigbogu,"Anigbogu, Ike",262,6,10,Indiana Pacers,C,13,/players/ike/anigbogu/1628387,A,FALSE,Center
-203507,Giannis,Antetokounmpo,"Antetokounmpo, Giannis",222,6,11,Milwaukee Bucks,F,34,/players/giannis/antetokounmpo/203507,A,FALSE,Forward
-2546,Carmelo,Anthony,"Anthony, Carmelo",240,6,8,Oklahoma City Thunder,F,7,/players/carmelo/anthony/2546,A,FALSE,Forward
-1628384,OG,Anunoby,"Anunoby, OG",235,6,8,Toronto Raptors,F,3,/players/og/anunoby/1628384,A,FALSE,Forward
-1627853,Ryan,Arcidiacono,"Arcidiacono, Ryan",195,6,3,Chicago Bulls,G,15,/players/ryan/arcidiacono/1627853,A,FALSE,Guard
-2772,Trevor,Ariza,"Ariza, Trevor",215,6,8,Houston Rockets,F-G,1,/players/trevor/ariza/2772,A,FALSE,Forward-Guard
-201589,Darrell,Arthur,"Arthur, Darrell",235,6,9,Denver Nuggets,F,0,/players/darrell/arthur/201589,A,FALSE,Forward
-1628503,Jamel,Artis,"Artis, Jamel",213,6,7,Orlando Magic,G,0,/players/jamel/artis/1628503,A,FALSE,Guard
-201600,Omer,Asik,"Asik, Omer",255,7,0,New Orleans Pelicans,C,3,/players/omer/asik/201600,A,FALSE,Center
-201571,D.J.,Augustin,"Augustin, D.J.",183,6,0,Orlando Magic,G,14,/players/d.j./augustin/201571,A,FALSE,Guard
-202337,Luke,Babbitt,"Babbitt, Luke",225,6,9,Atlanta Hawks,F,8,/players/luke/babbitt/202337,B,FALSE,Forward
-1628407,Dwayne,Bacon,"Bacon, Dwayne",221,6,7,Charlotte Hornets,F,7,/players/dwayne/bacon/1628407,B,FALSE,Forward
-1627758,Ron,Baker,"Baker, Ron",220,6,4,New York Knicks,G,31,/players/ron/baker/1627758,B,FALSE,Guard
-1627735,Wade,Baldwin IV,"Baldwin IV, Wade",202,6,4,Portland Trail Blazers,G,2,/players/wade/baldwin_iv/1627735,B,FALSE,Guard
-1628366,Lonzo,Ball,"Ball, Lonzo",190,6,6,Los Angeles Lakers,G,2,/players/lonzo/ball/1628366,B,FALSE,Guard
-200826,J.J.,Barea,"Barea, J.J.",185,6,0,Dallas Mavericks,G,5,/players/j.j./barea/200826,B,FALSE,Guard
-203084,Harrison,Barnes,"Barnes, Harrison",225,6,8,Dallas Mavericks,F,40,/players/harrison/barnes/203084,B,FALSE,Forward
-203115,Will,Barton,"Barton, Will",190,6,6,Denver Nuggets,G-F,5,/players/will/barton/203115,B,FALSE,Guard-Forward
-201587,Nicolas,Batum,"Batum, Nicolas",200,6,8,Charlotte Hornets,G-F,5,/players/nicolas/batum/201587,B,FALSE,Guard-Forward
-201573,Jerryd,Bayless,"Bayless, Jerryd",200,6,3,Philadelphia 76ers,G,0,/players/jerryd/bayless/201573,B,FALSE,Guard
-203382,Aron,Baynes,"Baynes, Aron",260,6,10,Boston Celtics,C,46,/players/aron/baynes/203382,B,FALSE,Center
-203145,Kent,Bazemore,"Bazemore, Kent",201,6,5,Atlanta Hawks,G,24,/players/kent/bazemore/203145,B,FALSE,Guard
-203078,Bradley,Beal,"Beal, Bradley",207,6,5,Washington Wizards,G,3,/players/bradley/beal/203078,B,FALSE,Guard
-1627736,Malik,Beasley,"Beasley, Malik",196,6,5,Denver Nuggets,G,25,/players/malik/beasley/1627736,B,FALSE,Guard
-201563,Michael,Beasley,"Beasley, Michael",235,6,9,New York Knicks,F,8,/players/michael/beasley/201563,B,FALSE,Forward
-201158,Marco,Belinelli,"Belinelli, Marco",210,6,5,Atlanta Hawks,G-F,3,/players/marco/belinelli/201158,B,FALSE,Guard-Forward
-1628395,Jordan,Bell,"Bell, Jordan",224,6,9,Golden State Warriors,F,2,/players/jordan/bell/1628395,B,FALSE,Forward
-1627761,DeAndre',Bembry,"Bembry, DeAndre'",210,6,6,Atlanta Hawks,F-G,95,/players/deandre'/bembry/1627761,B,FALSE,Forward-Guard
-1627733,Dragan,Bender,"Bender, Dragan",225,7,1,Phoenix Suns,F,35,/players/dragan/bender/1627733,B,FALSE,Forward
-202722,Davis,Bertans,"Bertans, Davis",210,6,10,San Antonio Spurs,F,42,/players/davis/bertans/202722,B,FALSE,Forward
-201976,Patrick,Beverley,"Beverley, Patrick",185,6,1,LA Clippers,G,21,/players/patrick/beverley/201976,B,FALSE,Guard
-203920,Khem,Birch,"Birch, Khem",220,6,9,Orlando Magic,C,24,/players/khem/birch/203920,B,FALSE,Center
-1628444,Jabari,Bird,"Bird, Jabari",198,6,6,Boston Celtics,G,26,/players/jabari/bird/1628444,B,FALSE,Guard
-202687,Bismack,Biyombo,"Biyombo, Bismack",255,6,9,Orlando Magic,C,11,/players/bismack/biyombo/202687,B,FALSE,Center
-202357,Nemanja,Bjelica,"Bjelica, Nemanja",230,6,10,Minnesota Timberwolves,F,8,/players/nemanja/bjelica/202357,B,FALSE,Forward
-204028,Tarik,Black,"Black, Tarik",250,6,9,Houston Rockets,F-C,28,/players/tarik/black/204028,B,FALSE,Forward-Center
-1628469,Antonio,Blakeney,"Blakeney, Antonio",197,6,4,Chicago Bulls,G,9,/players/antonio/blakeney/1628469,B,FALSE,Guard
-202339,Eric,Bledsoe,"Bledsoe, Eric",205,6,1,Milwaukee Bucks,G,6,/players/eric/bledsoe/202339,B,FALSE,Guard
-203505,Vander,Blue,"Blue, Vander",200,6,5,Los Angeles Lakers,G,17,/players/vander/blue/203505,B,FALSE,Guard
-203992,Bogdan,Bogdanovic,"Bogdanovic, Bogdan",205,6,6,Sacramento Kings,G,8,/players/bogdan/bogdanovic/203992,B,FALSE,Guard
-202711,Bojan,Bogdanovic,"Bogdanovic, Bojan",230,6,8,Indiana Pacers,F,44,/players/bojan/bogdanovic/202711,B,FALSE,Forward
-101106,Andrew,Bogut,"Bogut, Andrew",260,7,0,Los Angeles Lakers,C,66,/players/andrew/bogut/101106,B,FALSE,Center
-1627762,Joel,Bolomboy,"Bolomboy, Joel",235,6,9,Milwaukee Bucks,F-C,24,/players/joel/bolomboy/1627762,B,FALSE,Forward-Center
-1626164,Devin,Booker,"Booker, Devin",210,6,6,Phoenix Suns,G,1,/players/devin/booker/1626164,B,FALSE,Guard
-202344,Trevor,Booker,"Booker, Trevor",228,6,8,Brooklyn Nets,F,35,/players/trevor/booker/202344,B,FALSE,Forward
-1628449,Chris,Boucher,"Boucher, Chris",200,6,10,Golden State Warriors,F,25,/players/chris/boucher/1628449,B,FALSE,Forward
-202340,Avery,Bradley,"Bradley, Avery",180,6,2,Detroit Pistons,G,22,/players/avery/bradley/202340,B,FALSE,Guard
-1628396,Tony,Bradley,"Bradley, Tony",248,6,10,Utah Jazz,C,13,/players/tony/bradley/1628396,B,FALSE,Center
-201147,Corey,Brewer,"Brewer, Corey",186,6,9,Los Angeles Lakers,F,3,/players/corey/brewer/201147,B,FALSE,Forward
-1627763,Malcolm,Brogdon,"Brogdon, Malcolm",215,6,5,Milwaukee Bucks,G,13,/players/malcolm/brogdon/1627763,B,FALSE,Guard
-201166,Aaron,Brooks,"Brooks, Aaron",161,6,0,Minnesota Timberwolves,G,30,/players/aaron/brooks/201166,B,FALSE,Guard
-1628415,Dillon,Brooks,"Brooks, Dillon",220,6,6,Memphis Grizzlies,F-G,24,/players/dillon/brooks/1628415,B,FALSE,Forward-Guard
-1626148,Anthony,Brown,"Brown, Anthony",224,6,7,Minnesota Timberwolves,F,3,/players/anthony/brown/1626148,B,FALSE,Forward
-201628,Bobby,Brown,"Brown, Bobby",175,6,2,Houston Rockets,G,6,/players/bobby/brown/201628,B,FALSE,Guard
-1627759,Jaylen,Brown,"Brown, Jaylen",225,6,7,Boston Celtics,G-F,7,/players/jaylen/brown/1627759,B,FALSE,Guard-Forward
-203485,Lorenzo,Brown,"Brown, Lorenzo",189,6,5,Toronto Raptors,G,4,/players/lorenzo/brown/203485,B,FALSE,Guard
-1628425,Sterling,Brown,"Brown, Sterling",230,6,6,Milwaukee Bucks,G,23,/players/sterling/brown/1628425,B,FALSE,Guard
-1627852,Nicolas,Brussino,"Brussino, Nicolas",195,6,8,Atlanta Hawks,F,16,/players/nicolas/brussino/1627852,B,FALSE,Forward
-1628418,Thomas,Bryant,"Bryant, Thomas",248,6,10,Los Angeles Lakers,C,31,/players/thomas/bryant/1628418,B,FALSE,Center
-203493,Reggie,Bullock,"Bullock, Reggie",205,6,7,Detroit Pistons,F,25,/players/reggie/bullock/203493,B,FALSE,Forward
-202692,Alec,Burks,"Burks, Alec",214,6,6,Utah Jazz,G,10,/players/alec/burks/202692,B,FALSE,Guard
-202710,Jimmy,Butler,"Butler, Jimmy",236,6,8,Minnesota Timberwolves,G,23,/players/jimmy/butler/202710,B,FALSE,Guard
-202779,Dwight,Buycks,"Buycks, Dwight",190,6,3,Detroit Pistons,G,20,/players/dwight/buycks/202779,B,FALSE,Guard
-203998,Bruno,Caboclo,"Caboclo, Bruno",205,6,9,Toronto Raptors,F,5,/players/bruno/caboclo/203998,C,FALSE,Forward
-101181,Jose,Calderon,"Calderon, Jose",200,6,3,Cleveland Cavaliers,G,81,/players/jose/calderon/101181,C,FALSE,Guard
-203484,Kentavious,Caldwell-Pope,"Caldwell-Pope, Kentavious",205,6,5,Los Angeles Lakers,G,1,/players/kentavious/caldwell-pope/203484,C,FALSE,Guard
-203991,Clint,Capela,"Capela, Clint",240,6,10,Houston Rockets,C,15,/players/clint/capela/203991,C,FALSE,Center
-201960,DeMarre,Carroll,"Carroll, DeMarre",215,6,8,Brooklyn Nets,F,9,/players/demarre/carroll/201960,C,FALSE,Forward
-203487,Michael,Carter-Williams,"Carter-Williams, Michael",190,6,6,Charlotte Hornets,G,10,/players/michael/carter-williams/203487,C,FALSE,Guard
-1713,Vince,Carter,"Carter, Vince",220,6,6,Sacramento Kings,G-F,15,/players/vince/carter/1713,C,FALSE,Guard-Forward
-1627936,Alex,Caruso,"Caruso, Alex",186,6,5,Los Angeles Lakers,G,4,/players/alex/caruso/1627936,C,FALSE,Guard
-201956,Omri,Casspi,"Casspi, Omri",225,6,9,Golden State Warriors,F,18,/players/omri/casspi/201956,C,FALSE,Forward
-1626161,Willie,Cauley-Stein,"Cauley-Stein, Willie",240,7,0,Sacramento Kings,C,0,/players/willie/cauley-stein/1626161,C,FALSE,Center
-1628463,Tyler,Cavanaugh,"Cavanaugh, Tyler",238,6,9,Atlanta Hawks,F,34,/players/tyler/cavanaugh/1628463,C,FALSE,Forward
-201596,Mario,Chalmers,"Chalmers, Mario",190,6,2,Memphis Grizzlies,G,6,/players/mario/chalmers/201596,C,FALSE,Guard
-2199,Tyson,Chandler,"Chandler, Tyson",240,7,1,Phoenix Suns,C,4,/players/tyson/chandler/2199,C,FALSE,Center
-201163,Wilson,Chandler,"Chandler, Wilson",225,6,9,Denver Nuggets,F,21,/players/wilson/chandler/201163,C,FALSE,Forward
-1627737,Marquese,Chriss,"Chriss, Marquese",240,6,10,Phoenix Suns,F,0,/players/marquese/chriss/1627737,C,FALSE,Forward
-203546,Ian,Clark,"Clark, Ian",175,6,3,New Orleans Pelicans,G,2,/players/ian/clark/203546,C,FALSE,Guard
-203903,Jordan,Clarkson,"Clarkson, Jordan",194,6,5,Los Angeles Lakers,G,6,/players/jordan/clarkson/203903,C,FALSE,Guard
-1628492,Gian,Clavell,"Clavell, Gian",185,6,4,Dallas Mavericks,G,8,/players/gian/clavell/1628492,C,FALSE,Guard
-1628381,John,Collins,"Collins, John",235,6,10,Atlanta Hawks,F-C,20,/players/john/collins/1628381,C,FALSE,Forward-Center
-1628380,Zach,Collins,"Collins, Zach",230,7,0,Portland Trail Blazers,C-F,33,/players/zach/collins/1628380,C,FALSE,Center-Forward
-201954,Darren,Collison,"Collison, Darren",185,6,2,Indiana Pacers,G,2,/players/darren/collison/201954,C,FALSE,Guard
-2555,Nick,Collison,"Collison, Nick",255,6,10,Oklahoma City Thunder,F,4,/players/nick/collison/2555,C,FALSE,Forward
-201144,Mike,Conley,"Conley, Mike",175,6,1,Memphis Grizzlies,G,11,/players/mike/conley/201144,C,FALSE,Guard
-1626192,Pat,Connaughton,"Connaughton, Pat",210,6,5,Portland Trail Blazers,G-F,5,/players/pat/connaughton/1626192,C,FALSE,Guard-Forward
-1628429,Charles,Cooke,"Cooke, Charles",196,6,5,New Orleans Pelicans,G,4,/players/charles/cooke/1628429,C,FALSE,Guard
-1626188,Quinn,Cook,"Cook, Quinn",179,6,2,Golden State Warriors,G,4,/players/quinn/cook/1626188,C,FALSE,Guard
-204022,Jack,Cooley,"Cooley, Jack",274,6,10,Sacramento Kings,C,45,/players/jack/cooley/204022,C,FALSE,Center
-1627856,Matt,Costello,"Costello, Matt",240,6,10,San Antonio Spurs,F-C,10,/players/matt/costello/1627856,C,FALSE,Forward-Center
-202326,DeMarcus,Cousins,"Cousins, DeMarcus",270,6,11,New Orleans Pelicans,C,0,/players/demarcus/cousins/202326,C,FALSE,Center
-203496,Robert,Covington,"Covington, Robert",225,6,9,Philadelphia 76ers,F,33,/players/robert/covington/203496,C,FALSE,Forward
-203459,Allen,Crabbe,"Crabbe, Allen",215,6,6,Brooklyn Nets,G-F,33,/players/allen/crabbe/203459,C,FALSE,Guard-Forward
-1628470,Torrey,Craig,"Craig, Torrey",215,6,6,Denver Nuggets,G-F,3,/players/torrey/craig/1628470,C,FALSE,Guard-Forward
-2037,Jamal,Crawford,"Crawford, Jamal",185,6,5,Minnesota Timberwolves,G,11,/players/jamal/crawford/2037,C,FALSE,Guard
-203109,Jae,Crowder,"Crowder, Jae",235,6,6,Cleveland Cavaliers,F,99,/players/jae/crowder/203109,C,FALSE,Forward
-201967,Dante,Cunningham,"Cunningham, Dante",230,6,8,New Orleans Pelicans,F,33,/players/dante/cunningham/201967,C,FALSE,Forward
-203552,Seth,Curry,"Curry, Seth",185,6,2,Dallas Mavericks,G,30,/players/seth/curry/203552,C,FALSE,Guard
-201939,Stephen,Curry,"Curry, Stephen",190,6,3,Golden State Warriors,G,30,/players/stephen/curry/201939,C,FALSE,Guard
-203584,Troy,Daniels,"Daniels, Troy",205,6,4,Phoenix Suns,G,30,/players/troy/daniels/203584,D,FALSE,Guard
-203076,Anthony,Davis,"Davis, Anthony",253,6,10,New Orleans Pelicans,F-C,23,/players/anthony/davis/203076,D,FALSE,Forward-Center
-1627738,Deyonta,Davis,"Davis, Deyonta",237,6,11,Memphis Grizzlies,C-F,21,/players/deyonta/davis/1627738,D,FALSE,Center-Forward
-202334,Ed,Davis,"Davis, Ed",245,6,10,Portland Trail Blazers,F-C,17,/players/ed/davis/202334,D,FALSE,Forward-Center
-203473,Dewayne,Dedmon,"Dedmon, Dewayne",245,7,0,Atlanta Hawks,C,14,/players/dewayne/dedmon/203473,D,FALSE,Center
-1626155,Sam,Dekker,"Dekker, Sam",230,6,9,LA Clippers,F,7,/players/sam/dekker/1626155,D,FALSE,Forward
-1627098,Malcolm,Delaney,"Delaney, Malcolm",190,6,3,Atlanta Hawks,G,5,/players/malcolm/delaney/1627098,D,FALSE,Guard
-203521,Matthew,Dellavedova,"Dellavedova, Matthew",198,6,4,Milwaukee Bucks,G,8,/players/matthew/dellavedova/203521,D,FALSE,Guard
-2736,Luol,Deng,"Deng, Luol",220,6,9,Los Angeles Lakers,F,9,/players/luol/deng/2736,D,FALSE,Forward
-201942,DeMar,DeRozan,"DeRozan, DeMar",220,6,7,Toronto Raptors,G,10,/players/demar/derozan/201942,D,FALSE,Guard
-1627767,Cheick,Diallo,"Diallo, Cheick",220,6,9,New Orleans Pelicans,F,13,/players/cheick/diallo/1627767,D,FALSE,Forward
-203476,Gorgui,Dieng,"Dieng, Gorgui",251,6,11,Minnesota Timberwolves,C,5,/players/gorgui/dieng/203476,D,FALSE,Center
-203915,Spencer,Dinwiddie,"Dinwiddie, Spencer",200,6,6,Brooklyn Nets,G,8,/players/spencer/dinwiddie/203915,D,FALSE,Guard
-1628416,Tyler,Dorsey,"Dorsey, Tyler",183,6,4,Atlanta Hawks,G,2,/players/tyler/dorsey/1628416,D,FALSE,Guard
-1628422,Damyean,Dotson,"Dotson, Damyean",210,6,5,New York Knicks,G,21,/players/damyean/dotson/1628422,D,FALSE,Guard
-1628408,PJ,Dozier,"Dozier, PJ",205,6,6,Oklahoma City Thunder,G,35,/players/pj/dozier/1628408,D,FALSE,Guard
-201609,Goran,Dragic,"Dragic, Goran",190,6,3,Miami Heat,G,7,/players/goran/dragic/201609,D,FALSE,Guard
-203083,Andre,Drummond,"Drummond, Andre",279,6,11,Detroit Pistons,C,0,/players/andre/drummond/203083,D,FALSE,Center
-201162,Jared,Dudley,"Dudley, Jared",240,6,7,Phoenix Suns,F,3,/players/jared/dudley/201162,D,FALSE,Forward
-1627739,Kris,Dunn,"Dunn, Kris",210,6,4,Chicago Bulls,G,32,/players/kris/dunn/1627739,D,FALSE,Guard
-201142,Kevin,Durant,"Durant, Kevin",240,6,9,Golden State Warriors,F,35,/players/kevin/durant/201142,D,FALSE,Forward
-1627740,Henry,Ellenson,"Ellenson, Henry",245,6,11,Detroit Pistons,F,8,/players/henry/ellenson/1627740,E,FALSE,Forward
-201961,Wayne,Ellington,"Ellington, Wayne",200,6,5,Miami Heat,G,2,/players/wayne/ellington/201961,E,FALSE,Guard
-203954,Joel,Embiid,"Embiid, Joel",250,7,0,Philadelphia 76ers,C,21,/players/joel/embiid/203954,E,FALSE,Center
-203516,James,Ennis III,"Ennis III, James",210,6,7,Memphis Grizzlies,F,8,/players/james/ennis_iii/203516,E,FALSE,Forward
-203898,Tyler,Ennis,"Ennis, Tyler",194,6,3,Los Angeles Lakers,G,10,/players/tyler/ennis/203898,E,FALSE,Guard
-1628393,Jawun,Evans,"Evans, Jawun",190,6,0,LA Clippers,G,1,/players/jawun/evans/1628393,E,FALSE,Guard
-201936,Tyreke,Evans,"Evans, Tyreke",220,6,6,Memphis Grizzlies,G-F,12,/players/tyreke/evans/201936,E,FALSE,Guard-Forward
-203957,Dante,Exum,"Exum, Dante",190,6,6,Utah Jazz,G,11,/players/dante/exum/203957,E,FALSE,Guard
-202702,Kenneth,Faried,"Faried, Kenneth",228,6,8,Denver Nuggets,F,35,/players/kenneth/faried/202702,F,FALSE,Forward
-202324,Derrick,Favors,"Favors, Derrick",265,6,10,Utah Jazz,F-C,15,/players/derrick/favors/202324,F,FALSE,Forward-Center
-1627770,Kay,Felder,"Felder, Kay",176,5,9,Chicago Bulls,G,3,/players/kay/felder/1627770,F,FALSE,Guard
-1626245,Cristiano,Felicio,"Felicio, Cristiano",280,6,9,Chicago Bulls,C-F,6,/players/cristiano/felicio/1626245,F,FALSE,Center-Forward
-101109,Raymond,Felton,"Felton, Raymond",205,6,1,Oklahoma City Thunder,G,2,/players/raymond/felton/101109,F,FALSE,Guard
-1628390,Terrance,Ferguson,"Ferguson, Terrance",184,6,7,Oklahoma City Thunder,G,23,/players/terrance/ferguson/1628390,F,FALSE,Guard
-1627812,Yogi,Ferrell,"Ferrell, Yogi",180,6,0,Dallas Mavericks,G,11,/players/yogi/ferrell/1627812,F,FALSE,Guard
-1627827,Dorian,Finney-Smith,"Finney-Smith, Dorian",220,6,8,Dallas Mavericks,F,10,/players/dorian/finney-smith/1627827,F,FALSE,Forward
-1627854,Bryn,Forbes,"Forbes, Bryn",190,6,3,San Antonio Spurs,G,11,/players/bryn/forbes/1627854,F,FALSE,Guard
-203095,Evan,Fournier,"Fournier, Evan",205,6,7,Orlando Magic,F-G,10,/players/evan/fournier/203095,F,FALSE,Forward-Guard
-1628368,De'Aaron,Fox,"Fox, De'Aaron",175,6,3,Sacramento Kings,G,5,/players/de'aaron/fox/1628368,F,FALSE,Guard
-204025,Tim,Frazier,"Frazier, Tim",170,6,1,Washington Wizards,G,8,/players/tim/frazier/204025,F,FALSE,Guard
-101112,Channing,Frye,"Frye, Channing",255,6,11,Cleveland Cavaliers,F,8,/players/channing/frye/101112,F,FALSE,Forward
-1628365,Markelle,Fultz,"Fultz, Markelle",200,6,4,Philadelphia 76ers,G,20,/players/markelle/fultz/1628365,F,FALSE,Guard
-201568,Danilo,Gallinari,"Gallinari, Danilo",225,6,10,LA Clippers,F,8,/players/danilo/gallinari/201568,G,FALSE,Forward
-204038,Langston,Galloway,"Galloway, Langston",200,6,2,Detroit Pistons,G,9,/players/langston/galloway/204038,G,FALSE,Guard
-201188,Marc,Gasol,"Gasol, Marc",255,7,1,Memphis Grizzlies,C,33,/players/marc/gasol/201188,G,FALSE,Center
-2200,Pau,Gasol,"Gasol, Pau",250,7,0,San Antonio Spurs,C,16,/players/pau/gasol/2200,G,FALSE,Center
-200752,Rudy,Gay,"Gay, Rudy",230,6,8,San Antonio Spurs,F,22,/players/rudy/gay/200752,G,FALSE,Forward
-202331,Paul,George,"George, Paul",220,6,9,Oklahoma City Thunder,F,13,/players/paul/george/202331,G,FALSE,Forward
-1627875,Marcus,Georges-Hunt,"Georges-Hunt, Marcus",226,6,5,Minnesota Timberwolves,G,13,/players/marcus/georges-hunt/1627875,G,FALSE,Guard
-201959,Taj,Gibson,"Gibson, Taj",235,6,9,Minnesota Timberwolves,F,67,/players/taj/gibson/201959,G,FALSE,Forward
-1628385,Harry,Giles,"Giles, Harry",240,6,10,Sacramento Kings,F-C,20,/players/harry/giles/1628385,G,FALSE,Forward-Center
-1938,Manu,Ginobili,"Ginobili, Manu",205,6,6,San Antonio Spurs,G,20,/players/manu/ginobili/1938,G,FALSE,Guard
-203497,Rudy,Gobert,"Gobert, Rudy",245,7,1,Utah Jazz,C,27,/players/rudy/gobert/203497,G,FALSE,Center
-203932,Aaron,Gordon,"Gordon, Aaron",220,6,9,Orlando Magic,F,0,/players/aaron/gordon/203932,G,FALSE,Forward
-201569,Eric,Gordon,"Gordon, Eric",215,6,4,Houston Rockets,G,10,/players/eric/gordon/201569,G,FALSE,Guard
-101162,Marcin,Gortat,"Gortat, Marcin",240,6,11,Washington Wizards,C,13,/players/marcin/gortat/101162,G,FALSE,Center
-1626203,Treveon,Graham,"Graham, Treveon",219,6,5,Charlotte Hornets,G-F,21,/players/treveon/graham/1626203,G,FALSE,Guard-Forward
-203924,Jerami,Grant,"Grant, Jerami",220,6,9,Oklahoma City Thunder,F,9,/players/jerami/grant/203924,G,FALSE,Forward
-1626170,Jerian,Grant,"Grant, Jerian",198,6,4,Chicago Bulls,G,2,/players/jerian/grant/1626170,G,FALSE,Guard
-201980,Danny,Green,"Green, Danny",215,6,6,San Antonio Spurs,G-F,14,/players/danny/green/201980,G,FALSE,Guard-Forward
-203110,Draymond,Green,"Green, Draymond",230,6,7,Golden State Warriors,F,23,/players/draymond/green/203110,G,FALSE,Forward
-203210,JaMychal,Green,"Green, JaMychal",227,6,9,Memphis Grizzlies,F,0,/players/jamychal/green/203210,G,FALSE,Forward
-201145,Jeff,Green,"Green, Jeff",235,6,9,Cleveland Cavaliers,F,32,/players/jeff/green/201145,G,FALSE,Forward
-201933,Blake,Griffin,"Griffin, Blake",251,6,10,LA Clippers,F,32,/players/blake/griffin/201933,G,FALSE,Forward
-203547,Eric,Griffin,"Griffin, Eric",205,6,8,Utah Jazz,C-F,17,/players/eric/griffin/203547,G,FALSE,Center-Forward
-1627772,Daniel,Hamilton,"Hamilton, Daniel",195,6,7,Oklahoma City Thunder,G,25,/players/daniel/hamilton/1627772,H,FALSE,Guard
-1627773,AJ,Hammons,"Hammons, AJ",260,7,0,Miami Heat,C,4,/players/aj/hammons/1627773,H,FALSE,Center
-203501,Tim,Hardaway Jr.,"Hardaway Jr., Tim",205,6,6,New York Knicks,F-G,3,/players/tim/hardaway_jr./203501,H,FALSE,Forward-Guard
-201935,James,Harden,"Harden, James",220,6,5,Houston Rockets,G,13,/players/james/harden/201935,H,FALSE,Guard
-203090,Maurice,Harkless,"Harkless, Maurice",220,6,9,Portland Trail Blazers,F,4,/players/maurice/harkless/203090,H,FALSE,Forward
-1626149,Montrezl,Harrell,"Harrell, Montrezl",240,6,8,LA Clippers,F-C,5,/players/montrezl/harrell/1626149,H,FALSE,Forward-Center
-2734,Devin,Harris,"Harris, Devin",185,6,3,Dallas Mavericks,G,34,/players/devin/harris/2734,H,FALSE,Guard
-203914,Gary,Harris,"Harris, Gary",210,6,4,Denver Nuggets,G,14,/players/gary/harris/203914,H,FALSE,Guard
-203925,Joe,Harris,"Harris, Joe",219,6,6,Brooklyn Nets,G,12,/players/joe/harris/203925,H,FALSE,Guard
-1626150,Andrew,Harrison,"Harrison, Andrew",213,6,6,Memphis Grizzlies,G,5,/players/andrew/harrison/1626150,H,FALSE,Guard
-202699,Tobias,Harris,"Harris, Tobias",235,6,9,Detroit Pistons,F,34,/players/tobias/harris/202699,H,FALSE,Forward
-1628404,Josh,Hart,"Hart, Josh",215,6,5,Los Angeles Lakers,G,5,/players/josh/hart/1628404,H,FALSE,Guard
-2617,Udonis,Haslem,"Haslem, Udonis",235,6,8,Miami Heat,F,40,/players/udonis/haslem/2617,H,FALSE,Forward
-202330,Gordon,Hayward,"Hayward, Gordon",226,6,8,Boston Celtics,F,20,/players/gordon/hayward/202330,H,FALSE,Forward
-203089,John,Henson,"Henson, John",229,6,11,Milwaukee Bucks,F-C,31,/players/john/henson/203089,H,FALSE,Forward-Center
-1627823,Juan,Hernangomez,"Hernangomez, Juan",230,6,9,Denver Nuggets,F,41,/players/juan/hernangomez/1627823,H,FALSE,Forward
-1626195,Willy,Hernangomez,"Hernangomez, Willy",240,6,11,New York Knicks,C,14,/players/willy/hernangomez/1626195,H,FALSE,Center
-1626209,Mario,Hezonja,"Hezonja, Mario",218,6,8,Orlando Magic,G-F,8,/players/mario/hezonja/1626209,H,FALSE,Guard-Forward
-1628439,Isaiah,Hicks,"Hicks, Isaiah",242,6,9,New York Knicks,F,4,/players/isaiah/hicks/1628439,H,FALSE,Forward
-1627741,Buddy,Hield,"Hield, Buddy",214,6,4,Sacramento Kings,G,24,/players/buddy/hield/1627741,H,FALSE,Guard
-201588,George,Hill,"Hill, George",188,6,3,Sacramento Kings,G,3,/players/george/hill/201588,H,FALSE,Guard
-1626199,Darrun,Hilliard,"Hilliard, Darrun",220,6,6,San Antonio Spurs,G,24,/players/darrun/hilliard/1626199,H,FALSE,Guard
-203524,Solomon,Hill,"Hill, Solomon",225,6,7,New Orleans Pelicans,F,44,/players/solomon/hill/203524,H,FALSE,Forward
-201950,Jrue,Holiday,"Holiday, Jrue",205,6,4,New Orleans Pelicans,G,11,/players/jrue/holiday/201950,H,FALSE,Guard
-203200,Justin,Holiday,"Holiday, Justin",185,6,6,Chicago Bulls,G,7,/players/justin/holiday/203200,H,FALSE,Guard
-204066,John,Holland,"Holland, John",205,6,5,Cleveland Cavaliers,G-F,10,/players/john/holland/204066,H,FALSE,Guard-Forward
-1626178,Rondae,Hollis-Jefferson,"Hollis-Jefferson, Rondae",214,6,7,Brooklyn Nets,F,24,/players/rondae/hollis-jefferson/1626178,H,FALSE,Forward
-1626158,Richaun,Holmes,"Holmes, Richaun",235,6,10,Philadelphia 76ers,F-C,22,/players/richaun/holmes/1626158,H,FALSE,Forward-Center
-203918,Rodney,Hood,"Hood, Rodney",206,6,8,Utah Jazz,G,5,/players/rodney/hood/203918,H,FALSE,Guard
-201143,Al,Horford,"Horford, Al",245,6,10,Boston Celtics,F-C,42,/players/al/horford/201143,H,FALSE,Forward-Center
-2730,Dwight,Howard,"Howard, Dwight",265,6,11,Charlotte Hornets,C,12,/players/dwight/howard/2730,H,FALSE,Center
-203962,Josh,Huestis,"Huestis, Josh",230,6,7,Oklahoma City Thunder,F,34,/players/josh/huestis/203962,H,FALSE,Forward
-1626205,Vincent,Hunter,"Hunter, Vincent",208,6,8,Memphis Grizzlies,F,32,/players/vincent/hunter/1626205,H,FALSE,Forward
-201586,Serge,Ibaka,"Ibaka, Serge",235,6,10,Toronto Raptors,F,9,/players/serge/ibaka/201586,I,FALSE,Forward
-2738,Andre,Iguodala,"Iguodala, Andre",215,6,6,Golden State Warriors,G-F,9,/players/andre/iguodala/2738,I,FALSE,Guard-Forward
-101141,Ersan,Ilyasova,"Ilyasova, Ersan",235,6,10,Atlanta Hawks,F,7,/players/ersan/ilyasova/101141,I,FALSE,Forward
-204060,Joe,Ingles,"Ingles, Joe",226,6,8,Utah Jazz,F,2,/players/joe/ingles/204060,I,FALSE,Forward
-1627742,Brandon,Ingram,"Ingram, Brandon",190,6,9,Los Angeles Lakers,F-G,14,/players/brandon/ingram/1627742,I,FALSE,Forward-Guard
-202681,Kyrie,Irving,"Irving, Kyrie",193,6,3,Boston Celtics,G,11,/players/kyrie/irving/202681,I,FALSE,Guard
-1628371,Jonathan,Isaac,"Isaac, Jonathan",210,6,10,Orlando Magic,F,1,/players/jonathan/isaac/1628371,I,FALSE,Forward
-1628411,Wes,Iwundu,"Iwundu, Wes",195,6,7,Orlando Magic,F,25,/players/wes/iwundu/1628411,I,FALSE,Forward
-101127,Jarrett,Jack,"Jack, Jarrett",200,6,3,New York Knicks,G,55,/players/jarrett/jack/101127,J,FALSE,Guard
-1627743,Demetrius,Jackson,"Jackson, Demetrius",201,6,1,Houston Rockets,G,2,/players/demetrius/jackson/1627743,J,FALSE,Guard
-1628402,Frank,Jackson,"Jackson, Frank",205,6,3,New Orleans Pelicans,G,15,/players/frank/jackson/1628402,J,FALSE,Guard
-1628367,Josh,Jackson,"Jackson, Josh",200,6,8,Phoenix Suns,F,20,/players/josh/jackson/1628367,J,FALSE,Forward
-1628382,Justin,Jackson,"Jackson, Justin",210,6,8,Sacramento Kings,F,25,/players/justin/jackson/1628382,J,FALSE,Forward
-202704,Reggie,Jackson,"Jackson, Reggie",208,6,3,Detroit Pistons,G,1,/players/reggie/jackson/202704,J,FALSE,Guard
-2544,LeBron,James,"James, LeBron",250,6,8,Cleveland Cavaliers,F-G,23,/players/lebron/james/2544,J,FALSE,Forward-Guard
-1628455,Mike,James,"James, Mike",195,6,1,Phoenix Suns,G,55,/players/mike/james/1628455,J,FALSE,Guard
-2744,Al,Jefferson,"Jefferson, Al",280,6,10,Indiana Pacers,C,25,/players/al/jefferson/2744,J,FALSE,Center
-2210,Richard,Jefferson,"Jefferson, Richard",233,6,7,Denver Nuggets,F,22,/players/richard/jefferson/2210,J,FALSE,Forward
-201973,Jonas,Jerebko,"Jerebko, Jonas",231,6,10,Utah Jazz,F,8,/players/jonas/jerebko/201973,J,FALSE,Forward
-101161,Amir,Johnson,"Johnson, Amir",240,6,9,Philadelphia 76ers,F-C,5,/players/amir/johnson/101161,J,FALSE,Forward-Center
-1627744,Brice,Johnson,"Johnson, Brice",230,6,10,LA Clippers,F,11,/players/brice/johnson/1627744,J,FALSE,Forward
-1626177,Dakari,Johnson,"Johnson, Dakari",255,7,0,Oklahoma City Thunder,C,44,/players/dakari/johnson/1626177,J,FALSE,Center
-201949,James,Johnson,"Johnson, James",240,6,8,Miami Heat,F,16,/players/james/johnson/201949,J,FALSE,Forward
-2207,Joe,Johnson,"Johnson, Joe",240,6,7,Utah Jazz,G-F,6,/players/joe/johnson/2207,J,FALSE,Guard-Forward
-1626169,Stanley,Johnson,"Johnson, Stanley",245,6,7,Detroit Pistons,F,7,/players/stanley/johnson/1626169,J,FALSE,Forward
-204020,Tyler,Johnson,"Johnson, Tyler",190,6,4,Miami Heat,G,8,/players/tyler/johnson/204020,J,FALSE,Guard
-202325,Wesley,Johnson,"Johnson, Wesley",215,6,7,LA Clippers,F,33,/players/wesley/johnson/202325,J,FALSE,Forward
-203999,Nikola,Jokic,"Jokic, Nikola",250,6,10,Denver Nuggets,C,15,/players/nikola/jokic/203999,J,FALSE,Center
-1627884,Derrick,Jones Jr.,"Jones Jr., Derrick",195,6,7,Phoenix Suns,F-G,10,/players/derrick/jones_jr./1627884,J,FALSE,Forward-Guard
-1627745,Damian,Jones,"Jones, Damian",245,7,0,Golden State Warriors,C,15,/players/damian/jones/1627745,J,FALSE,Center
-1627883,Jalen,Jones,"Jones, Jalen",220,6,7,New Orleans Pelicans,F,12,/players/jalen/jones/1627883,J,FALSE,Forward
-1626145,Tyus,Jones,"Jones, Tyus",184,6,2,Minnesota Timberwolves,G,1,/players/tyus/jones/1626145,J,FALSE,Guard
-201599,DeAndre,Jordan,"Jordan, DeAndre",265,6,11,LA Clippers,C,6,/players/deandre/jordan/201599,J,FALSE,Center
-202709,Cory,Joseph,"Joseph, Cory",190,6,3,Indiana Pacers,G,6,/players/cory/joseph/202709,J,FALSE,Guard
-1626163,Frank,Kaminsky,"Kaminsky, Frank",242,7,0,Charlotte Hornets,F-C,44,/players/frank/kaminsky/1626163,K,FALSE,Forward-Center
-202683,Enes,Kanter,"Kanter, Enes",245,6,11,New York Knicks,C,0,/players/enes/kanter/202683,K,FALSE,Center
-1628379,Luke,Kennard,"Kennard, Luke",200,6,5,Detroit Pistons,G,5,/players/luke/kennard/1628379,K,FALSE,Guard
-203077,Michael,Kidd-Gilchrist,"Kidd-Gilchrist, Michael",232,6,7,Charlotte Hornets,F,14,/players/michael/kidd-gilchrist/203077,K,FALSE,Forward
-203930,Sean,Kilpatrick,"Kilpatrick, Sean",212,6,4,Brooklyn Nets,G,6,/players/sean/kilpatrick/203930,K,FALSE,Guard
-1628467,Maxi,Kleber,"Kleber, Maxi",220,6,11,Dallas Mavericks,F,42,/players/maxi/kleber/1628467,K,FALSE,Forward
-202688,Brandon,Knight,"Knight, Brandon",195,6,3,Phoenix Suns,G,11,/players/brandon/knight/202688,K,FALSE,Guard
-1627788,Furkan,Korkmaz,"Korkmaz, Furkan",190,6,7,Philadelphia 76ers,G-F,30,/players/furkan/korkmaz/1627788,K,FALSE,Guard-Forward
-1628436,Luke,Kornet,"Kornet, Luke",250,7,1,New York Knicks,F-C,2,/players/luke/kornet/1628436,K,FALSE,Forward-Center
-2594,Kyle,Korver,"Korver, Kyle",212,6,7,Cleveland Cavaliers,G,26,/players/kyle/korver/2594,K,FALSE,Guard
-201585,Kosta,Koufos,"Koufos, Kosta",265,7,0,Sacramento Kings,C,41,/players/kosta/koufos/201585,K,FALSE,Center
-1628398,Kyle,Kuzma,"Kuzma, Kyle",220,6,9,Los Angeles Lakers,F,0,/players/kyle/kuzma/1628398,K,FALSE,Forward
-1627746,Skal,Labissiere,"Labissiere, Skal",225,6,11,Sacramento Kings,F-C,7,/players/skal/labissiere/1627746,L,FALSE,Forward-Center
-203087,Jeremy,Lamb,"Lamb, Jeremy",185,6,5,Charlotte Hornets,G,3,/players/jeremy/lamb/203087,L,FALSE,Guard
-203499,Shane,Larkin,"Larkin, Shane",175,5,11,Boston Celtics,G,8,/players/shane/larkin/203499,L,FALSE,Guard
-203530,Joffrey,Lauvergne,"Lauvergne, Joffrey",260,6,11,San Antonio Spurs,C,77,/players/joffrey/lauvergne/203530,L,FALSE,Center
-203897,Zach,LaVine,"LaVine, Zach",185,6,5,Chicago Bulls,G,8,/players/zach/lavine/203897,L,FALSE,Guard
-1627774,Jake,Layman,"Layman, Jake",210,6,9,Portland Trail Blazers,F,10,/players/jake/layman/1627774,L,FALSE,Forward
-1628388,TJ,Leaf,"Leaf, TJ",230,6,10,Indiana Pacers,F,22,/players/tj/leaf/1628388,L,FALSE,Forward
-201584,Courtney,Lee,"Lee, Courtney",200,6,5,New York Knicks,G,5,/players/courtney/lee/201584,L,FALSE,Guard
-203458,Alex,Len,"Len, Alex",250,7,1,Phoenix Suns,C,21,/players/alex/len/203458,L,FALSE,Center
-202695,Kawhi,Leonard,"Leonard, Kawhi",230,6,7,San Antonio Spurs,F,2,/players/kawhi/leonard/202695,L,FALSE,Forward
-203086,Meyers,Leonard,"Leonard, Meyers",255,7,1,Portland Trail Blazers,C,11,/players/meyers/leonard/203086,L,FALSE,Center
-202720,Jon,Leuer,"Leuer, Jon",228,6,10,Detroit Pistons,F-C,30,/players/jon/leuer/202720,L,FALSE,Forward-Center
-1627747,Caris,LeVert,"LeVert, Caris",203,6,7,Brooklyn Nets,G-F,22,/players/caris/levert/1627747,L,FALSE,Guard-Forward
-202732,DeAndre,Liggins,"Liggins, DeAndre",209,6,6,Milwaukee Bucks,G,25,/players/deandre/liggins/202732,L,FALSE,Guard
-203081,Damian,Lillard,"Lillard, Damian",195,6,3,Portland Trail Blazers,G,0,/players/damian/lillard/203081,L,FALSE,Guard
-202391,Jeremy,Lin,"Lin, Jeremy",200,6,3,Brooklyn Nets,G,7,/players/jeremy/lin/202391,L,FALSE,Guard
-2733,Shaun,Livingston,"Livingston, Shaun",192,6,7,Golden State Warriors,G,34,/players/shaun/livingston/2733,L,FALSE,Guard
-1626172,Kevon,Looney,"Looney, Kevon",220,6,9,Golden State Warriors,F,5,/players/kevon/looney/1626172,L,FALSE,Forward
-201572,Brook,Lopez,"Lopez, Brook",268,7,0,Los Angeles Lakers,C,11,/players/brook/lopez/201572,L,FALSE,Center
-201577,Robin,Lopez,"Lopez, Robin",277,7,0,Chicago Bulls,C,42,/players/robin/lopez/201577,L,FALSE,Center
-201567,Kevin,Love,"Love, Kevin",251,6,10,Cleveland Cavaliers,F-C,0,/players/kevin/love/201567,L,FALSE,Forward-Center
-200768,Kyle,Lowry,"Lowry, Kyle",205,6,0,Toronto Raptors,G,7,/players/kyle/lowry/200768,L,FALSE,Guard
-1627789,Timothe,Luwawu-Cabarrot,"Luwawu-Cabarrot, Timothe",200,6,6,Philadelphia 76ers,G-F,7,/players/timothe/luwawu-cabarrot/1627789,L,FALSE,Guard-Forward
-1628399,Tyler,Lydon,"Lydon, Tyler",220,6,9,Denver Nuggets,F,20,/players/tyler/lydon/1628399,L,FALSE,Forward
-1626168,Trey,Lyles,"Lyles, Trey",234,6,10,Denver Nuggets,F,7,/players/trey/lyles/1626168,L,FALSE,Forward
-202714,Shelvin,Mack,"Mack, Shelvin",203,6,3,Orlando Magic,G,7,/players/shelvin/mack/202714,M,FALSE,Guard
-1627815,Sheldon,Mac,"Mac, Sheldon",200,6,6,Washington Wizards,G-F,9,/players/sheldon/mac/1627815,M,FALSE,Guard-Forward
-203705,Josh,Magette,"Magette, Josh",160,6,1,Atlanta Hawks,G,11,/players/josh/magette/203705,M,FALSE,Guard
-101133,Ian,Mahinmi,"Mahinmi, Ian",262,6,11,Washington Wizards,C,28,/players/ian/mahinmi/101133,M,FALSE,Center
-1627748,Thon,Maker,"Maker, Thon",223,7,1,Milwaukee Bucks,C-F,7,/players/thon/maker/1627748,M,FALSE,Center-Forward
-1626246,Boban,Marjanovic,"Marjanovic, Boban",290,7,3,Detroit Pistons,C,51,/players/boban/marjanovic/1626246,M,FALSE,Center
-1628374,Lauri,Markkanen,"Markkanen, Lauri",230,7,0,Chicago Bulls,F,24,/players/lauri/markkanen/1628374,M,FALSE,Forward
-1626185,Jarell,Martin,"Martin, Jarell",239,6,10,Memphis Grizzlies,F,1,/players/jarell/martin/1626185,M,FALSE,Forward
-1628412,Frank,Mason,"Mason, Frank",190,5,11,Sacramento Kings,G,10,/players/frank/mason/1628412,M,FALSE,Guard
-1628493,Mangok,Mathiang,"Mathiang, Mangok",230,6,10,Charlotte Hornets,F-C,9,/players/mangok/mathiang/1628493,M,FALSE,Forward-Center
-202083,Wesley,Matthews,"Matthews, Wesley",220,6,5,Dallas Mavericks,G-F,23,/players/wesley/matthews/202083,M,FALSE,Guard-Forward
-201601,Luc,Mbah a Moute,"Mbah a Moute, Luc",230,6,8,Houston Rockets,F,12,/players/luc/mbah_a_moute/201601,M,FALSE,Forward
-203949,James Michael,McAdoo,"McAdoo, James Michael",230,6,9,Philadelphia 76ers,F,14,/players/james_michael/mcadoo/203949,M,FALSE,Forward
-1627775,Patrick,McCaw,"McCaw, Patrick",185,6,7,Golden State Warriors,G,0,/players/patrick/mccaw/1627775,M,FALSE,Guard
-203468,CJ,McCollum,"McCollum, CJ",190,6,3,Portland Trail Blazers,G,3,/players/cj/mccollum/203468,M,FALSE,Guard
-204456,T.J.,McConnell,"McConnell, T.J.",190,6,2,Philadelphia 76ers,G,12,/players/t.j./mcconnell/204456,M,FALSE,Guard
-1626191,Chris,McCullough,"McCullough, Chris",215,6,9,Washington Wizards,F,1,/players/chris/mccullough/1626191,M,FALSE,Forward
-203926,Doug,McDermott,"McDermott, Doug",219,6,8,New York Knicks,F,20,/players/doug/mcdermott/203926,M,FALSE,Forward
-201580,JaVale,McGee,"McGee, JaVale",270,7,0,Golden State Warriors,C,1,/players/javale/mcgee/201580,M,FALSE,Center
-203585,Rodney,McGruder,"McGruder, Rodney",200,6,4,Miami Heat,G-F,17,/players/rodney/mcgruder/203585,M,FALSE,Guard-Forward
-1628035,Alfonzo,McKinnie,"McKinnie, Alfonzo",215,6,8,Toronto Raptors,F,34,/players/alfonzo/mckinnie/1628035,M,FALSE,Forward
-203463,Ben,McLemore,"McLemore, Ben",195,6,5,Memphis Grizzlies,G,23,/players/ben/mclemore/203463,M,FALSE,Guard
-201177,Josh,McRoberts,"McRoberts, Josh",240,6,10,Dallas Mavericks,F-C,13,/players/josh/mcroberts/201177,M,FALSE,Forward-Center
-201975,Jodie,Meeks,"Meeks, Jodie",210,6,4,Washington Wizards,G,20,/players/jodie/meeks/201975,M,FALSE,Guard
-1626257,Salah,Mejri,"Mejri, Salah",235,7,2,Dallas Mavericks,C,50,/players/salah/mejri/1626257,M,FALSE,Center
-1626175,Jordan,Mickey,"Mickey, Jordan",235,6,8,Miami Heat,C-F,25,/players/jordan/mickey/1626175,M,FALSE,Center-Forward
-203114,Khris,Middleton,"Middleton, Khris",234,6,8,Milwaukee Bucks,F,22,/players/khris/middleton/203114,M,FALSE,Forward
-101139,CJ,Miles,"Miles, CJ",225,6,6,Toronto Raptors,F-G,0,/players/cj/miles/101139,M,FALSE,Forward-Guard
-203121,Darius,Miller,"Miller, Darius",225,6,8,New Orleans Pelicans,F,21,/players/darius/miller/203121,M,FALSE,Forward
-1626259,Malcolm,Miller,"Miller, Malcolm",210,6,7,Toronto Raptors,F,13,/players/malcolm/miller/1626259,M,FALSE,Forward
-200794,Paul,Millsap,"Millsap, Paul",246,6,8,Denver Nuggets,F,4,/players/paul/millsap/200794,M,FALSE,Forward
-201988,Patty,Mills,"Mills, Patty",185,6,0,San Antonio Spurs,G,8,/players/patty/mills/201988,M,FALSE,Guard
-202703,Nikola,Mirotic,"Mirotic, Nikola",238,6,10,Chicago Bulls,F,44,/players/nikola/mirotic/202703,M,FALSE,Forward
-1628378,Donovan,Mitchell,"Mitchell, Donovan",215,6,3,Utah Jazz,G,45,/players/donovan/mitchell/1628378,M,FALSE,Guard
-1628370,Malik,Monk,"Monk, Malik",200,6,3,Charlotte Hornets,G,1,/players/malik/monk/1628370,M,FALSE,Guard
-202328,Greg,Monroe,"Monroe, Greg",265,6,11,Phoenix Suns,C-F,14,/players/greg/monroe/202328,M,FALSE,Center-Forward
-1626242,Luis,Montero,"Montero, Luis",200,6,7,Detroit Pistons,G,44,/players/luis/montero/1626242,M,FALSE,Guard
-202734,E'Twaun,Moore,"Moore, E'Twaun",191,6,4,New Orleans Pelicans,G,55,/players/e'twaun/moore/202734,M,FALSE,Guard
-203961,Eric,Moreland,"Moreland, Eric",238,6,10,Detroit Pistons,F-C,24,/players/eric/moreland/203961,M,FALSE,Forward-Center
-202694,Marcus,Morris,"Morris, Marcus",235,6,9,Boston Celtics,F,13,/players/marcus/morris/202694,M,FALSE,Forward
-202693,Markieff,Morris,"Morris, Markieff",245,6,10,Washington Wizards,F,5,/players/markieff/morris/202693,M,FALSE,Forward
-1628420,Monte,Morris,"Morris, Monte",175,6,3,Denver Nuggets,G,11,/players/monte/morris/1628420,M,FALSE,Guard
-1628405,Johnathan,Motley,"Motley, Johnathan",230,6,10,Dallas Mavericks,F,6,/players/johnathan/motley/1628405,M,FALSE,Forward
-202389,Timofey,Mozgov,"Mozgov, Timofey",275,7,1,Brooklyn Nets,C,20,/players/timofey/mozgov/202389,M,FALSE,Center
-1626144,Emmanuel,Mudiay,"Mudiay, Emmanuel",200,6,5,Denver Nuggets,G,0,/players/emmanuel/mudiay/1626144,M,FALSE,Guard
-203498,Shabazz,Muhammad,"Muhammad, Shabazz",221,6,6,Minnesota Timberwolves,G-F,15,/players/shabazz/muhammad/203498,M,FALSE,Guard-Forward
-1627749,Dejounte,Murray,"Murray, Dejounte",170,6,5,San Antonio Spurs,G,5,/players/dejounte/murray/1627749,M,FALSE,Guard
-1627750,Jamal,Murray,"Murray, Jamal",207,6,4,Denver Nuggets,G,27,/players/jamal/murray/1627750,M,FALSE,Guard
-203488,Mike,Muscala,"Muscala, Mike",240,6,11,Atlanta Hawks,F-C,31,/players/mike/muscala/203488,M,FALSE,Forward-Center
-1627846,Abdel,Nader,"Nader, Abdel",230,6,6,Boston Celtics,F,28,/players/abdel/nader/1627846,N,FALSE,Forward
-1626204,Larry,Nance Jr.,"Nance Jr., Larry",230,6,9,Los Angeles Lakers,F,7,/players/larry/nance_jr./1626204,N,FALSE,Forward
-203894,Shabazz,Napier,"Napier, Shabazz",175,6,1,Portland Trail Blazers,G,6,/players/shabazz/napier/203894,N,FALSE,Guard
-2749,Jameer,Nelson,"Nelson, Jameer",190,6,0,New Orleans Pelicans,G,14,/players/jameer/nelson/2749,N,FALSE,Guard
-2403,Nene,,Nene,250,6,11,Houston Rockets,C-F,42,/players/nene/2403,N,FALSE,Center-Forward
-203526,Raul,Neto,"Neto, Raul",179,6,1,Utah Jazz,G,25,/players/raul/neto/203526,N,FALSE,Guard
-201149,Joakim,Noah,"Noah, Joakim",230,6,11,New York Knicks,C,13,/players/joakim/noah/201149,N,FALSE,Center
-203457,Nerlens,Noel,"Noel, Nerlens",220,6,11,Dallas Mavericks,C,3,/players/nerlens/noel/203457,N,FALSE,Center
-203512,Lucas,Nogueira,"Nogueira, Lucas",220,7,0,Toronto Raptors,C,92,/players/lucas/nogueira/203512,N,FALSE,Center
-1717,Dirk,Nowitzki,"Nowitzki, Dirk",245,7,0,Dallas Mavericks,F-C,41,/players/dirk/nowitzki/1717,N,FALSE,Forward-Center
-1628373,Frank,Ntilikina,"Ntilikina, Frank",190,6,5,New York Knicks,G,11,/players/frank/ntilikina/1628373,N,FALSE,Guard
-203994,Jusuf,Nurkic,"Nurkic, Jusuf",280,7,0,Portland Trail Blazers,C,27,/players/jusuf/nurkic/203994,N,FALSE,Center
-1628021,David,Nwaba,"Nwaba, David",209,6,4,Chicago Bulls,G,11,/players/david/nwaba/1628021,N,FALSE,Guard
-203948,Johnny,O'Bryant III,"O'Bryant III, Johnny",257,6,9,Charlotte Hornets,F,8,/players/johnny/o'bryant_iii/203948,O,FALSE,Forward
-1626220,Royce,O'Neale,"O'Neale, Royce",226,6,6,Utah Jazz,F,23,/players/royce/o'neale/1626220,O,FALSE,Forward
-203124,Kyle,O'Quinn,"O'Quinn, Kyle",250,6,10,New York Knicks,C-F,9,/players/kyle/o'quinn/203124,O,FALSE,Center-Forward
-1628400,Semi,Ojeleye,"Ojeleye, Semi",235,6,7,Boston Celtics,F,37,/players/semi/ojeleye/1628400,O,FALSE,Forward
-1626143,Jahlil,Okafor,"Okafor, Jahlil",260,6,11,Philadelphia 76ers,C,8,/players/jahlil/okafor/1626143,O,FALSE,Center
-203506,Victor,Oladipo,"Oladipo, Victor",210,6,4,Indiana Pacers,G,4,/players/victor/oladipo/203506,O,FALSE,Guard
-203482,Kelly,Olynyk,"Olynyk, Kelly",245,7,0,Miami Heat,C-F,9,/players/kelly/olynyk/203482,O,FALSE,Center-Forward
-1627778,Chinanu,Onuaku,"Onuaku, Chinanu",245,6,10,Houston Rockets,C,21,/players/chinanu/onuaku/1627778,O,FALSE,Center
-1626224,Cedi,Osman,"Osman, Cedi",215,6,8,Cleveland Cavaliers,F,16,/players/cedi/osman/1626224,O,FALSE,Forward
-1628473,Yakuba,Ouattara,"Ouattara, Yakuba",220,6,4,Brooklyn Nets,G,0,/players/yakuba/ouattara/1628473,O,FALSE,Guard
-1626162,Kelly,Oubre Jr.,"Oubre Jr., Kelly",205,6,7,Washington Wizards,F,12,/players/kelly/oubre_jr./1626162,O,FALSE,Forward
-2585,Zaza,Pachulia,"Pachulia, Zaza",270,6,11,Golden State Warriors,C,27,/players/zaza/pachulia/2585,P,FALSE,Center
-1627779,Marcus,Paige,"Paige, Marcus",164,6,0,Charlotte Hornets,G,4,/players/marcus/paige/1627779,P,FALSE,Guard
-1627834,Georgios,Papagiannis,"Papagiannis, Georgios",240,7,1,Sacramento Kings,C,13,/players/georgios/papagiannis/1627834,P,FALSE,Center
-203953,Jabari,Parker,"Parker, Jabari",250,6,8,Milwaukee Bucks,F,12,/players/jabari/parker/203953,P,FALSE,Forward
-2225,Tony,Parker,"Parker, Tony",185,6,2,San Antonio Spurs,G,9,/players/tony/parker/2225,P,FALSE,Guard
-202718,Chandler,Parsons,"Parsons, Chandler",230,6,10,Memphis Grizzlies,F,25,/players/chandler/parsons/202718,P,FALSE,Forward
-202335,Patrick,Patterson,"Patterson, Patrick",230,6,9,Oklahoma City Thunder,F,54,/players/patrick/patterson/202335,P,FALSE,Forward
-1628383,Justin,Patton,"Patton, Justin",236,7,0,Minnesota Timberwolves,C,24,/players/justin/patton/1628383,P,FALSE,Center
-203464,Brandon,Paul,"Paul, Brandon",200,6,4,San Antonio Spurs,G,3,/players/brandon/paul/203464,P,FALSE,Guard
-101108,Chris,Paul,"Paul, Chris",175,6,0,Houston Rockets,G,3,/players/chris/paul/101108,P,FALSE,Guard
-203940,Adreian,Payne,"Payne, Adreian",237,6,10,Orlando Magic,F,33,/players/adreian/payne/203940,P,FALSE,Forward
-1626166,Cameron,Payne,"Payne, Cameron",185,6,3,Chicago Bulls,G,22,/players/cameron/payne/1626166,P,FALSE,Guard
-1627780,Gary,Payton II,"Payton II, Gary",190,6,3,Milwaukee Bucks,G,0,/players/gary/payton_ii/1627780,P,FALSE,Guard
-203901,Elfrid,Payton,"Payton, Elfrid",185,6,4,Orlando Magic,G,2,/players/elfrid/payton/203901,P,FALSE,Guard
-1628506,London,Perrantes,"Perrantes, London",190,6,2,Cleveland Cavaliers,G,15,/players/london/perrantes/1628506,P,FALSE,Guard
-1628409,Alec,Peters,"Peters, Alec",235,6,9,Phoenix Suns,F,25,/players/alec/peters/1628409,P,FALSE,Forward
-203486,Mason,Plumlee,"Plumlee, Mason",255,6,11,Denver Nuggets,C-F,24,/players/mason/plumlee/203486,P,FALSE,Center-Forward
-203101,Miles,Plumlee,"Plumlee, Miles",249,6,11,Atlanta Hawks,C,18,/players/miles/plumlee/203101,P,FALSE,Center
-1627751,Jakob,Poeltl,"Poeltl, Jakob",230,7,0,Toronto Raptors,C,42,/players/jakob/poeltl/1627751,P,FALSE,Center
-202347,Quincy,Pondexter,"Pondexter, Quincy",225,6,7,Chicago Bulls,G,20,/players/quincy/pondexter/202347,P,FALSE,Guard
-203490,Otto,Porter Jr.,"Porter Jr., Otto",198,6,8,Washington Wizards,F,22,/players/otto/porter_jr./203490,P,FALSE,Forward
-1626171,Bobby,Portis,"Portis, Bobby",248,6,11,Chicago Bulls,F,5,/players/bobby/portis/1626171,P,FALSE,Forward
-204001,Kristaps,Porzingis,"Porzingis, Kristaps",240,7,3,New York Knicks,F-C,6,/players/kristaps/porzingis/204001,P,FALSE,Forward-Center
-203939,Dwight,Powell,"Powell, Dwight",240,6,11,Dallas Mavericks,F-C,7,/players/dwight/powell/203939,P,FALSE,Forward-Center
-1626181,Norman,Powell,"Powell, Norman",215,6,4,Toronto Raptors,F-G,24,/players/norman/powell/1626181,P,FALSE,Forward-Guard
-1627816,Alex,Poythress,"Poythress, Alex",235,6,9,Indiana Pacers,F,0,/players/alex/poythress/1627816,P,FALSE,Forward
-1627752,Taurean,Prince,"Prince, Taurean",220,6,8,Atlanta Hawks,F,12,/players/taurean/prince/1627752,P,FALSE,Forward
-1626643,Jacob,Pullen,"Pullen, Jacob",200,6,1,Philadelphia 76ers,G,0,/players/jacob/pullen/1626643,P,FALSE,Guard
-1627753,Zhou,Qi,"Qi, Zhou",210,7,1,Houston Rockets,F-C,9,/players/zhou/qi/1627753,Q,FALSE,Forward-Center
-1628397,Ivan,Rabb,"Rabb, Ivan",220,6,10,Memphis Grizzlies,F,10,/players/ivan/rabb/1628397,R,FALSE,Forward
-203944,Julius,Randle,"Randle, Julius",250,6,9,Los Angeles Lakers,F-C,30,/players/julius/randle/203944,R,FALSE,Forward-Center
-2216,Zach,Randolph,"Randolph, Zach",250,6,9,Sacramento Kings,F,50,/players/zach/randolph/2216,R,FALSE,Forward
-200755,JJ,Redick,"Redick, JJ",200,6,4,Philadelphia 76ers,F-G,17,/players/jj/redick/200755,R,FALSE,Forward-Guard
-1628432,Davon,Reed,"Reed, Davon",210,6,6,Phoenix Suns,G,32,/players/davon/reed/1628432,R,FALSE,Guard
-203186,Willie,Reed,"Reed, Willie",245,6,11,LA Clippers,C,35,/players/willie/reed/203186,R,FALSE,Center
-1626196,Josh,Richardson,"Richardson, Josh",200,6,6,Miami Heat,F,0,/players/josh/richardson/1626196,R,FALSE,Forward
-1627781,Malachi,Richardson,"Richardson, Malachi",205,6,6,Sacramento Kings,G,23,/players/malachi/richardson/1627781,R,FALSE,Guard
-203085,Austin,Rivers,"Rivers, Austin",200,6,4,LA Clippers,G,25,/players/austin/rivers/203085,R,FALSE,Guard
-203460,Andre,Roberson,"Roberson, Andre",210,6,7,Oklahoma City Thunder,G,21,/players/andre/roberson/203460,R,FALSE,Guard
-203922,Glenn,Robinson III,"Robinson III, Glenn",215,6,7,Indiana Pacers,G-F,40,/players/glenn/robinson_iii/203922,R,FALSE,Guard-Forward
-1628421,Devin,Robinson,"Robinson, Devin",200,6,8,Washington Wizards,F,7,/players/devin/robinson/1628421,R,FALSE,Forward
-200765,Rajon,Rondo,"Rondo, Rajon",186,6,1,New Orleans Pelicans,G,9,/players/rajon/rondo/200765,R,FALSE,Guard
-201565,Derrick,Rose,"Rose, Derrick",190,6,3,Cleveland Cavaliers,G,1,/players/derrick/rose/201565,R,FALSE,Guard
-203082,Terrence,Ross,"Ross, Terrence",206,6,7,Orlando Magic,G-F,31,/players/terrence/ross/203082,R,FALSE,Guard-Forward
-1626179,Terry,Rozier,"Rozier, Terry",190,6,2,Boston Celtics,G,12,/players/terry/rozier/1626179,R,FALSE,Guard
-201937,Ricky,Rubio,"Rubio, Ricky",190,6,4,Utah Jazz,G,3,/players/ricky/rubio/201937,R,FALSE,Guard
-1626156,D'Angelo,Russell,"Russell, D'Angelo",195,6,5,Brooklyn Nets,G,1,/players/d'angelo/russell/1626156,R,FALSE,Guard
-1627734,Domantas,Sabonis,"Sabonis, Domantas",252,6,10,Indiana Pacers,C-F,11,/players/domantas/sabonis/1627734,S,FALSE,Center-Forward
-203960,JaKarr,Sampson,"Sampson, JaKarr",207,6,9,Sacramento Kings,F,29,/players/jakarr/sampson/203960,S,FALSE,Forward
-203967,Dario,Saric,"Saric, Dario",223,6,10,Philadelphia 76ers,F,9,/players/dario/saric/203967,S,FALSE,Forward
-203107,Tomas,Satoransky,"Satoransky, Tomas",210,6,7,Washington Wizards,F-G,31,/players/tomas/satoransky/203107,S,FALSE,Forward-Guard
-203471,Dennis,Schroder,"Schroder, Dennis",172,6,1,Atlanta Hawks,G,17,/players/dennis/schroder/203471,S,FALSE,Guard
-203118,Mike,Scott,"Scott, Mike",237,6,8,Washington Wizards,F,30,/players/mike/scott/203118,S,FALSE,Forward
-200757,Thabo,Sefolosha,"Sefolosha, Thabo",220,6,7,Utah Jazz,F,22,/players/thabo/sefolosha/200757,S,FALSE,Forward
-1627782,Wayne,Selden,"Selden, Wayne",230,6,5,Memphis Grizzlies,G-F,7,/players/wayne/selden/1627782,S,FALSE,Guard-Forward
-201196,Ramon,Sessions,"Sessions, Ramon",190,6,3,New York Knicks,G,1,/players/ramon/sessions/201196,S,FALSE,Guard
-202697,Iman,Shumpert,"Shumpert, Iman",220,6,5,Cleveland Cavaliers,G,4,/players/iman/shumpert/202697,S,FALSE,Guard
-1627783,Pascal,Siakam,"Siakam, Pascal",230,6,9,Toronto Raptors,F,43,/players/pascal/siakam/1627783,S,FALSE,Forward
-1627732,Ben,Simmons,"Simmons, Ben",230,6,10,Philadelphia 76ers,G-F,25,/players/ben/simmons/1627732,S,FALSE,Guard-Forward
-203613,Jonathon,Simmons,"Simmons, Jonathon",195,6,6,Orlando Magic,F,17,/players/jonathon/simmons/203613,S,FALSE,Forward
-1628424,Kobi,Simmons,"Simmons, Kobi",170,6,4,Memphis Grizzlies,G,2,/players/kobi/simmons/1628424,S,FALSE,Guard
-202713,Kyle,Singler,"Singler, Kyle",228,6,8,Oklahoma City Thunder,F,15,/players/kyle/singler/202713,S,FALSE,Forward
-203935,Marcus,Smart,"Smart, Marcus",220,6,4,Boston Celtics,G,36,/players/marcus/smart/203935,S,FALSE,Guard
-1628372,Dennis,Smith Jr.,"Smith Jr., Dennis",195,6,3,Dallas Mavericks,G,1,/players/dennis/smith_jr./1628372,S,FALSE,Guard
-202397,Ish,Smith,"Smith, Ish",175,6,0,Detroit Pistons,G,14,/players/ish/smith/202397,S,FALSE,Guard
-201160,Jason,Smith,"Smith, Jason",240,7,0,Washington Wizards,F-C,14,/players/jason/smith/201160,S,FALSE,Forward-Center
-2747,JR,Smith,"Smith, JR",225,6,6,Cleveland Cavaliers,G-F,5,/players/jr/smith/2747,S,FALSE,Guard-Forward
-203503,Tony,Snell,"Snell, Tony",221,6,7,Milwaukee Bucks,G,21,/players/tony/snell/203503,S,FALSE,Guard
-201578,Marreese,Speights,"Speights, Marreese",255,6,10,Orlando Magic,F-C,5,/players/marreese/speights/201578,S,FALSE,Forward-Center
-203917,Nik,Stauskas,"Stauskas, Nik",205,6,6,Philadelphia 76ers,G,11,/players/nik/stauskas/203917,S,FALSE,Guard
-202362,Lance,Stephenson,"Stephenson, Lance",230,6,6,Indiana Pacers,G,1,/players/lance/stephenson/202362,S,FALSE,Guard
-202933,Julyan,Stone,"Stone, Julyan",200,6,6,Charlotte Hornets,G,32,/players/julyan/stone/202933,S,FALSE,Guard
-1628410,Edmond,Sumner,"Sumner, Edmond",188,6,5,Indiana Pacers,G,5,/players/edmond/sumner/1628410,S,FALSE,Guard
-1628403,Caleb,Swanigan,"Swanigan, Caleb",250,6,8,Portland Trail Blazers,F-C,50,/players/caleb/swanigan/1628403,S,FALSE,Forward-Center
-1628369,Jayson,Tatum,"Tatum, Jayson",205,6,8,Boston Celtics,F,0,/players/jayson/tatum/1628369,T,FALSE,Forward
-1627819,Isaiah,Taylor,"Taylor, Isaiah",170,6,3,Atlanta Hawks,G,22,/players/isaiah/taylor/1627819,T,FALSE,Guard
-201952,Jeff,Teague,"Teague, Jeff",189,6,2,Minnesota Timberwolves,G,0,/players/jeff/teague/201952,T,FALSE,Guard
-203141,Mirza,Teletovic,"Teletovic, Mirza",242,6,9,Milwaukee Bucks,F,35,/players/mirza/teletovic/203141,T,FALSE,Forward
-202066,Garrett,Temple,"Temple, Garrett",195,6,6,Sacramento Kings,G,17,/players/garrett/temple/202066,T,FALSE,Guard
-1628462,Milos,Teodosic,"Teodosic, Milos",196,6,5,LA Clippers,G,4,/players/milos/teodosic/1628462,T,FALSE,Guard
-1891,Jason,Terry,"Terry, Jason",185,6,2,Milwaukee Bucks,G,3,/players/jason/terry/1891,T,FALSE,Guard
-1628464,Daniel,Theis,"Theis, Daniel",243,6,9,Boston Celtics,F-C,27,/players/daniel/theis/1628464,T,FALSE,Forward-Center
-202738,Isaiah,Thomas,"Thomas, Isaiah",185,5,9,Cleveland Cavaliers,G,3,/players/isaiah/thomas/202738,T,FALSE,Guard
-202498,Lance,Thomas,"Thomas, Lance",235,6,8,New York Knicks,F,42,/players/lance/thomas/202498,T,FALSE,Forward
-202691,Klay,Thompson,"Thompson, Klay",215,6,7,Golden State Warriors,G,11,/players/klay/thompson/202691,T,FALSE,Guard
-202684,Tristan,Thompson,"Thompson, Tristan",238,6,9,Cleveland Cavaliers,C-F,13,/players/tristan/thompson/202684,T,FALSE,Center-Forward
-1628414,Sindarius,Thornwell,"Thornwell, Sindarius",215,6,5,LA Clippers,G,0,/players/sindarius/thornwell/1628414,T,FALSE,Guard
-201229,Anthony,Tolliver,"Tolliver, Anthony",240,6,8,Detroit Pistons,F,43,/players/anthony/tolliver/201229,T,FALSE,Forward
-1626157,Karl-Anthony,Towns,"Towns, Karl-Anthony",248,7,0,Minnesota Timberwolves,C,32,/players/karl-anthony/towns/1626157,T,FALSE,Center
-200782,PJ,Tucker,"Tucker, PJ",245,6,6,Houston Rockets,F,4,/players/pj/tucker/200782,T,FALSE,Forward
-202323,Evan,Turner,"Turner, Evan",220,6,7,Portland Trail Blazers,G-F,1,/players/evan/turner/202323,T,FALSE,Guard-Forward
-1626167,Myles,Turner,"Turner, Myles",255,6,11,Indiana Pacers,C,33,/players/myles/turner/1626167,T,FALSE,Center
-202327,Ekpe,Udoh,"Udoh, Ekpe",245,6,10,Utah Jazz,C-F,33,/players/ekpe/udoh/202327,U,FALSE,Center-Forward
-1627755,Tyler,Ulis,"Ulis, Tyler",160,5,10,Phoenix Suns,G,8,/players/tyler/ulis/1627755,U,FALSE,Guard
-202685,Jonas,Valanciunas,"Valanciunas, Jonas",255,7,0,Toronto Raptors,C,17,/players/jonas/valanciunas/202685,V,FALSE,Center
-1627756,Denzel,Valentine,"Valentine, Denzel",214,6,6,Chicago Bulls,F,45,/players/denzel/valentine/1627756,V,FALSE,Forward
-1627832,Fred,VanVleet,"VanVleet, Fred",195,6,0,Toronto Raptors,G,23,/players/fred/vanvleet/1627832,V,FALSE,Guard
-1626173,Rashad,Vaughn,"Vaughn, Rashad",202,6,6,Milwaukee Bucks,G,20,/players/rashad/vaughn/1626173,V,FALSE,Guard
-203943,Noah,Vonleh,"Vonleh, Noah",245,6,9,Portland Trail Blazers,F,21,/players/noah/vonleh/203943,V,FALSE,Forward
-202696,Nikola,Vucevic,"Vucevic, Nikola",260,7,0,Orlando Magic,C,9,/players/nikola/vucevic/202696,V,FALSE,Center
-2548,Dwyane,Wade,"Wade, Dwyane",220,6,4,Cleveland Cavaliers,G,9,/players/dwyane/wade/2548,W,FALSE,Guard
-203079,Dion,Waiters,"Waiters, Dion",215,6,4,Miami Heat,G,11,/players/dion/waiters/203079,W,FALSE,Guard
-202689,Kemba,Walker,"Walker, Kemba",184,6,1,Charlotte Hornets,G,15,/players/kemba/walker/202689,W,FALSE,Guard
-202322,John,Wall,"Wall, John",210,6,4,Washington Wizards,G,2,/players/john/wall/202322,W,FALSE,Guard
-1628476,Derrick,Walton Jr.,"Walton Jr., Derrick",185,6,1,Miami Heat,G,14,/players/derrick/walton_jr./1628476,W,FALSE,Guard
-203933,TJ,Warren,"Warren, TJ",215,6,8,Phoenix Suns,F,12,/players/tj/warren/203933,W,FALSE,Forward
-1627362,Briante,Weber,"Weber, Briante",165,6,2,Houston Rockets,G,0,/players/briante/weber/1627362,W,FALSE,Guard
-201566,Russell,Westbrook,"Westbrook, Russell",200,6,3,Oklahoma City Thunder,G,0,/players/russell/westbrook/201566,W,FALSE,Guard
-2561,David,West,"West, David",250,6,9,Golden State Warriors,F,3,/players/david/west/2561,W,FALSE,Forward
-1628401,Derrick,White,"White, Derrick",190,6,4,San Antonio Spurs,G,4,/players/derrick/white/1628401,W,FALSE,Guard
-1627785,Isaiah,Whitehead,"Whitehead, Isaiah",213,6,4,Brooklyn Nets,G,15,/players/isaiah/whitehead/1627785,W,FALSE,Guard
-1627855,Okaro,White,"White, Okaro",215,6,8,Miami Heat,F,15,/players/okaro/white/1627855,W,FALSE,Forward
-202355,Hassan,Whiteside,"Whiteside, Hassan",265,7,0,Miami Heat,C,21,/players/hassan/whiteside/202355,W,FALSE,Center
-203952,Andrew,Wiggins,"Wiggins, Andrew",202,6,8,Minnesota Timberwolves,F,22,/players/andrew/wiggins/203952,W,FALSE,Forward
-203912,CJ,Wilcox,"Wilcox, CJ",195,6,5,Portland Trail Blazers,G,23,/players/cj/wilcox/203912,W,FALSE,Guard
-1628451,Jacob,Wiley,"Wiley, Jacob",223,6,8,Brooklyn Nets,F,21,/players/jacob/wiley/1628451,W,FALSE,Forward
-2863,Damien,Wilkins,"Wilkins, Damien",217,6,6,Indiana Pacers,G-F,12,/players/damien/wilkins/2863,W,FALSE,Guard-Forward
-1628475,Matt,Williams Jr.,"Williams Jr., Matt",210,6,5,Miami Heat,G,12,/players/matt/williams_jr./1628475,W,FALSE,Guard
-1626210,Alan,Williams,"Williams, Alan",265,6,8,Phoenix Suns,F-C,15,/players/alan/williams/1626210,W,FALSE,Forward-Center
-203710,C.J.,Williams,"Williams, C.J.",230,6,5,LA Clippers,G,9,/players/c.j./williams/203710,W,FALSE,Guard
-101150,Lou,Williams,"Williams, Lou",175,6,1,LA Clippers,G,23,/players/lou/williams/101150,W,FALSE,Guard
-101107,Marvin,Williams,"Williams, Marvin",237,6,9,Charlotte Hornets,F,2,/players/marvin/williams/101107,W,FALSE,Forward
-1627786,Troy,Williams,"Williams, Troy",218,6,7,Houston Rockets,F,5,/players/troy/williams/1627786,W,FALSE,Forward
-1628391,D.J.,Wilson,"Wilson, D.J.",236,6,10,Milwaukee Bucks,F,5,/players/d.j./wilson/1628391,W,FALSE,Forward
-203966,Jamil,Wilson,"Wilson, Jamil",229,6,7,LA Clippers,F,13,/players/jamil/wilson/203966,W,FALSE,Forward
-1626159,Justise,Winslow,"Winslow, Justise",225,6,7,Miami Heat,F,20,/players/justise/winslow/1626159,W,FALSE,Forward
-203481,Jeff,Withey,"Withey, Jeff",230,7,0,Dallas Mavericks,C,17,/players/jeff/withey/203481,W,FALSE,Center
-203489,Nate,Wolters,"Wolters, Nate",190,6,4,Utah Jazz,G,16,/players/nate/wolters/203489,W,FALSE,Guard
-201148,Brandan,Wright,"Wright, Brandan",235,6,10,Memphis Grizzlies,F-C,34,/players/brandan/wright/201148,W,FALSE,Forward-Center
-1626153,Delon,Wright,"Wright, Delon",190,6,5,Toronto Raptors,G,55,/players/delon/wright/1626153,W,FALSE,Guard
-1627824,Guerschon,Yabusele,"Yabusele, Guerschon",260,6,8,Boston Celtics,F,30,/players/guerschon/yabusele/1627824,Y,FALSE,Forward
-1626202,Joe,Young,"Young, Joe",185,6,2,Indiana Pacers,G,3,/players/joe/young/1626202,Y,FALSE,Guard
-1628454,Mike,Young,"Young, Mike",235,6,9,Washington Wizards,F,4,/players/mike/young/1628454,Y,FALSE,Forward
-201156,Nick,Young,"Young, Nick",210,6,7,Golden State Warriors,G-F,6,/players/nick/young/201156,Y,FALSE,Guard-Forward
-201152,Thaddeus,Young,"Young, Thaddeus",230,6,8,Indiana Pacers,F,21,/players/thaddeus/young/201152,Y,FALSE,Forward
-203469,Cody,Zeller,"Zeller, Cody",240,7,0,Charlotte Hornets,C-F,40,/players/cody/zeller/203469,Z,FALSE,Center-Forward
-203092,Tyler,Zeller,"Zeller, Tyler",250,7,0,Brooklyn Nets,C,44,/players/tyler/zeller/203092,Z,FALSE,Center
-1627835,Paul,Zipser,"Zipser, Paul",226,6,8,Chicago Bulls,F,16,/players/paul/zipser/1627835,Z,FALSE,Forward
-1627790,Ante,Zizic,"Zizic, Ante",250,6,11,Cleveland Cavaliers,F-C,41,/players/ante/zizic/1627790,Z,FALSE,Forward-Center
-1627826,Ivica,Zubac,"Zubac, Ivica",240,7,1,Los Angeles Lakers,C,40,/players/ivica/zubac/1627826,Z,FALSE,Center
-,,,,,,,,,,,,,
-http://www.nba.com/players/,,,,,,,,,,,,,
+personId,firstName,lastName,displayName,weightPounds,heightFeet,heightInches,teamData,pos,jersey,playerUrl
+203518,Alex,Abrines,"Abrines, Alex",190,6,6,Oklahoma City Thunder,G,8,/players/alex/abrines/203518
+203112,Quincy,Acy,"Acy, Quincy",240,6,7,Brooklyn Nets,F,13,/players/quincy/acy/203112
+203500,Steven,Adams,"Adams, Steven",255,7,0,Oklahoma City Thunder,C,12,/players/steven/adams/203500
+1628389,Bam,Adebayo,"Adebayo, Bam",255,6,10,Miami Heat,C-F,13,/players/bam/adebayo/1628389
+201167,Arron,Afflalo,"Afflalo, Arron",210,6,5,Orlando Magic,G,4,/players/arron/afflalo/201167
+201582,Alexis,Ajinca,"Ajinca, Alexis",248,7,2,New Orleans Pelicans,C,42,/players/alexis/ajinca/201582
+202332,Cole,Aldrich,"Aldrich, Cole",253,6,11,Minnesota Timberwolves,C,45,/players/cole/aldrich/202332
+200746,LaMarcus,Aldridge,"Aldridge, LaMarcus",260,6,11,San Antonio Spurs,F,12,/players/lamarcus/aldridge/200746
+1628386,Jarrett,Allen,"Allen, Jarrett",234,6,11,Brooklyn Nets,C,31,/players/jarrett/allen/1628386
+1628443,Kadeem,Allen,"Allen, Kadeem",200,6,3,Boston Celtics,G,45,/players/kadeem/allen/1628443
+2754,Tony,Allen,"Allen, Tony",213,6,4,New Orleans Pelicans,G-F,24,/players/tony/allen/2754
+202329,Al-Farouq,Aminu,"Aminu, Al-Farouq",220,6,9,Portland Trail Blazers,F,8,/players/al-farouq/aminu/202329
+1626147,Justin,Anderson,"Anderson, Justin",230,6,6,Philadelphia 76ers,G-F,1,/players/justin/anderson/1626147
+203937,Kyle,Anderson,"Anderson, Kyle",230,6,9,San Antonio Spurs,F,1,/players/kyle/anderson/203937
+201583,Ryan,Anderson,"Anderson, Ryan",240,6,10,Houston Rockets,F,33,/players/ryan/anderson/201583
+1628387,Ike,Anigbogu,"Anigbogu, Ike",262,6,10,Indiana Pacers,C,13,/players/ike/anigbogu/1628387
+203507,Giannis,Antetokounmpo,"Antetokounmpo, Giannis",222,6,11,Milwaukee Bucks,F,34,/players/giannis/antetokounmpo/203507
+2546,Carmelo,Anthony,"Anthony, Carmelo",240,6,8,Oklahoma City Thunder,F,7,/players/carmelo/anthony/2546
+1628384,OG,Anunoby,"Anunoby, OG",235,6,8,Toronto Raptors,F,3,/players/og/anunoby/1628384
+1627853,Ryan,Arcidiacono,"Arcidiacono, Ryan",195,6,3,Chicago Bulls,G,15,/players/ryan/arcidiacono/1627853
+2772,Trevor,Ariza,"Ariza, Trevor",215,6,8,Houston Rockets,F-G,1,/players/trevor/ariza/2772
+201589,Darrell,Arthur,"Arthur, Darrell",235,6,9,Denver Nuggets,F,0,/players/darrell/arthur/201589
+1628503,Jamel,Artis,"Artis, Jamel",213,6,7,Orlando Magic,G,0,/players/jamel/artis/1628503
+201600,Omer,Asik,"Asik, Omer",255,7,0,New Orleans Pelicans,C,3,/players/omer/asik/201600
+201571,D.J.,Augustin,"Augustin, D.J.",183,6,0,Orlando Magic,G,14,/players/d.j./augustin/201571
+202337,Luke,Babbitt,"Babbitt, Luke",225,6,9,Atlanta Hawks,F,8,/players/luke/babbitt/202337
+1628407,Dwayne,Bacon,"Bacon, Dwayne",221,6,7,Charlotte Hornets,F,7,/players/dwayne/bacon/1628407
+1627758,Ron,Baker,"Baker, Ron",220,6,4,New York Knicks,G,31,/players/ron/baker/1627758
+1627735,Wade,Baldwin IV,"Baldwin IV, Wade",202,6,4,Portland Trail Blazers,G,2,/players/wade/baldwin_iv/1627735
+1628366,Lonzo,Ball,"Ball, Lonzo",190,6,6,Los Angeles Lakers,G,2,/players/lonzo/ball/1628366
+200826,J.J.,Barea,"Barea, J.J.",185,6,0,Dallas Mavericks,G,5,/players/j.j./barea/200826
+203084,Harrison,Barnes,"Barnes, Harrison",225,6,8,Dallas Mavericks,F,40,/players/harrison/barnes/203084
+203115,Will,Barton,"Barton, Will",190,6,6,Denver Nuggets,G-F,5,/players/will/barton/203115
+201587,Nicolas,Batum,"Batum, Nicolas",200,6,8,Charlotte Hornets,G-F,5,/players/nicolas/batum/201587
+201573,Jerryd,Bayless,"Bayless, Jerryd",200,6,3,Philadelphia 76ers,G,0,/players/jerryd/bayless/201573
+203382,Aron,Baynes,"Baynes, Aron",260,6,10,Boston Celtics,C,46,/players/aron/baynes/203382
+203145,Kent,Bazemore,"Bazemore, Kent",201,6,5,Atlanta Hawks,G,24,/players/kent/bazemore/203145
+203078,Bradley,Beal,"Beal, Bradley",207,6,5,Washington Wizards,G,3,/players/bradley/beal/203078
+1627736,Malik,Beasley,"Beasley, Malik",196,6,5,Denver Nuggets,G,25,/players/malik/beasley/1627736
+201563,Michael,Beasley,"Beasley, Michael",235,6,9,New York Knicks,F,8,/players/michael/beasley/201563
+201158,Marco,Belinelli,"Belinelli, Marco",210,6,5,Atlanta Hawks,G-F,3,/players/marco/belinelli/201158
+1628395,Jordan,Bell,"Bell, Jordan",224,6,9,Golden State Warriors,F,2,/players/jordan/bell/1628395
+1627761,DeAndre',Bembry,"Bembry, DeAndre'",210,6,6,Atlanta Hawks,F-G,95,/players/deandre'/bembry/1627761
+1627733,Dragan,Bender,"Bender, Dragan",225,7,1,Phoenix Suns,F,35,/players/dragan/bender/1627733
+202722,Davis,Bertans,"Bertans, Davis",210,6,10,San Antonio Spurs,F,42,/players/davis/bertans/202722
+201976,Patrick,Beverley,"Beverley, Patrick",185,6,1,LA Clippers,G,21,/players/patrick/beverley/201976
+203920,Khem,Birch,"Birch, Khem",220,6,9,Orlando Magic,C,24,/players/khem/birch/203920
+1628444,Jabari,Bird,"Bird, Jabari",198,6,6,Boston Celtics,G,26,/players/jabari/bird/1628444
+202687,Bismack,Biyombo,"Biyombo, Bismack",255,6,9,Orlando Magic,C,11,/players/bismack/biyombo/202687
+202357,Nemanja,Bjelica,"Bjelica, Nemanja",230,6,10,Minnesota Timberwolves,F,8,/players/nemanja/bjelica/202357
+204028,Tarik,Black,"Black, Tarik",250,6,9,Houston Rockets,F-C,28,/players/tarik/black/204028
+1628469,Antonio,Blakeney,"Blakeney, Antonio",197,6,4,Chicago Bulls,G,9,/players/antonio/blakeney/1628469
+202339,Eric,Bledsoe,"Bledsoe, Eric",205,6,1,Milwaukee Bucks,G,6,/players/eric/bledsoe/202339
+203505,Vander,Blue,"Blue, Vander",200,6,5,Los Angeles Lakers,G,17,/players/vander/blue/203505
+203992,Bogdan,Bogdanovic,"Bogdanovic, Bogdan",205,6,6,Sacramento Kings,G,8,/players/bogdan/bogdanovic/203992
+202711,Bojan,Bogdanovic,"Bogdanovic, Bojan",230,6,8,Indiana Pacers,F,44,/players/bojan/bogdanovic/202711
+101106,Andrew,Bogut,"Bogut, Andrew",260,7,0,Los Angeles Lakers,C,66,/players/andrew/bogut/101106
+1627762,Joel,Bolomboy,"Bolomboy, Joel",235,6,9,Milwaukee Bucks,F-C,24,/players/joel/bolomboy/1627762
+1626164,Devin,Booker,"Booker, Devin",210,6,6,Phoenix Suns,G,1,/players/devin/booker/1626164
+202344,Trevor,Booker,"Booker, Trevor",228,6,8,Brooklyn Nets,F,35,/players/trevor/booker/202344
+1628449,Chris,Boucher,"Boucher, Chris",200,6,10,Golden State Warriors,F,25,/players/chris/boucher/1628449
+202340,Avery,Bradley,"Bradley, Avery",180,6,2,Detroit Pistons,G,22,/players/avery/bradley/202340
+1628396,Tony,Bradley,"Bradley, Tony",248,6,10,Utah Jazz,C,13,/players/tony/bradley/1628396
+201147,Corey,Brewer,"Brewer, Corey",186,6,9,Los Angeles Lakers,F,3,/players/corey/brewer/201147
+1627763,Malcolm,Brogdon,"Brogdon, Malcolm",215,6,5,Milwaukee Bucks,G,13,/players/malcolm/brogdon/1627763
+201166,Aaron,Brooks,"Brooks, Aaron",161,6,0,Minnesota Timberwolves,G,30,/players/aaron/brooks/201166
+1628415,Dillon,Brooks,"Brooks, Dillon",220,6,6,Memphis Grizzlies,F-G,24,/players/dillon/brooks/1628415
+1626148,Anthony,Brown,"Brown, Anthony",224,6,7,Minnesota Timberwolves,F,3,/players/anthony/brown/1626148
+201628,Bobby,Brown,"Brown, Bobby",175,6,2,Houston Rockets,G,6,/players/bobby/brown/201628
+1627759,Jaylen,Brown,"Brown, Jaylen",225,6,7,Boston Celtics,G-F,7,/players/jaylen/brown/1627759
+203485,Lorenzo,Brown,"Brown, Lorenzo",189,6,5,Toronto Raptors,G,4,/players/lorenzo/brown/203485
+1628425,Sterling,Brown,"Brown, Sterling",230,6,6,Milwaukee Bucks,G,23,/players/sterling/brown/1628425
+1627852,Nicolas,Brussino,"Brussino, Nicolas",195,6,8,Atlanta Hawks,F,16,/players/nicolas/brussino/1627852
+1628418,Thomas,Bryant,"Bryant, Thomas",248,6,10,Los Angeles Lakers,C,31,/players/thomas/bryant/1628418
+203493,Reggie,Bullock,"Bullock, Reggie",205,6,7,Detroit Pistons,F,25,/players/reggie/bullock/203493
+202692,Alec,Burks,"Burks, Alec",214,6,6,Utah Jazz,G,10,/players/alec/burks/202692
+202710,Jimmy,Butler,"Butler, Jimmy",236,6,8,Minnesota Timberwolves,G,23,/players/jimmy/butler/202710
+202779,Dwight,Buycks,"Buycks, Dwight",190,6,3,Detroit Pistons,G,20,/players/dwight/buycks/202779
+203998,Bruno,Caboclo,"Caboclo, Bruno",205,6,9,Toronto Raptors,F,5,/players/bruno/caboclo/203998
+101181,Jose,Calderon,"Calderon, Jose",200,6,3,Cleveland Cavaliers,G,81,/players/jose/calderon/101181
+203484,Kentavious,Caldwell-Pope,"Caldwell-Pope, Kentavious",205,6,5,Los Angeles Lakers,G,1,/players/kentavious/caldwell-pope/203484
+203991,Clint,Capela,"Capela, Clint",240,6,10,Houston Rockets,C,15,/players/clint/capela/203991
+201960,DeMarre,Carroll,"Carroll, DeMarre",215,6,8,Brooklyn Nets,F,9,/players/demarre/carroll/201960
+203487,Michael,Carter-Williams,"Carter-Williams, Michael",190,6,6,Charlotte Hornets,G,10,/players/michael/carter-williams/203487
+1713,Vince,Carter,"Carter, Vince",220,6,6,Sacramento Kings,G-F,15,/players/vince/carter/1713
+1627936,Alex,Caruso,"Caruso, Alex",186,6,5,Los Angeles Lakers,G,4,/players/alex/caruso/1627936
+201956,Omri,Casspi,"Casspi, Omri",225,6,9,Golden State Warriors,F,18,/players/omri/casspi/201956
+1626161,Willie,Cauley-Stein,"Cauley-Stein, Willie",240,7,0,Sacramento Kings,C,0,/players/willie/cauley-stein/1626161
+1628463,Tyler,Cavanaugh,"Cavanaugh, Tyler",238,6,9,Atlanta Hawks,F,34,/players/tyler/cavanaugh/1628463
+201596,Mario,Chalmers,"Chalmers, Mario",190,6,2,Memphis Grizzlies,G,6,/players/mario/chalmers/201596
+2199,Tyson,Chandler,"Chandler, Tyson",240,7,1,Phoenix Suns,C,4,/players/tyson/chandler/2199
+201163,Wilson,Chandler,"Chandler, Wilson",225,6,9,Denver Nuggets,F,21,/players/wilson/chandler/201163
+1627737,Marquese,Chriss,"Chriss, Marquese",240,6,10,Phoenix Suns,F,0,/players/marquese/chriss/1627737
+203546,Ian,Clark,"Clark, Ian",175,6,3,New Orleans Pelicans,G,2,/players/ian/clark/203546
+203903,Jordan,Clarkson,"Clarkson, Jordan",194,6,5,Los Angeles Lakers,G,6,/players/jordan/clarkson/203903
+1628492,Gian,Clavell,"Clavell, Gian",185,6,4,Dallas Mavericks,G,8,/players/gian/clavell/1628492
+1628381,John,Collins,"Collins, John",235,6,10,Atlanta Hawks,F-C,20,/players/john/collins/1628381
+1628380,Zach,Collins,"Collins, Zach",230,7,0,Portland Trail Blazers,C-F,33,/players/zach/collins/1628380
+201954,Darren,Collison,"Collison, Darren",185,6,2,Indiana Pacers,G,2,/players/darren/collison/201954
+2555,Nick,Collison,"Collison, Nick",255,6,10,Oklahoma City Thunder,F,4,/players/nick/collison/2555
+201144,Mike,Conley,"Conley, Mike",175,6,1,Memphis Grizzlies,G,11,/players/mike/conley/201144
+1626192,Pat,Connaughton,"Connaughton, Pat",210,6,5,Portland Trail Blazers,G-F,5,/players/pat/connaughton/1626192
+1628429,Charles,Cooke,"Cooke, Charles",196,6,5,New Orleans Pelicans,G,4,/players/charles/cooke/1628429
+1626188,Quinn,Cook,"Cook, Quinn",179,6,2,Golden State Warriors,G,4,/players/quinn/cook/1626188
+204022,Jack,Cooley,"Cooley, Jack",274,6,10,Sacramento Kings,C,45,/players/jack/cooley/204022
+1627856,Matt,Costello,"Costello, Matt",240,6,10,San Antonio Spurs,F-C,10,/players/matt/costello/1627856
+202326,DeMarcus,Cousins,"Cousins, DeMarcus",270,6,11,New Orleans Pelicans,C,0,/players/demarcus/cousins/202326
+203496,Robert,Covington,"Covington, Robert",225,6,9,Philadelphia 76ers,F,33,/players/robert/covington/203496
+203459,Allen,Crabbe,"Crabbe, Allen",215,6,6,Brooklyn Nets,G-F,33,/players/allen/crabbe/203459
+1628470,Torrey,Craig,"Craig, Torrey",215,6,6,Denver Nuggets,G-F,3,/players/torrey/craig/1628470
+2037,Jamal,Crawford,"Crawford, Jamal",185,6,5,Minnesota Timberwolves,G,11,/players/jamal/crawford/2037
+203109,Jae,Crowder,"Crowder, Jae",235,6,6,Cleveland Cavaliers,F,99,/players/jae/crowder/203109
+201967,Dante,Cunningham,"Cunningham, Dante",230,6,8,New Orleans Pelicans,F,33,/players/dante/cunningham/201967
+203552,Seth,Curry,"Curry, Seth",185,6,2,Dallas Mavericks,G,30,/players/seth/curry/203552
+201939,Stephen,Curry,"Curry, Stephen",190,6,3,Golden State Warriors,G,30,/players/stephen/curry/201939
+203584,Troy,Daniels,"Daniels, Troy",205,6,4,Phoenix Suns,G,30,/players/troy/daniels/203584
+203076,Anthony,Davis,"Davis, Anthony",253,6,10,New Orleans Pelicans,F-C,23,/players/anthony/davis/203076
+1627738,Deyonta,Davis,"Davis, Deyonta",237,6,11,Memphis Grizzlies,C-F,21,/players/deyonta/davis/1627738
+202334,Ed,Davis,"Davis, Ed",245,6,10,Portland Trail Blazers,F-C,17,/players/ed/davis/202334
+203473,Dewayne,Dedmon,"Dedmon, Dewayne",245,7,0,Atlanta Hawks,C,14,/players/dewayne/dedmon/203473
+1626155,Sam,Dekker,"Dekker, Sam",230,6,9,LA Clippers,F,7,/players/sam/dekker/1626155
+1627098,Malcolm,Delaney,"Delaney, Malcolm",190,6,3,Atlanta Hawks,G,5,/players/malcolm/delaney/1627098
+203521,Matthew,Dellavedova,"Dellavedova, Matthew",198,6,4,Milwaukee Bucks,G,8,/players/matthew/dellavedova/203521
+2736,Luol,Deng,"Deng, Luol",220,6,9,Los Angeles Lakers,F,9,/players/luol/deng/2736
+201942,DeMar,DeRozan,"DeRozan, DeMar",220,6,7,Toronto Raptors,G,10,/players/demar/derozan/201942
+1627767,Cheick,Diallo,"Diallo, Cheick",220,6,9,New Orleans Pelicans,F,13,/players/cheick/diallo/1627767
+203476,Gorgui,Dieng,"Dieng, Gorgui",251,6,11,Minnesota Timberwolves,C,5,/players/gorgui/dieng/203476
+203915,Spencer,Dinwiddie,"Dinwiddie, Spencer",200,6,6,Brooklyn Nets,G,8,/players/spencer/dinwiddie/203915
+1628416,Tyler,Dorsey,"Dorsey, Tyler",183,6,4,Atlanta Hawks,G,2,/players/tyler/dorsey/1628416
+1628422,Damyean,Dotson,"Dotson, Damyean",210,6,5,New York Knicks,G,21,/players/damyean/dotson/1628422
+1628408,PJ,Dozier,"Dozier, PJ",205,6,6,Oklahoma City Thunder,G,35,/players/pj/dozier/1628408
+201609,Goran,Dragic,"Dragic, Goran",190,6,3,Miami Heat,G,7,/players/goran/dragic/201609
+203083,Andre,Drummond,"Drummond, Andre",279,6,11,Detroit Pistons,C,0,/players/andre/drummond/203083
+201162,Jared,Dudley,"Dudley, Jared",240,6,7,Phoenix Suns,F,3,/players/jared/dudley/201162
+1627739,Kris,Dunn,"Dunn, Kris",210,6,4,Chicago Bulls,G,32,/players/kris/dunn/1627739
+201142,Kevin,Durant,"Durant, Kevin",240,6,9,Golden State Warriors,F,35,/players/kevin/durant/201142
+1627740,Henry,Ellenson,"Ellenson, Henry",245,6,11,Detroit Pistons,F,8,/players/henry/ellenson/1627740
+201961,Wayne,Ellington,"Ellington, Wayne",200,6,5,Miami Heat,G,2,/players/wayne/ellington/201961
+203954,Joel,Embiid,"Embiid, Joel",250,7,0,Philadelphia 76ers,C,21,/players/joel/embiid/203954
+203516,James,Ennis III,"Ennis III, James",210,6,7,Memphis Grizzlies,F,8,/players/james/ennis_iii/203516
+203898,Tyler,Ennis,"Ennis, Tyler",194,6,3,Los Angeles Lakers,G,10,/players/tyler/ennis/203898
+1628393,Jawun,Evans,"Evans, Jawun",190,6,0,LA Clippers,G,1,/players/jawun/evans/1628393
+201936,Tyreke,Evans,"Evans, Tyreke",220,6,6,Memphis Grizzlies,G-F,12,/players/tyreke/evans/201936
+203957,Dante,Exum,"Exum, Dante",190,6,6,Utah Jazz,G,11,/players/dante/exum/203957
+202702,Kenneth,Faried,"Faried, Kenneth",228,6,8,Denver Nuggets,F,35,/players/kenneth/faried/202702
+202324,Derrick,Favors,"Favors, Derrick",265,6,10,Utah Jazz,F-C,15,/players/derrick/favors/202324
+1627770,Kay,Felder,"Felder, Kay",176,5,9,Chicago Bulls,G,3,/players/kay/felder/1627770
+1626245,Cristiano,Felicio,"Felicio, Cristiano",280,6,9,Chicago Bulls,C-F,6,/players/cristiano/felicio/1626245
+101109,Raymond,Felton,"Felton, Raymond",205,6,1,Oklahoma City Thunder,G,2,/players/raymond/felton/101109
+1628390,Terrance,Ferguson,"Ferguson, Terrance",184,6,7,Oklahoma City Thunder,G,23,/players/terrance/ferguson/1628390
+1627812,Yogi,Ferrell,"Ferrell, Yogi",180,6,0,Dallas Mavericks,G,11,/players/yogi/ferrell/1627812
+1627827,Dorian,Finney-Smith,"Finney-Smith, Dorian",220,6,8,Dallas Mavericks,F,10,/players/dorian/finney-smith/1627827
+1627854,Bryn,Forbes,"Forbes, Bryn",190,6,3,San Antonio Spurs,G,11,/players/bryn/forbes/1627854
+203095,Evan,Fournier,"Fournier, Evan",205,6,7,Orlando Magic,F-G,10,/players/evan/fournier/203095
+1628368,De'Aaron,Fox,"Fox, De'Aaron",175,6,3,Sacramento Kings,G,5,/players/de'aaron/fox/1628368
+204025,Tim,Frazier,"Frazier, Tim",170,6,1,Washington Wizards,G,8,/players/tim/frazier/204025
+101112,Channing,Frye,"Frye, Channing",255,6,11,Cleveland Cavaliers,F,8,/players/channing/frye/101112
+1628365,Markelle,Fultz,"Fultz, Markelle",200,6,4,Philadelphia 76ers,G,20,/players/markelle/fultz/1628365
+201568,Danilo,Gallinari,"Gallinari, Danilo",225,6,10,LA Clippers,F,8,/players/danilo/gallinari/201568
+204038,Langston,Galloway,"Galloway, Langston",200,6,2,Detroit Pistons,G,9,/players/langston/galloway/204038
+201188,Marc,Gasol,"Gasol, Marc",255,7,1,Memphis Grizzlies,C,33,/players/marc/gasol/201188
+2200,Pau,Gasol,"Gasol, Pau",250,7,0,San Antonio Spurs,C,16,/players/pau/gasol/2200
+200752,Rudy,Gay,"Gay, Rudy",230,6,8,San Antonio Spurs,F,22,/players/rudy/gay/200752
+202331,Paul,George,"George, Paul",220,6,9,Oklahoma City Thunder,F,13,/players/paul/george/202331
+1627875,Marcus,Georges-Hunt,"Georges-Hunt, Marcus",226,6,5,Minnesota Timberwolves,G,13,/players/marcus/georges-hunt/1627875
+201959,Taj,Gibson,"Gibson, Taj",235,6,9,Minnesota Timberwolves,F,67,/players/taj/gibson/201959
+1628385,Harry,Giles,"Giles, Harry",240,6,10,Sacramento Kings,F-C,20,/players/harry/giles/1628385
+1938,Manu,Ginobili,"Ginobili, Manu",205,6,6,San Antonio Spurs,G,20,/players/manu/ginobili/1938
+203497,Rudy,Gobert,"Gobert, Rudy",245,7,1,Utah Jazz,C,27,/players/rudy/gobert/203497
+203932,Aaron,Gordon,"Gordon, Aaron",220,6,9,Orlando Magic,F,0,/players/aaron/gordon/203932
+201569,Eric,Gordon,"Gordon, Eric",215,6,4,Houston Rockets,G,10,/players/eric/gordon/201569
+101162,Marcin,Gortat,"Gortat, Marcin",240,6,11,Washington Wizards,C,13,/players/marcin/gortat/101162
+1626203,Treveon,Graham,"Graham, Treveon",219,6,5,Charlotte Hornets,G-F,21,/players/treveon/graham/1626203
+203924,Jerami,Grant,"Grant, Jerami",220,6,9,Oklahoma City Thunder,F,9,/players/jerami/grant/203924
+1626170,Jerian,Grant,"Grant, Jerian",198,6,4,Chicago Bulls,G,2,/players/jerian/grant/1626170
+201980,Danny,Green,"Green, Danny",215,6,6,San Antonio Spurs,G-F,14,/players/danny/green/201980
+203110,Draymond,Green,"Green, Draymond",230,6,7,Golden State Warriors,F,23,/players/draymond/green/203110
+203210,JaMychal,Green,"Green, JaMychal",227,6,9,Memphis Grizzlies,F,0,/players/jamychal/green/203210
+201145,Jeff,Green,"Green, Jeff",235,6,9,Cleveland Cavaliers,F,32,/players/jeff/green/201145
+201933,Blake,Griffin,"Griffin, Blake",251,6,10,LA Clippers,F,32,/players/blake/griffin/201933
+203547,Eric,Griffin,"Griffin, Eric",205,6,8,Utah Jazz,C-F,17,/players/eric/griffin/203547
+1627772,Daniel,Hamilton,"Hamilton, Daniel",195,6,7,Oklahoma City Thunder,G,25,/players/daniel/hamilton/1627772
+1627773,AJ,Hammons,"Hammons, AJ",260,7,0,Miami Heat,C,4,/players/aj/hammons/1627773
+203501,Tim,Hardaway Jr.,"Hardaway Jr., Tim",205,6,6,New York Knicks,F-G,3,/players/tim/hardaway_jr./203501
+201935,James,Harden,"Harden, James",220,6,5,Houston Rockets,G,13,/players/james/harden/201935
+203090,Maurice,Harkless,"Harkless, Maurice",220,6,9,Portland Trail Blazers,F,4,/players/maurice/harkless/203090
+1626149,Montrezl,Harrell,"Harrell, Montrezl",240,6,8,LA Clippers,F-C,5,/players/montrezl/harrell/1626149
+2734,Devin,Harris,"Harris, Devin",185,6,3,Dallas Mavericks,G,34,/players/devin/harris/2734
+203914,Gary,Harris,"Harris, Gary",210,6,4,Denver Nuggets,G,14,/players/gary/harris/203914
+203925,Joe,Harris,"Harris, Joe",219,6,6,Brooklyn Nets,G,12,/players/joe/harris/203925
+1626150,Andrew,Harrison,"Harrison, Andrew",213,6,6,Memphis Grizzlies,G,5,/players/andrew/harrison/1626150
+202699,Tobias,Harris,"Harris, Tobias",235,6,9,Detroit Pistons,F,34,/players/tobias/harris/202699
+1628404,Josh,Hart,"Hart, Josh",215,6,5,Los Angeles Lakers,G,5,/players/josh/hart/1628404
+2617,Udonis,Haslem,"Haslem, Udonis",235,6,8,Miami Heat,F,40,/players/udonis/haslem/2617
+202330,Gordon,Hayward,"Hayward, Gordon",226,6,8,Boston Celtics,F,20,/players/gordon/hayward/202330
+203089,John,Henson,"Henson, John",229,6,11,Milwaukee Bucks,F-C,31,/players/john/henson/203089
+1627823,Juan,Hernangomez,"Hernangomez, Juan",230,6,9,Denver Nuggets,F,41,/players/juan/hernangomez/1627823
+1626195,Willy,Hernangomez,"Hernangomez, Willy",240,6,11,New York Knicks,C,14,/players/willy/hernangomez/1626195
+1626209,Mario,Hezonja,"Hezonja, Mario",218,6,8,Orlando Magic,G-F,8,/players/mario/hezonja/1626209
+1628439,Isaiah,Hicks,"Hicks, Isaiah",242,6,9,New York Knicks,F,4,/players/isaiah/hicks/1628439
+1627741,Buddy,Hield,"Hield, Buddy",214,6,4,Sacramento Kings,G,24,/players/buddy/hield/1627741
+201588,George,Hill,"Hill, George",188,6,3,Sacramento Kings,G,3,/players/george/hill/201588
+1626199,Darrun,Hilliard,"Hilliard, Darrun",220,6,6,San Antonio Spurs,G,24,/players/darrun/hilliard/1626199
+203524,Solomon,Hill,"Hill, Solomon",225,6,7,New Orleans Pelicans,F,44,/players/solomon/hill/203524
+201950,Jrue,Holiday,"Holiday, Jrue",205,6,4,New Orleans Pelicans,G,11,/players/jrue/holiday/201950
+203200,Justin,Holiday,"Holiday, Justin",185,6,6,Chicago Bulls,G,7,/players/justin/holiday/203200
+204066,John,Holland,"Holland, John",205,6,5,Cleveland Cavaliers,G-F,10,/players/john/holland/204066
+1626178,Rondae,Hollis-Jefferson,"Hollis-Jefferson, Rondae",214,6,7,Brooklyn Nets,F,24,/players/rondae/hollis-jefferson/1626178
+1626158,Richaun,Holmes,"Holmes, Richaun",235,6,10,Philadelphia 76ers,F-C,22,/players/richaun/holmes/1626158
+203918,Rodney,Hood,"Hood, Rodney",206,6,8,Utah Jazz,G,5,/players/rodney/hood/203918
+201143,Al,Horford,"Horford, Al",245,6,10,Boston Celtics,F-C,42,/players/al/horford/201143
+2730,Dwight,Howard,"Howard, Dwight",265,6,11,Charlotte Hornets,C,12,/players/dwight/howard/2730
+203962,Josh,Huestis,"Huestis, Josh",230,6,7,Oklahoma City Thunder,F,34,/players/josh/huestis/203962
+1626205,Vincent,Hunter,"Hunter, Vincent",208,6,8,Memphis Grizzlies,F,32,/players/vincent/hunter/1626205
+201586,Serge,Ibaka,"Ibaka, Serge",235,6,10,Toronto Raptors,F,9,/players/serge/ibaka/201586
+2738,Andre,Iguodala,"Iguodala, Andre",215,6,6,Golden State Warriors,G-F,9,/players/andre/iguodala/2738
+101141,Ersan,Ilyasova,"Ilyasova, Ersan",235,6,10,Atlanta Hawks,F,7,/players/ersan/ilyasova/101141
+204060,Joe,Ingles,"Ingles, Joe",226,6,8,Utah Jazz,F,2,/players/joe/ingles/204060
+1627742,Brandon,Ingram,"Ingram, Brandon",190,6,9,Los Angeles Lakers,F-G,14,/players/brandon/ingram/1627742
+202681,Kyrie,Irving,"Irving, Kyrie",193,6,3,Boston Celtics,G,11,/players/kyrie/irving/202681
+1628371,Jonathan,Isaac,"Isaac, Jonathan",210,6,10,Orlando Magic,F,1,/players/jonathan/isaac/1628371
+1628411,Wes,Iwundu,"Iwundu, Wes",195,6,7,Orlando Magic,F,25,/players/wes/iwundu/1628411
+101127,Jarrett,Jack,"Jack, Jarrett",200,6,3,New York Knicks,G,55,/players/jarrett/jack/101127
+1627743,Demetrius,Jackson,"Jackson, Demetrius",201,6,1,Houston Rockets,G,2,/players/demetrius/jackson/1627743
+1628402,Frank,Jackson,"Jackson, Frank",205,6,3,New Orleans Pelicans,G,15,/players/frank/jackson/1628402
+1628367,Josh,Jackson,"Jackson, Josh",200,6,8,Phoenix Suns,F,20,/players/josh/jackson/1628367
+1628382,Justin,Jackson,"Jackson, Justin",210,6,8,Sacramento Kings,F,25,/players/justin/jackson/1628382
+202704,Reggie,Jackson,"Jackson, Reggie",208,6,3,Detroit Pistons,G,1,/players/reggie/jackson/202704
+2544,LeBron,James,"James, LeBron",250,6,8,Cleveland Cavaliers,F-G,23,/players/lebron/james/2544
+1628455,Mike,James,"James, Mike",195,6,1,Phoenix Suns,G,55,/players/mike/james/1628455
+2744,Al,Jefferson,"Jefferson, Al",280,6,10,Indiana Pacers,C,25,/players/al/jefferson/2744
+2210,Richard,Jefferson,"Jefferson, Richard",233,6,7,Denver Nuggets,F,22,/players/richard/jefferson/2210
+201973,Jonas,Jerebko,"Jerebko, Jonas",231,6,10,Utah Jazz,F,8,/players/jonas/jerebko/201973
+101161,Amir,Johnson,"Johnson, Amir",240,6,9,Philadelphia 76ers,F-C,5,/players/amir/johnson/101161
+1627744,Brice,Johnson,"Johnson, Brice",230,6,10,LA Clippers,F,11,/players/brice/johnson/1627744
+1626177,Dakari,Johnson,"Johnson, Dakari",255,7,0,Oklahoma City Thunder,C,44,/players/dakari/johnson/1626177
+201949,James,Johnson,"Johnson, James",240,6,8,Miami Heat,F,16,/players/james/johnson/201949
+2207,Joe,Johnson,"Johnson, Joe",240,6,7,Utah Jazz,G-F,6,/players/joe/johnson/2207
+1626169,Stanley,Johnson,"Johnson, Stanley",245,6,7,Detroit Pistons,F,7,/players/stanley/johnson/1626169
+204020,Tyler,Johnson,"Johnson, Tyler",190,6,4,Miami Heat,G,8,/players/tyler/johnson/204020
+202325,Wesley,Johnson,"Johnson, Wesley",215,6,7,LA Clippers,F,33,/players/wesley/johnson/202325
+203999,Nikola,Jokic,"Jokic, Nikola",250,6,10,Denver Nuggets,C,15,/players/nikola/jokic/203999
+1627884,Derrick,Jones Jr.,"Jones Jr., Derrick",195,6,7,Phoenix Suns,F-G,10,/players/derrick/jones_jr./1627884
+1627745,Damian,Jones,"Jones, Damian",245,7,0,Golden State Warriors,C,15,/players/damian/jones/1627745
+1627883,Jalen,Jones,"Jones, Jalen",220,6,7,New Orleans Pelicans,F,12,/players/jalen/jones/1627883
+1626145,Tyus,Jones,"Jones, Tyus",184,6,2,Minnesota Timberwolves,G,1,/players/tyus/jones/1626145
+201599,DeAndre,Jordan,"Jordan, DeAndre",265,6,11,LA Clippers,C,6,/players/deandre/jordan/201599
+202709,Cory,Joseph,"Joseph, Cory",190,6,3,Indiana Pacers,G,6,/players/cory/joseph/202709
+1626163,Frank,Kaminsky,"Kaminsky, Frank",242,7,0,Charlotte Hornets,F-C,44,/players/frank/kaminsky/1626163
+202683,Enes,Kanter,"Kanter, Enes",245,6,11,New York Knicks,C,0,/players/enes/kanter/202683
+1628379,Luke,Kennard,"Kennard, Luke",200,6,5,Detroit Pistons,G,5,/players/luke/kennard/1628379
+203077,Michael,Kidd-Gilchrist,"Kidd-Gilchrist, Michael",232,6,7,Charlotte Hornets,F,14,/players/michael/kidd-gilchrist/203077
+203930,Sean,Kilpatrick,"Kilpatrick, Sean",212,6,4,Brooklyn Nets,G,6,/players/sean/kilpatrick/203930
+1628467,Maxi,Kleber,"Kleber, Maxi",220,6,11,Dallas Mavericks,F,42,/players/maxi/kleber/1628467
+202688,Brandon,Knight,"Knight, Brandon",195,6,3,Phoenix Suns,G,11,/players/brandon/knight/202688
+1627788,Furkan,Korkmaz,"Korkmaz, Furkan",190,6,7,Philadelphia 76ers,G-F,30,/players/furkan/korkmaz/1627788
+1628436,Luke,Kornet,"Kornet, Luke",250,7,1,New York Knicks,F-C,2,/players/luke/kornet/1628436
+2594,Kyle,Korver,"Korver, Kyle",212,6,7,Cleveland Cavaliers,G,26,/players/kyle/korver/2594
+201585,Kosta,Koufos,"Koufos, Kosta",265,7,0,Sacramento Kings,C,41,/players/kosta/koufos/201585
+1628398,Kyle,Kuzma,"Kuzma, Kyle",220,6,9,Los Angeles Lakers,F,0,/players/kyle/kuzma/1628398
+1627746,Skal,Labissiere,"Labissiere, Skal",225,6,11,Sacramento Kings,F-C,7,/players/skal/labissiere/1627746
+203087,Jeremy,Lamb,"Lamb, Jeremy",185,6,5,Charlotte Hornets,G,3,/players/jeremy/lamb/203087
+203499,Shane,Larkin,"Larkin, Shane",175,5,11,Boston Celtics,G,8,/players/shane/larkin/203499
+203530,Joffrey,Lauvergne,"Lauvergne, Joffrey",260,6,11,San Antonio Spurs,C,77,/players/joffrey/lauvergne/203530
+203897,Zach,LaVine,"LaVine, Zach",185,6,5,Chicago Bulls,G,8,/players/zach/lavine/203897
+1627774,Jake,Layman,"Layman, Jake",210,6,9,Portland Trail Blazers,F,10,/players/jake/layman/1627774
+1628388,TJ,Leaf,"Leaf, TJ",230,6,10,Indiana Pacers,F,22,/players/tj/leaf/1628388
+201584,Courtney,Lee,"Lee, Courtney",200,6,5,New York Knicks,G,5,/players/courtney/lee/201584
+203458,Alex,Len,"Len, Alex",250,7,1,Phoenix Suns,C,21,/players/alex/len/203458
+202695,Kawhi,Leonard,"Leonard, Kawhi",230,6,7,San Antonio Spurs,F,2,/players/kawhi/leonard/202695
+203086,Meyers,Leonard,"Leonard, Meyers",255,7,1,Portland Trail Blazers,C,11,/players/meyers/leonard/203086
+202720,Jon,Leuer,"Leuer, Jon",228,6,10,Detroit Pistons,F-C,30,/players/jon/leuer/202720
+1627747,Caris,LeVert,"LeVert, Caris",203,6,7,Brooklyn Nets,G-F,22,/players/caris/levert/1627747
+202732,DeAndre,Liggins,"Liggins, DeAndre",209,6,6,Milwaukee Bucks,G,25,/players/deandre/liggins/202732
+203081,Damian,Lillard,"Lillard, Damian",195,6,3,Portland Trail Blazers,G,0,/players/damian/lillard/203081
+202391,Jeremy,Lin,"Lin, Jeremy",200,6,3,Brooklyn Nets,G,7,/players/jeremy/lin/202391
+2733,Shaun,Livingston,"Livingston, Shaun",192,6,7,Golden State Warriors,G,34,/players/shaun/livingston/2733
+1626172,Kevon,Looney,"Looney, Kevon",220,6,9,Golden State Warriors,F,5,/players/kevon/looney/1626172
+201572,Brook,Lopez,"Lopez, Brook",268,7,0,Los Angeles Lakers,C,11,/players/brook/lopez/201572
+201577,Robin,Lopez,"Lopez, Robin",277,7,0,Chicago Bulls,C,42,/players/robin/lopez/201577
+201567,Kevin,Love,"Love, Kevin",251,6,10,Cleveland Cavaliers,F-C,0,/players/kevin/love/201567
+200768,Kyle,Lowry,"Lowry, Kyle",205,6,0,Toronto Raptors,G,7,/players/kyle/lowry/200768
+1627789,Timothe,Luwawu-Cabarrot,"Luwawu-Cabarrot, Timothe",200,6,6,Philadelphia 76ers,G-F,7,/players/timothe/luwawu-cabarrot/1627789
+1628399,Tyler,Lydon,"Lydon, Tyler",220,6,9,Denver Nuggets,F,20,/players/tyler/lydon/1628399
+1626168,Trey,Lyles,"Lyles, Trey",234,6,10,Denver Nuggets,F,7,/players/trey/lyles/1626168
+202714,Shelvin,Mack,"Mack, Shelvin",203,6,3,Orlando Magic,G,7,/players/shelvin/mack/202714
+1627815,Sheldon,Mac,"Mac, Sheldon",200,6,6,Washington Wizards,G-F,9,/players/sheldon/mac/1627815
+203705,Josh,Magette,"Magette, Josh",160,6,1,Atlanta Hawks,G,11,/players/josh/magette/203705
+101133,Ian,Mahinmi,"Mahinmi, Ian",262,6,11,Washington Wizards,C,28,/players/ian/mahinmi/101133
+1627748,Thon,Maker,"Maker, Thon",223,7,1,Milwaukee Bucks,C-F,7,/players/thon/maker/1627748
+1626246,Boban,Marjanovic,"Marjanovic, Boban",290,7,3,Detroit Pistons,C,51,/players/boban/marjanovic/1626246
+1628374,Lauri,Markkanen,"Markkanen, Lauri",230,7,0,Chicago Bulls,F,24,/players/lauri/markkanen/1628374
+1626185,Jarell,Martin,"Martin, Jarell",239,6,10,Memphis Grizzlies,F,1,/players/jarell/martin/1626185
+1628412,Frank,Mason,"Mason, Frank",190,5,11,Sacramento Kings,G,10,/players/frank/mason/1628412
+1628493,Mangok,Mathiang,"Mathiang, Mangok",230,6,10,Charlotte Hornets,F-C,9,/players/mangok/mathiang/1628493
+202083,Wesley,Matthews,"Matthews, Wesley",220,6,5,Dallas Mavericks,G-F,23,/players/wesley/matthews/202083
+201601,Luc,Mbah a Moute,"Mbah a Moute, Luc",230,6,8,Houston Rockets,F,12,/players/luc/mbah_a_moute/201601
+203949,James Michael,McAdoo,"McAdoo, James Michael",230,6,9,Philadelphia 76ers,F,14,/players/james_michael/mcadoo/203949
+1627775,Patrick,McCaw,"McCaw, Patrick",185,6,7,Golden State Warriors,G,0,/players/patrick/mccaw/1627775
+203468,CJ,McCollum,"McCollum, CJ",190,6,3,Portland Trail Blazers,G,3,/players/cj/mccollum/203468
+204456,T.J.,McConnell,"McConnell, T.J.",190,6,2,Philadelphia 76ers,G,12,/players/t.j./mcconnell/204456
+1626191,Chris,McCullough,"McCullough, Chris",215,6,9,Washington Wizards,F,1,/players/chris/mccullough/1626191
+203926,Doug,McDermott,"McDermott, Doug",219,6,8,New York Knicks,F,20,/players/doug/mcdermott/203926
+201580,JaVale,McGee,"McGee, JaVale",270,7,0,Golden State Warriors,C,1,/players/javale/mcgee/201580
+203585,Rodney,McGruder,"McGruder, Rodney",200,6,4,Miami Heat,G-F,17,/players/rodney/mcgruder/203585
+1628035,Alfonzo,McKinnie,"McKinnie, Alfonzo",215,6,8,Toronto Raptors,F,34,/players/alfonzo/mckinnie/1628035
+203463,Ben,McLemore,"McLemore, Ben",195,6,5,Memphis Grizzlies,G,23,/players/ben/mclemore/203463
+201177,Josh,McRoberts,"McRoberts, Josh",240,6,10,Dallas Mavericks,F-C,13,/players/josh/mcroberts/201177
+201975,Jodie,Meeks,"Meeks, Jodie",210,6,4,Washington Wizards,G,20,/players/jodie/meeks/201975
+1626257,Salah,Mejri,"Mejri, Salah",235,7,2,Dallas Mavericks,C,50,/players/salah/mejri/1626257
+1626175,Jordan,Mickey,"Mickey, Jordan",235,6,8,Miami Heat,C-F,25,/players/jordan/mickey/1626175
+203114,Khris,Middleton,"Middleton, Khris",234,6,8,Milwaukee Bucks,F,22,/players/khris/middleton/203114
+101139,CJ,Miles,"Miles, CJ",225,6,6,Toronto Raptors,F-G,0,/players/cj/miles/101139
+203121,Darius,Miller,"Miller, Darius",225,6,8,New Orleans Pelicans,F,21,/players/darius/miller/203121
+1626259,Malcolm,Miller,"Miller, Malcolm",210,6,7,Toronto Raptors,F,13,/players/malcolm/miller/1626259
+200794,Paul,Millsap,"Millsap, Paul",246,6,8,Denver Nuggets,F,4,/players/paul/millsap/200794
+201988,Patty,Mills,"Mills, Patty",185,6,0,San Antonio Spurs,G,8,/players/patty/mills/201988
+202703,Nikola,Mirotic,"Mirotic, Nikola",238,6,10,Chicago Bulls,F,44,/players/nikola/mirotic/202703
+1628378,Donovan,Mitchell,"Mitchell, Donovan",215,6,3,Utah Jazz,G,45,/players/donovan/mitchell/1628378
+1628370,Malik,Monk,"Monk, Malik",200,6,3,Charlotte Hornets,G,1,/players/malik/monk/1628370
+202328,Greg,Monroe,"Monroe, Greg",265,6,11,Phoenix Suns,C-F,14,/players/greg/monroe/202328
+1626242,Luis,Montero,"Montero, Luis",200,6,7,Detroit Pistons,G,44,/players/luis/montero/1626242
+202734,E'Twaun,Moore,"Moore, E'Twaun",191,6,4,New Orleans Pelicans,G,55,/players/e'twaun/moore/202734
+203961,Eric,Moreland,"Moreland, Eric",238,6,10,Detroit Pistons,F-C,24,/players/eric/moreland/203961
+202694,Marcus,Morris,"Morris, Marcus",235,6,9,Boston Celtics,F,13,/players/marcus/morris/202694
+202693,Markieff,Morris,"Morris, Markieff",245,6,10,Washington Wizards,F,5,/players/markieff/morris/202693
+1628420,Monte,Morris,"Morris, Monte",175,6,3,Denver Nuggets,G,11,/players/monte/morris/1628420
+1628405,Johnathan,Motley,"Motley, Johnathan",230,6,10,Dallas Mavericks,F,6,/players/johnathan/motley/1628405
+202389,Timofey,Mozgov,"Mozgov, Timofey",275,7,1,Brooklyn Nets,C,20,/players/timofey/mozgov/202389
+1626144,Emmanuel,Mudiay,"Mudiay, Emmanuel",200,6,5,Denver Nuggets,G,0,/players/emmanuel/mudiay/1626144
+203498,Shabazz,Muhammad,"Muhammad, Shabazz",221,6,6,Minnesota Timberwolves,G-F,15,/players/shabazz/muhammad/203498
+1627749,Dejounte,Murray,"Murray, Dejounte",170,6,5,San Antonio Spurs,G,5,/players/dejounte/murray/1627749
+1627750,Jamal,Murray,"Murray, Jamal",207,6,4,Denver Nuggets,G,27,/players/jamal/murray/1627750
+203488,Mike,Muscala,"Muscala, Mike",240,6,11,Atlanta Hawks,F-C,31,/players/mike/muscala/203488
+1627846,Abdel,Nader,"Nader, Abdel",230,6,6,Boston Celtics,F,28,/players/abdel/nader/1627846
+1626204,Larry,Nance Jr.,"Nance Jr., Larry",230,6,9,Los Angeles Lakers,F,7,/players/larry/nance_jr./1626204
+203894,Shabazz,Napier,"Napier, Shabazz",175,6,1,Portland Trail Blazers,G,6,/players/shabazz/napier/203894
+2749,Jameer,Nelson,"Nelson, Jameer",190,6,0,New Orleans Pelicans,G,14,/players/jameer/nelson/2749
+2403,Nene,,Nene,250,6,11,Houston Rockets,C-F,42,/players/nene/2403
+203526,Raul,Neto,"Neto, Raul",179,6,1,Utah Jazz,G,25,/players/raul/neto/203526
+201149,Joakim,Noah,"Noah, Joakim",230,6,11,New York Knicks,C,13,/players/joakim/noah/201149
+203457,Nerlens,Noel,"Noel, Nerlens",220,6,11,Dallas Mavericks,C,3,/players/nerlens/noel/203457
+203512,Lucas,Nogueira,"Nogueira, Lucas",220,7,0,Toronto Raptors,C,92,/players/lucas/nogueira/203512
+1717,Dirk,Nowitzki,"Nowitzki, Dirk",245,7,0,Dallas Mavericks,F-C,41,/players/dirk/nowitzki/1717
+1628373,Frank,Ntilikina,"Ntilikina, Frank",190,6,5,New York Knicks,G,11,/players/frank/ntilikina/1628373
+203994,Jusuf,Nurkic,"Nurkic, Jusuf",280,7,0,Portland Trail Blazers,C,27,/players/jusuf/nurkic/203994
+1628021,David,Nwaba,"Nwaba, David",209,6,4,Chicago Bulls,G,11,/players/david/nwaba/1628021
+203948,Johnny,O'Bryant III,"O'Bryant III, Johnny",257,6,9,Charlotte Hornets,F,8,/players/johnny/o'bryant_iii/203948
+1626220,Royce,O'Neale,"O'Neale, Royce",226,6,6,Utah Jazz,F,23,/players/royce/o'neale/1626220
+203124,Kyle,O'Quinn,"O'Quinn, Kyle",250,6,10,New York Knicks,C-F,9,/players/kyle/o'quinn/203124
+1628400,Semi,Ojeleye,"Ojeleye, Semi",235,6,7,Boston Celtics,F,37,/players/semi/ojeleye/1628400
+1626143,Jahlil,Okafor,"Okafor, Jahlil",260,6,11,Philadelphia 76ers,C,8,/players/jahlil/okafor/1626143
+203506,Victor,Oladipo,"Oladipo, Victor",210,6,4,Indiana Pacers,G,4,/players/victor/oladipo/203506
+203482,Kelly,Olynyk,"Olynyk, Kelly",245,7,0,Miami Heat,C-F,9,/players/kelly/olynyk/203482
+1627778,Chinanu,Onuaku,"Onuaku, Chinanu",245,6,10,Houston Rockets,C,21,/players/chinanu/onuaku/1627778
+1626224,Cedi,Osman,"Osman, Cedi",215,6,8,Cleveland Cavaliers,F,16,/players/cedi/osman/1626224
+1628473,Yakuba,Ouattara,"Ouattara, Yakuba",220,6,4,Brooklyn Nets,G,0,/players/yakuba/ouattara/1628473
+1626162,Kelly,Oubre Jr.,"Oubre Jr., Kelly",205,6,7,Washington Wizards,F,12,/players/kelly/oubre_jr./1626162
+2585,Zaza,Pachulia,"Pachulia, Zaza",270,6,11,Golden State Warriors,C,27,/players/zaza/pachulia/2585
+1627779,Marcus,Paige,"Paige, Marcus",164,6,0,Charlotte Hornets,G,4,/players/marcus/paige/1627779
+1627834,Georgios,Papagiannis,"Papagiannis, Georgios",240,7,1,Sacramento Kings,C,13,/players/georgios/papagiannis/1627834
+203953,Jabari,Parker,"Parker, Jabari",250,6,8,Milwaukee Bucks,F,12,/players/jabari/parker/203953
+2225,Tony,Parker,"Parker, Tony",185,6,2,San Antonio Spurs,G,9,/players/tony/parker/2225
+202718,Chandler,Parsons,"Parsons, Chandler",230,6,10,Memphis Grizzlies,F,25,/players/chandler/parsons/202718
+202335,Patrick,Patterson,"Patterson, Patrick",230,6,9,Oklahoma City Thunder,F,54,/players/patrick/patterson/202335
+1628383,Justin,Patton,"Patton, Justin",236,7,0,Minnesota Timberwolves,C,24,/players/justin/patton/1628383
+203464,Brandon,Paul,"Paul, Brandon",200,6,4,San Antonio Spurs,G,3,/players/brandon/paul/203464
+101108,Chris,Paul,"Paul, Chris",175,6,0,Houston Rockets,G,3,/players/chris/paul/101108
+203940,Adreian,Payne,"Payne, Adreian",237,6,10,Orlando Magic,F,33,/players/adreian/payne/203940
+1626166,Cameron,Payne,"Payne, Cameron",185,6,3,Chicago Bulls,G,22,/players/cameron/payne/1626166
+1627780,Gary,Payton II,"Payton II, Gary",190,6,3,Milwaukee Bucks,G,0,/players/gary/payton_ii/1627780
+203901,Elfrid,Payton,"Payton, Elfrid",185,6,4,Orlando Magic,G,2,/players/elfrid/payton/203901
+1628506,London,Perrantes,"Perrantes, London",190,6,2,Cleveland Cavaliers,G,15,/players/london/perrantes/1628506
+1628409,Alec,Peters,"Peters, Alec",235,6,9,Phoenix Suns,F,25,/players/alec/peters/1628409
+203486,Mason,Plumlee,"Plumlee, Mason",255,6,11,Denver Nuggets,C-F,24,/players/mason/plumlee/203486
+203101,Miles,Plumlee,"Plumlee, Miles",249,6,11,Atlanta Hawks,C,18,/players/miles/plumlee/203101
+1627751,Jakob,Poeltl,"Poeltl, Jakob",230,7,0,Toronto Raptors,C,42,/players/jakob/poeltl/1627751
+202347,Quincy,Pondexter,"Pondexter, Quincy",225,6,7,Chicago Bulls,G,20,/players/quincy/pondexter/202347
+203490,Otto,Porter Jr.,"Porter Jr., Otto",198,6,8,Washington Wizards,F,22,/players/otto/porter_jr./203490
+1626171,Bobby,Portis,"Portis, Bobby",248,6,11,Chicago Bulls,F,5,/players/bobby/portis/1626171
+204001,Kristaps,Porzingis,"Porzingis, Kristaps",240,7,3,New York Knicks,F-C,6,/players/kristaps/porzingis/204001
+203939,Dwight,Powell,"Powell, Dwight",240,6,11,Dallas Mavericks,F-C,7,/players/dwight/powell/203939
+1626181,Norman,Powell,"Powell, Norman",215,6,4,Toronto Raptors,F-G,24,/players/norman/powell/1626181
+1627816,Alex,Poythress,"Poythress, Alex",235,6,9,Indiana Pacers,F,0,/players/alex/poythress/1627816
+1627752,Taurean,Prince,"Prince, Taurean",220,6,8,Atlanta Hawks,F,12,/players/taurean/prince/1627752
+1626643,Jacob,Pullen,"Pullen, Jacob",200,6,1,Philadelphia 76ers,G,0,/players/jacob/pullen/1626643
+1627753,Zhou,Qi,"Qi, Zhou",210,7,1,Houston Rockets,F-C,9,/players/zhou/qi/1627753
+1628397,Ivan,Rabb,"Rabb, Ivan",220,6,10,Memphis Grizzlies,F,10,/players/ivan/rabb/1628397
+203944,Julius,Randle,"Randle, Julius",250,6,9,Los Angeles Lakers,F-C,30,/players/julius/randle/203944
+2216,Zach,Randolph,"Randolph, Zach",250,6,9,Sacramento Kings,F,50,/players/zach/randolph/2216
+200755,JJ,Redick,"Redick, JJ",200,6,4,Philadelphia 76ers,F-G,17,/players/jj/redick/200755
+1628432,Davon,Reed,"Reed, Davon",210,6,6,Phoenix Suns,G,32,/players/davon/reed/1628432
+203186,Willie,Reed,"Reed, Willie",245,6,11,LA Clippers,C,35,/players/willie/reed/203186
+1626196,Josh,Richardson,"Richardson, Josh",200,6,6,Miami Heat,F,0,/players/josh/richardson/1626196
+1627781,Malachi,Richardson,"Richardson, Malachi",205,6,6,Sacramento Kings,G,23,/players/malachi/richardson/1627781
+203085,Austin,Rivers,"Rivers, Austin",200,6,4,LA Clippers,G,25,/players/austin/rivers/203085
+203460,Andre,Roberson,"Roberson, Andre",210,6,7,Oklahoma City Thunder,G,21,/players/andre/roberson/203460
+203922,Glenn,Robinson III,"Robinson III, Glenn",215,6,7,Indiana Pacers,G-F,40,/players/glenn/robinson_iii/203922
+1628421,Devin,Robinson,"Robinson, Devin",200,6,8,Washington Wizards,F,7,/players/devin/robinson/1628421
+200765,Rajon,Rondo,"Rondo, Rajon",186,6,1,New Orleans Pelicans,G,9,/players/rajon/rondo/200765
+201565,Derrick,Rose,"Rose, Derrick",190,6,3,Cleveland Cavaliers,G,1,/players/derrick/rose/201565
+203082,Terrence,Ross,"Ross, Terrence",206,6,7,Orlando Magic,G-F,31,/players/terrence/ross/203082
+1626179,Terry,Rozier,"Rozier, Terry",190,6,2,Boston Celtics,G,12,/players/terry/rozier/1626179
+201937,Ricky,Rubio,"Rubio, Ricky",190,6,4,Utah Jazz,G,3,/players/ricky/rubio/201937
+1626156,D'Angelo,Russell,"Russell, D'Angelo",195,6,5,Brooklyn Nets,G,1,/players/d'angelo/russell/1626156
+1627734,Domantas,Sabonis,"Sabonis, Domantas",252,6,10,Indiana Pacers,C-F,11,/players/domantas/sabonis/1627734
+203960,JaKarr,Sampson,"Sampson, JaKarr",207,6,9,Sacramento Kings,F,29,/players/jakarr/sampson/203960
+203967,Dario,Saric,"Saric, Dario",223,6,10,Philadelphia 76ers,F,9,/players/dario/saric/203967
+203107,Tomas,Satoransky,"Satoransky, Tomas",210,6,7,Washington Wizards,F-G,31,/players/tomas/satoransky/203107
+203471,Dennis,Schroder,"Schroder, Dennis",172,6,1,Atlanta Hawks,G,17,/players/dennis/schroder/203471
+203118,Mike,Scott,"Scott, Mike",237,6,8,Washington Wizards,F,30,/players/mike/scott/203118
+200757,Thabo,Sefolosha,"Sefolosha, Thabo",220,6,7,Utah Jazz,F,22,/players/thabo/sefolosha/200757
+1627782,Wayne,Selden,"Selden, Wayne",230,6,5,Memphis Grizzlies,G-F,7,/players/wayne/selden/1627782
+201196,Ramon,Sessions,"Sessions, Ramon",190,6,3,New York Knicks,G,1,/players/ramon/sessions/201196
+202697,Iman,Shumpert,"Shumpert, Iman",220,6,5,Cleveland Cavaliers,G,4,/players/iman/shumpert/202697
+1627783,Pascal,Siakam,"Siakam, Pascal",230,6,9,Toronto Raptors,F,43,/players/pascal/siakam/1627783
+1627732,Ben,Simmons,"Simmons, Ben",230,6,10,Philadelphia 76ers,G-F,25,/players/ben/simmons/1627732
+203613,Jonathon,Simmons,"Simmons, Jonathon",195,6,6,Orlando Magic,F,17,/players/jonathon/simmons/203613
+1628424,Kobi,Simmons,"Simmons, Kobi",170,6,4,Memphis Grizzlies,G,2,/players/kobi/simmons/1628424
+202713,Kyle,Singler,"Singler, Kyle",228,6,8,Oklahoma City Thunder,F,15,/players/kyle/singler/202713
+203935,Marcus,Smart,"Smart, Marcus",220,6,4,Boston Celtics,G,36,/players/marcus/smart/203935
+1628372,Dennis,Smith Jr.,"Smith Jr., Dennis",195,6,3,Dallas Mavericks,G,1,/players/dennis/smith_jr./1628372
+202397,Ish,Smith,"Smith, Ish",175,6,0,Detroit Pistons,G,14,/players/ish/smith/202397
+201160,Jason,Smith,"Smith, Jason",240,7,0,Washington Wizards,F-C,14,/players/jason/smith/201160
+2747,JR,Smith,"Smith, JR",225,6,6,Cleveland Cavaliers,G-F,5,/players/jr/smith/2747
+203503,Tony,Snell,"Snell, Tony",221,6,7,Milwaukee Bucks,G,21,/players/tony/snell/203503
+201578,Marreese,Speights,"Speights, Marreese",255,6,10,Orlando Magic,F-C,5,/players/marreese/speights/201578
+203917,Nik,Stauskas,"Stauskas, Nik",205,6,6,Philadelphia 76ers,G,11,/players/nik/stauskas/203917
+202362,Lance,Stephenson,"Stephenson, Lance",230,6,6,Indiana Pacers,G,1,/players/lance/stephenson/202362
+202933,Julyan,Stone,"Stone, Julyan",200,6,6,Charlotte Hornets,G,32,/players/julyan/stone/202933
+1628410,Edmond,Sumner,"Sumner, Edmond",188,6,5,Indiana Pacers,G,5,/players/edmond/sumner/1628410
+1628403,Caleb,Swanigan,"Swanigan, Caleb",250,6,8,Portland Trail Blazers,F-C,50,/players/caleb/swanigan/1628403
+1628369,Jayson,Tatum,"Tatum, Jayson",205,6,8,Boston Celtics,F,0,/players/jayson/tatum/1628369
+1627819,Isaiah,Taylor,"Taylor, Isaiah",170,6,3,Atlanta Hawks,G,22,/players/isaiah/taylor/1627819
+201952,Jeff,Teague,"Teague, Jeff",189,6,2,Minnesota Timberwolves,G,0,/players/jeff/teague/201952
+203141,Mirza,Teletovic,"Teletovic, Mirza",242,6,9,Milwaukee Bucks,F,35,/players/mirza/teletovic/203141
+202066,Garrett,Temple,"Temple, Garrett",195,6,6,Sacramento Kings,G,17,/players/garrett/temple/202066
+1628462,Milos,Teodosic,"Teodosic, Milos",196,6,5,LA Clippers,G,4,/players/milos/teodosic/1628462
+1891,Jason,Terry,"Terry, Jason",185,6,2,Milwaukee Bucks,G,3,/players/jason/terry/1891
+1628464,Daniel,Theis,"Theis, Daniel",243,6,9,Boston Celtics,F-C,27,/players/daniel/theis/1628464
+202738,Isaiah,Thomas,"Thomas, Isaiah",185,5,9,Cleveland Cavaliers,G,3,/players/isaiah/thomas/202738
+202498,Lance,Thomas,"Thomas, Lance",235,6,8,New York Knicks,F,42,/players/lance/thomas/202498
+202691,Klay,Thompson,"Thompson, Klay",215,6,7,Golden State Warriors,G,11,/players/klay/thompson/202691
+202684,Tristan,Thompson,"Thompson, Tristan",238,6,9,Cleveland Cavaliers,C-F,13,/players/tristan/thompson/202684
+1628414,Sindarius,Thornwell,"Thornwell, Sindarius",215,6,5,LA Clippers,G,0,/players/sindarius/thornwell/1628414
+201229,Anthony,Tolliver,"Tolliver, Anthony",240,6,8,Detroit Pistons,F,43,/players/anthony/tolliver/201229
+1626157,Karl-Anthony,Towns,"Towns, Karl-Anthony",248,7,0,Minnesota Timberwolves,C,32,/players/karl-anthony/towns/1626157
+200782,PJ,Tucker,"Tucker, PJ",245,6,6,Houston Rockets,F,4,/players/pj/tucker/200782
+202323,Evan,Turner,"Turner, Evan",220,6,7,Portland Trail Blazers,G-F,1,/players/evan/turner/202323
+1626167,Myles,Turner,"Turner, Myles",255,6,11,Indiana Pacers,C,33,/players/myles/turner/1626167
+202327,Ekpe,Udoh,"Udoh, Ekpe",245,6,10,Utah Jazz,C-F,33,/players/ekpe/udoh/202327
+1627755,Tyler,Ulis,"Ulis, Tyler",160,5,10,Phoenix Suns,G,8,/players/tyler/ulis/1627755
+202685,Jonas,Valanciunas,"Valanciunas, Jonas",255,7,0,Toronto Raptors,C,17,/players/jonas/valanciunas/202685
+1627756,Denzel,Valentine,"Valentine, Denzel",214,6,6,Chicago Bulls,F,45,/players/denzel/valentine/1627756
+1627832,Fred,VanVleet,"VanVleet, Fred",195,6,0,Toronto Raptors,G,23,/players/fred/vanvleet/1627832
+1626173,Rashad,Vaughn,"Vaughn, Rashad",202,6,6,Milwaukee Bucks,G,20,/players/rashad/vaughn/1626173
+203943,Noah,Vonleh,"Vonleh, Noah",245,6,9,Portland Trail Blazers,F,21,/players/noah/vonleh/203943
+202696,Nikola,Vucevic,"Vucevic, Nikola",260,7,0,Orlando Magic,C,9,/players/nikola/vucevic/202696
+2548,Dwyane,Wade,"Wade, Dwyane",220,6,4,Cleveland Cavaliers,G,9,/players/dwyane/wade/2548
+203079,Dion,Waiters,"Waiters, Dion",215,6,4,Miami Heat,G,11,/players/dion/waiters/203079
+202689,Kemba,Walker,"Walker, Kemba",184,6,1,Charlotte Hornets,G,15,/players/kemba/walker/202689
+202322,John,Wall,"Wall, John",210,6,4,Washington Wizards,G,2,/players/john/wall/202322
+1628476,Derrick,Walton Jr.,"Walton Jr., Derrick",185,6,1,Miami Heat,G,14,/players/derrick/walton_jr./1628476
+203933,TJ,Warren,"Warren, TJ",215,6,8,Phoenix Suns,F,12,/players/tj/warren/203933
+1627362,Briante,Weber,"Weber, Briante",165,6,2,Houston Rockets,G,0,/players/briante/weber/1627362
+201566,Russell,Westbrook,"Westbrook, Russell",200,6,3,Oklahoma City Thunder,G,0,/players/russell/westbrook/201566
+2561,David,West,"West, David",250,6,9,Golden State Warriors,F,3,/players/david/west/2561
+1628401,Derrick,White,"White, Derrick",190,6,4,San Antonio Spurs,G,4,/players/derrick/white/1628401
+1627785,Isaiah,Whitehead,"Whitehead, Isaiah",213,6,4,Brooklyn Nets,G,15,/players/isaiah/whitehead/1627785
+1627855,Okaro,White,"White, Okaro",215,6,8,Miami Heat,F,15,/players/okaro/white/1627855
+202355,Hassan,Whiteside,"Whiteside, Hassan",265,7,0,Miami Heat,C,21,/players/hassan/whiteside/202355
+203952,Andrew,Wiggins,"Wiggins, Andrew",202,6,8,Minnesota Timberwolves,F,22,/players/andrew/wiggins/203952
+203912,CJ,Wilcox,"Wilcox, CJ",195,6,5,Portland Trail Blazers,G,23,/players/cj/wilcox/203912
+1628451,Jacob,Wiley,"Wiley, Jacob",223,6,8,Brooklyn Nets,F,21,/players/jacob/wiley/1628451
+2863,Damien,Wilkins,"Wilkins, Damien",217,6,6,Indiana Pacers,G-F,12,/players/damien/wilkins/2863
+1628475,Matt,Williams Jr.,"Williams Jr., Matt",210,6,5,Miami Heat,G,12,/players/matt/williams_jr./1628475
+1626210,Alan,Williams,"Williams, Alan",265,6,8,Phoenix Suns,F-C,15,/players/alan/williams/1626210
+203710,C.J.,Williams,"Williams, C.J.",230,6,5,LA Clippers,G,9,/players/c.j./williams/203710
+101150,Lou,Williams,"Williams, Lou",175,6,1,LA Clippers,G,23,/players/lou/williams/101150
+101107,Marvin,Williams,"Williams, Marvin",237,6,9,Charlotte Hornets,F,2,/players/marvin/williams/101107
+1627786,Troy,Williams,"Williams, Troy",218,6,7,Houston Rockets,F,5,/players/troy/williams/1627786
+1628391,D.J.,Wilson,"Wilson, D.J.",236,6,10,Milwaukee Bucks,F,5,/players/d.j./wilson/1628391
+203966,Jamil,Wilson,"Wilson, Jamil",229,6,7,LA Clippers,F,13,/players/jamil/wilson/203966
+1626159,Justise,Winslow,"Winslow, Justise",225,6,7,Miami Heat,F,20,/players/justise/winslow/1626159
+203481,Jeff,Withey,"Withey, Jeff",230,7,0,Dallas Mavericks,C,17,/players/jeff/withey/203481
+203489,Nate,Wolters,"Wolters, Nate",190,6,4,Utah Jazz,G,16,/players/nate/wolters/203489
+201148,Brandan,Wright,"Wright, Brandan",235,6,10,Memphis Grizzlies,F-C,34,/players/brandan/wright/201148
+1626153,Delon,Wright,"Wright, Delon",190,6,5,Toronto Raptors,G,55,/players/delon/wright/1626153
+1627824,Guerschon,Yabusele,"Yabusele, Guerschon",260,6,8,Boston Celtics,F,30,/players/guerschon/yabusele/1627824
+1626202,Joe,Young,"Young, Joe",185,6,2,Indiana Pacers,G,3,/players/joe/young/1626202
+1628454,Mike,Young,"Young, Mike",235,6,9,Washington Wizards,F,4,/players/mike/young/1628454
+201156,Nick,Young,"Young, Nick",210,6,7,Golden State Warriors,G-F,6,/players/nick/young/201156
+201152,Thaddeus,Young,"Young, Thaddeus",230,6,8,Indiana Pacers,F,21,/players/thaddeus/young/201152
+203469,Cody,Zeller,"Zeller, Cody",240,7,0,Charlotte Hornets,C-F,40,/players/cody/zeller/203469
+203092,Tyler,Zeller,"Zeller, Tyler",250,7,0,Brooklyn Nets,C,44,/players/tyler/zeller/203092
+1627835,Paul,Zipser,"Zipser, Paul",226,6,8,Chicago Bulls,F,16,/players/paul/zipser/1627835
+1627790,Ante,Zizic,"Zizic, Ante",250,6,11,Cleveland Cavaliers,F-C,41,/players/ante/zizic/1627790
+1627826,Ivica,Zubac,"Zubac, Ivica",240,7,1,Los Angeles Lakers,C,40,/players/ivica/zubac/1627826
+,,,,,,,,,,
+http://www.nba.com/players/,,,,,,,,,,
