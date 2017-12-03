@@ -1,0 +1,145 @@
+AWARD_ID,PLAYER_ID,AWARD_NAME
+1,203507,ALL_STAR
+1,2546,ALL_STAR
+1,202710,ALL_STAR
+1,201942,ALL_STAR
+1,202331,ALL_STAR
+1,202681,ALL_STAR
+1,2544,ALL_STAR
+1,201567,ALL_STAR
+1,200768,ALL_STAR
+1,200794,ALL_STAR
+1,202738,ALL_STAR
+1,202689,ALL_STAR
+1,202322,ALL_STAR
+1,202326,ALL_STAR
+1,201939,ALL_STAR
+1,203076,ALL_STAR
+1,201142,ALL_STAR
+1,201188,ALL_STAR
+1,203110,ALL_STAR
+1,201935,ALL_STAR
+1,202330,ALL_STAR
+1,201599,ALL_STAR
+1,202695,ALL_STAR
+1,202691,ALL_STAR
+1,201566,ALL_STAR
+2,1627763,"All-Rookie 
+1st_Team"
+2,203954,"All-Rookie 
+1st_Team"
+2,1626195,"All-Rookie 
+1st_Team"
+2,1627741,"All-Rookie 
+1st_Team"
+2,203967,"All-Rookie 
+1st_Team"
+3,1627759,"All-Rookie 
+2nd_Team"
+3,1627737,"All-Rookie 
+2nd_Team"
+3,1627812,"All-Rookie 
+2nd_Team"
+3,1627742,"All-Rookie 
+2nd_Team"
+3,1627750,"All-Rookie 
+2nd_Team"
+4,201976,All_Defensive 1st_Team
+4,203497,All_Defensive 1st_Team
+4,203110,All_Defensive 1st_Team
+4,202695,All_Defensive 1st_Team
+4,101108,All_Defensive 1st_Team
+5,2754,All_Defensive 2nd_Team
+5,203507,All_Defensive 2nd_Team
+5,203076,All_Defensive 2nd_Team
+5,201980,All_Defensive 2nd_Team
+5,203460,All_Defensive 2nd_Team
+6,203076,All_NBA 1st_Team
+6,201935,All_NBA 1st_Team
+6,2544,All_NBA 1st_Team
+6,202695,All_NBA 1st_Team
+6,201566,All_NBA 1st_Team
+7,203507,All_NBA 2nd_Team
+7,201939,All_NBA 2nd_Team
+7,201142,All_NBA 2nd_Team
+7,203497,All_NBA 2nd_Team
+7,202738,All_NBA 2nd_Team
+8,202710,All_NBA 3rd_Team
+8,201942,All_NBA 3rd_Team
+8,203110,All_NBA 3rd_Team
+8,201599,All_NBA 3rd_Team
+8,202322,All_NBA 3rd_Team
+9,203954,Rookies of the November
+10,203954,Rookies of the December
+11,203954,Rookies of the January
+12,203967,Rookies of the February
+13,203967,Rookies of the March
+14,1626195,Rookies of the April
+9,1627750,Rookies of the November
+10,1627741,Rookies of the December
+11,1627737,Rookies of the January
+12,1627812,Rookies of the February
+13,1627741,Rookies of the March
+14,1627755,Rookies of the April
+21,2544,Player of the November
+22,202322,Player of the December
+23,202738,Player of the January
+24,2544,Player of the February
+25,203507,Player of the March
+26,202331,Player of the April
+21,201566,Player of the November
+22,201935,Player of the December
+23,201939,Player of the January
+24,201566,Player of the February
+25,203081,Player of the March
+26,101108,Player of the April
+27,2544,Player of the Week1
+28,2544,Player of the Week2
+29,201942,Player of the Week3
+30,202710,Player of the Week4
+32,203507,Player of the Week6
+33,2544,Player of the Week7
+34,201942,Player of the Week8
+35,202738,Player of the Week9
+36,202322,Player of the Week10
+37,202710,Player of the Week11
+38,201942,Player of the Week12
+39,203954,Player of the Week13
+40,203079,Player of the Week14
+41,202738,Player of the Week15
+42,2544,Player of the Week16
+43,202689,Player of the Week17
+44,202322,Player of the Week18
+45,202355,Player of the Week19
+46,201942,Player of the Week20
+47,202710,Player of the Week21
+48,202331,Player of the Week22
+27,201566,Player of the Week1
+28,201588,Player of the Week2
+29,201935,Player of the Week3
+30,203076,Player of the Week4
+31,201142,Player of the Week5
+32,201566,Player of the Week6
+33,201188,Player of the Week7
+34,201935,Player of the Week8
+35,201566,Player of the Week9
+36,201935,Player of the Week10
+37,201939,Player of the Week11
+38,202330,Player of the Week12
+39,202695,Player of the Week13
+40,202326,Player of the Week14
+41,201939,Player of the Week15
+42,201933,Player of the Week16
+43,202695,Player of the Week17
+44,1626157,Player of the Week18
+45,203081,Player of the Week19
+46,201935,Player of the Week20
+47,201939,Player of the Week21
+48,201566,Player of the Week22
+49,201566,Most Valuable Player
+50,203110,Defensive Player of the Year
+51,1627763,Rookie of the Year
+52,201569,Sixth Man of the Year
+53,203507,Most Improved Player
+56,202689,NBA Sportsmanship Award
+57,202738,Community Assist Award
