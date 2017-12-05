@@ -115,6 +115,9 @@ try
 
 
         <br><br><br>
+            <p>
+        Click <a href="http://ix.cs.uoregon.edu/~linzeli/final/team.php">here</a> to back to the Team page.
+    </p>
         <hr>
     <p>
         Click <a href="jersey.txt">here</a> to see the Implementation code of this page.
