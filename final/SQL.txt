@@ -1,0 +1,77 @@
+1. 获取队伍信息
+SELECT t.TEAM_NAME, t.Owner, c.COACH_NAME, t.Conference, t.Web, t.Arena, t.Location, t.Total_Salary FROM team t
+JOIN coach c USING(TEAM_ID);
+
+2. 输入球队获取球员信息
+SELECT p1.Player_name, p.weightPounds, CONCAT(p.heightFeet,"'", p.heightInches) AS Height, p.pos AS Position, p.jersey FROM player p
+JOIN (SELECT CONCAT(firstName,' ', lastName) AS Player_name, personID FROM player) p1 USING(personID)
+JOIN team t USING(TEAM_ID)
+WHERE t.TEAM_NAME = 'Cleveland Cavaliers';
+
+3. 输入球员获取球员数据
+SELECT p1.Player_name, IF(ISNULL(pp.GP),0, pp.GP) AS GP, IF(ISNULL(pp.MIN),0, pp.MIN) AS MIN,
+IF(ISNULL(pp.PTS),0, pp.PTS) AS PTS, IF(ISNULL(pp.REB),0, pp.REB) AS REB,
+IF(ISNULL(pp.AST),0, pp.AST) AS AST, IF(ISNULL(pp.STL),0, pp.STL) AS STL,
+IF(ISNULL(pp.BLK),0, pp.BLK) AS BLK, IF(ISNULL(pp.TOV),0, pp.TOV) AS TOV,
+IF(ISNULL(pp.FG_PCT),0, pp.FG_PCT) AS FG_PCT, IF(ISNULL(pp.FG3_PCT),0, pp.FG3_PCT) AS FG3_PCT,
+IF(ISNULL(pp.FT_PCT),0, pp.FT_PCT) AS FT_PCT FROM player p
+JOIN (SELECT CONCAT(firstName,' ', lastName) AS Player_name, personID FROM player) p1 USING(personID)
+LEFT JOIN player_performance pp ON pp.PLAYER_ID = p.personID
+WHERE p1.Player_name = 'Russell Westbrook';
+
+4. 输入球队获取比赛信息
+SELECT Date, ht.TEAM_NAME AS Home_Team, Home_PTS, vt.TEAM_NAME AS Visitor_Team, Visitor_PTS FROM games g
+JOIN team ht ON ht.TEAM_ID = g.Home_ID
+JOIN team vt ON vt.TEAM_ID = g.Visitor_ID
+WHERE ht.TEAM_NAME = 'Chicago Bulls' OR vt.TEAM_NAME = 'Chicago Bulls';
+
+5. 输入球队获取伤病信息
+SELECT CONCAT(p.firstName,' ', p.lastName) AS Player_name, i.DATE, i.INJURY FROM injuries i
+JOIN team t USING(TEAM_ID)
+JOIN player p ON p.personID = i.PLAYER_ID
+WHERE t.TEAM_NAME = 'Oklahoma City Thunder';
+
+6. 输入球队获取队员获奖信息
+SELECT CONCAT(firstName,' ', lastName) AS Player_name, a.AWARD_NAME FROM awards_granted ag
+JOIN player p on p.personID = ag.PLAYER_ID
+JOIN team t USING(TEAM_ID)
+JOIN awards a USING(AWARD_ID)
+WHERE t.TEAM_NAME = 'Oklahoma City Thunder';
+
+7. 输入两个球员获取数据对比
+SELECT p1.Player_name, IF(ISNULL(pp.GP),0, pp.GP) AS GP, IF(ISNULL(pp.MIN),0, pp.MIN) AS MIN,
+IF(ISNULL(pp.PTS),0, pp.PTS) AS PTS, IF(ISNULL(pp.REB),0, pp.REB) AS REB,
+IF(ISNULL(pp.AST),0, pp.AST) AS AST, IF(ISNULL(pp.STL),0, pp.STL) AS STL,
+IF(ISNULL(pp.BLK),0, pp.BLK) AS BLK, IF(ISNULL(pp.TOV),0, pp.TOV) AS TOV,
+IF(ISNULL(pp.FG_PCT),0, pp.FG_PCT) AS FG_PCT, IF(ISNULL(pp.FG3_PCT),0, pp.FG3_PCT) AS FG3_PCT,
+IF(ISNULL(pp.FT_PCT),0, pp.FT_PCT) AS FT_PCT FROM player p
+JOIN (SELECT CONCAT(firstName,' ', lastName) AS Player_name, personID FROM player) p1 USING(personID)
+LEFT JOIN player_performance pp ON pp.PLAYER_ID = p.personID
+WHERE p1.Player_name = 'Russell Westbrook' OR p1.Player_name = 'Lebron James';
+
+8. 输入两只球队获取比赛信息
+SELECT Date, ht.TEAM_NAME AS Home_Team, Home_PTS, vt.TEAM_NAME AS Visitor_Team, Visitor_PTS FROM games g
+JOIN team ht ON ht.TEAM_ID = g.Home_ID
+JOIN team vt ON vt.TEAM_ID = g.Visitor_ID
+WHERE (ht.TEAM_NAME = 'Chicago Bulls' AND vt.TEAM_NAME = 'Cleveland Cavaliers')
+OR (ht.TEAM_NAME = 'Cleveland Cavaliers' AND vt.TEAM_NAME = 'Chicago Bulls');
+
+9. 输入体重信息获取等于或大于该体重的球员
+SELECT p1.Player_name, p.weightPounds, CONCAT(p.heightFeet,"'", p.heightInches) AS Height, p.pos AS Position, p.jersey FROM player p
+JOIN (SELECT CONCAT(firstName,' ', lastName) AS Player_name, personID FROM player) p1 USING(personID)
+JOIN team t USING(TEAM_ID)
+WHERE p.weightPounds >= 200
+ORDER BY p.weightPounds ;
+
+10. 输入得分/篮板/助攻和数字获取等于或大于改数据的球员
+SELECT p1.Player_name, IF(ISNULL(pp.GP),0, pp.GP) AS GP, IF(ISNULL(pp.MIN),0, pp.MIN) AS MIN,
+IF(ISNULL(pp.PTS),0, pp.PTS) AS PTS, IF(ISNULL(pp.REB),0, pp.REB) AS REB,
+IF(ISNULL(pp.AST),0, pp.AST) AS AST, IF(ISNULL(pp.STL),0, pp.STL) AS STL,
+IF(ISNULL(pp.BLK),0, pp.BLK) AS BLK, IF(ISNULL(pp.TOV),0, pp.TOV) AS TOV,
+IF(ISNULL(pp.FG_PCT),0, pp.FG_PCT) AS FG_PCT, IF(ISNULL(pp.FG3_PCT),0, pp.FG3_PCT) AS FG3_PCT,
+IF(ISNULL(pp.FT_PCT),0, pp.FT_PCT) AS FT_PCT FROM player p
+JOIN (SELECT CONCAT(firstName,' ', lastName) AS Player_name, personID FROM player) p1 USING(personID)
+LEFT JOIN player_performance pp ON pp.PLAYER_ID = p.personID
+WHERE PTS >= 20 
+ORDER BY PTS ASC;
+
