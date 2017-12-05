@@ -8,6 +8,15 @@
         </style>
     </head>
     <body bgcolor="white">
+    <style type="text/css" >
+    
+    body{
+            background-image:url(https://www.walldevil.com/wallpapers/a62/kobe-bryant-black-mamba-basketball-nba-la-lakers.jpg);
+            background-position:center;           
+             background-repeat:repeat-y;
+        }
+    </style>
+
         <h3><br><br><br><br>
             NBA 2016-2017 Season
         </h3>
@@ -17,7 +26,7 @@
             <br><br><br><br>
         </p>
         <p><br><br>
-            <a href="team.html">View Teams Information.</a>
+            <a href="team.php">View Teams Information.</a>
         </p><br><br>
         <br><br><br>
         <hr>
@@ -29,6 +38,6 @@
             <a href="nba.txt" >Contents</a> of this page.
         </p>
         <p>
-            Click <a href="dump.sql"> HERE</a> to download the dump file of NBA 2016-2017 season.
+            Click <a href="nba.sql"> HERE</a> to download the dump file of NBA 2016-2017 season.
         </p>
 </html>
