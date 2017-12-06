@@ -79,7 +79,7 @@ try
     while($row = $result->fetch())
     {
         print "<tr>";
-        print "<td>$row[Player_name]</td> <td>$row[DATE]</td> <td>$row[INJURY]</td>itor_PTS]</td>";
+        print "<td>$row[Player_name]</td> <td>$row[DATE]</td> <td>$row[INJURY]</td>";
        
         print "</tr>";
     }
