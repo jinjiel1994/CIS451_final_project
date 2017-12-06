@@ -35,7 +35,13 @@
         title="User Guide">
         User Guide</a>
         <p>
-            <a href="nba.txt" >Contents</a> of this page.
+            <a href="nba.txt" >Contents</a> of this page
+        </p>
+        <p>
+            <a href="connectionData.txt" >connection</a> is the connection to our database
+        </p>
+        <p>
+            <a href="report.txt" >Report</a> for final project.
         </p>
         <p>
             Click <a href="nba.sql"> HERE</a> to download the dump file of NBA 2016-2017 season.

@@ -1,0 +1,24 @@
+
+TEAM_ID, COACH_ID, COACH_NAME, START_DATE, BIRTHDAY
+In awards table, it has primary key "AWARD_ID", the id for each award, the name of each award "AWARD_NAME".
+
+In awards_granted table, it is a relationship table, the table contain two foreign key "AWARD_ID" from award table & "PLAYER_ID" from player table.
+
+In coach table, it comes with foreign key "TEAM_ID" from team table, and primary key "COACH_ID". And "COACH_NAME", "START_DATE" determine when the coach start to coach the team, "BIRTHDAY"
+
+In game table, it comes with primary key "GAME_ID" for each game. and "Date", "Start (ET)" for the start time of each game. "Visitor_ID", "Visitor_PTS" is the visitor team's ID and points in this game, "Home_ID","Home_PTS" is the home team's ID and points in this game. "Notes" is whether this game has overtime.
+
+INJURY_ID, TEAM_ID, PLAYER_ID, DATE, INJURY
+In injury table, it comes with primary key "INJURY_ID", "TEAM_ID","PLAYER_ID",
+"DATE", "INJURY" is the name of injury.
+
+In player table, it comes with primary key "personId", "TEAM_ID","firstName","lastName", "weightPounds","heightFeet","heightInches","pos" is player's position in team,"jersey" is the jersey number for player,"playerUrl"
+
+In player_performance table, it comes with primary key(PLAYER_ID),
+"GP","MIN","FGM","FGA","FG_PCT","FG3M", "FG3A", "FG3_PCT", "FTM", "FTA", "FT_PCT", "OREB", "DREB", "REB", "AST", "STL", "BLK", "TOV", "PTS", "EFF"
+those are the specific statistic for a player in 2016-2017 NBA season.
+
+In team table, it comes with primary key "TEAM_ID","TEAM_NAME", "Owner", "Web", "Conference", "Arena", "Location", "Total_Salary" 
+those are specific infomation for the team in NBA.
+
+In team_performance table, it comes with primary key "TEAM_ID", "GP", "W", "L", "W_PCT", "MIN", "FGM", "FGA", "FG_PCT", "FG3M", "FG3A", "FG3_PCT", "FTM", FTA, FT_PCT, "OREB", "DREB", "REB", "AST", "TOV", "STL", "BLK", "BLKA", "PF", PFD, PTS, PLUS_MINUS, "GP_RANK", "W_RANK", "L_RANK", "W_PCT_RANK", "MIN_RANK", FGM_RANK, FGA_RANK, "FG_PCT_RANK", "FG3M_RANK", "FG3A_RANK", "FG3_PCT_RANK", FTM_RANK, FTA_RANK, "FT_PCT_RANK", "OREB_RANK", "DREB_RANK", "REB_RANK", AST_RANK, TOV_RANK, STL_RANK, "BLK_RANK", "BLKA_RANK", "PF_RANK", "PFD_RANK", PTS_RANK, "PLUS_MINUS_RANK", "CFID" those are the specific statistic for a team in 2016-2017 NBA season.
